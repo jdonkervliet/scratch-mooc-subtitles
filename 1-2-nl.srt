@@ -1,0 +1,175 @@
+1
+00:00:00,350 --> 00:00:02,940
+Hi!
+Als je het linkje gevolgd hebt in de online
+
+2
+00:00:02,940 --> 00:00:05,500
+omgeving,
+dan ben je bij dit spel uitgekomen.
+
+3
+00:00:05,500 --> 00:00:09,760
+Zoals je ziet zit onze vriendin Giga opgesloten
+in het doolhof,
+
+4
+00:00:09,760 --> 00:00:13,490
+maar verder gebeurt er nog niks in het spel.
+Maar, dat gaan wij samen oplossen.
+
+5
+00:00:13,490 --> 00:00:17,000
+Ik ga je laten zien hoe je van dit plaatje
+een echt spel kan maken.
+
+6
+00:00:17,000 --> 00:00:20,150
+Let maar op.
+Misschien is het je opgevallen dat hier allemaal
+
+7
+00:00:20,150 --> 00:00:25,720
+programmeer-blokken staan met rare opdrachten.
+Dat zijn precies de opdrachten die wij aan
+
+8
+00:00:25,720 --> 00:00:29,880
+Giga kunnen geven, zodat ze gaat bewegen.
+Het eerste dat we gaan doen is,
+
+9
+00:00:29,880 --> 00:00:33,909
+we gaan naar het blok 'gebeurtenissen', en
+dan pakken we dit blok vast.
+
+10
+00:00:33,909 --> 00:00:39,030
+'Wanneer er op de groene vlag wordt geklikt.'
+En die groene vlag die je daar ziet, kijk,
+
+11
+00:00:39,030 --> 00:00:43,020
+die staat ook hier.
+We kunnen er nu op klikken, maar er gebeurt
+
+12
+00:00:43,020 --> 00:00:46,879
+nog helemaal niks met Giga.
+We moeten nog een actie-blok toevoegen.
+
+13
+00:00:46,879 --> 00:00:50,989
+Ga naar 'beweging', en pak het blok 'verander
+x met 10'.
+
+14
+00:00:50,989 --> 00:00:54,629
+Als we dat er nou aan vast plakken,
+kijk als je dichtbij genoeg komt,
+
+15
+00:00:54,629 --> 00:00:57,670
+dan zie je dat het blokje eraan vast plakt.
+En nu staat er:
+
+16
+00:00:57,670 --> 00:01:01,569
+'Wanneer de groene vlag wordt aangeklikt,
+verander x met 10.'
+
+17
+00:01:01,569 --> 00:01:05,649
+Klik maar eens op de groene vlag.
+Klik, klik, klik, klik, klik.
+
+18
+00:01:05,649 --> 00:01:10,590
+Iedere keer gaat ze vooruit.
+Dat komt omdat Giga precies doet wat er in
+
+19
+00:01:10,590 --> 00:01:15,300
+de programmeer blokjes staat.
+Nou is het natuurlijk niet zo heel erg leuk
+
+20
+00:01:15,300 --> 00:01:17,359
+spel,
+als je iedere keer op die groene vlag moet
+
+21
+00:01:17,359 --> 00:01:19,020
+klikken.
+Dat is niet zo spannend.
+
+22
+00:01:19,020 --> 00:01:23,159
+Dus we gaan een andere gebeurtenis pakken.
+Ga maar terug naar gebeurtenissen.
+
+23
+00:01:23,159 --> 00:01:27,020
+En dan pakken we 'wanneer er op een knopje
+wordt geduwd'.
+
+24
+00:01:27,020 --> 00:01:32,039
+Nou willen we niet dat ze met de spatiebalk
+bestuurd wordt, maar we gaan 'pijltje rechts'
+
+25
+00:01:32,039 --> 00:01:36,530
+pakken.
+Pak die 'verander x' nou maar vast, kijk nu
+
+26
+00:01:36,530 --> 00:01:41,120
+is die weer los, en dan kunnen we hem aan
+dat onderste blokje plakken.
+
+27
+00:01:41,120 --> 00:01:44,340
+Klik.
+En nu, als je nu op het pijltje naar rechts
+
+28
+00:01:44,340 --> 00:01:48,119
+duwt, kijk, daar gaat ze.
+Dwars door het doolhof.
+
+29
+00:01:48,119 --> 00:01:52,250
+Dat was het pijltje naar rechts.
+Nou is het aan jou de opdracht om de andere
+
+30
+00:01:52,250 --> 00:01:55,969
+drie richtingen ook te maken.
+Dus pijltje naar links, pijltje omhoog, en
+
+31
+00:01:55,969 --> 00:01:59,100
+pijltje naar omlaag.
+Dat ga jij helemaal zelf programmeren.
+
+32
+00:01:59,100 --> 00:02:03,220
+Er is één tip die ik je wil meegeven.
+Dat is een belangrijk stukje programmeertaal
+
+33
+00:02:03,220 --> 00:02:06,710
+dat je moet weten.
+x-jes gaan van links naar rechts,
+
+34
+00:02:06,710 --> 00:02:11,160
+en y-tjes gaat van boven naar beneden.
+Dus als je de omhoog en omlaag gaat programmeren,
+
+35
+00:02:11,160 --> 00:02:16,220
+moet je in plaats van de x de y programmeren.
+Succes met je eerste programmeer opdracht!
+

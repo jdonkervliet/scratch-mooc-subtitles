@@ -1,0 +1,40 @@
+1
+00:00:00,329 --> 00:00:03,260
+Hallo allemaal!
+Welkom bij ScratchX met Felienne.
+
+2
+00:00:03,260 --> 00:00:08,660
+In deze online cursus ga ik je stap voor stap,
+in zes weken, leren programmeren met Scratch.
+
+3
+00:00:08,660 --> 00:00:13,060
+Iedere week maken we een ander spel,
+en ik ga je helemaal uitleggen hoe je de spellen
+
+4
+00:00:13,060 --> 00:00:16,660
+in elkaar moet zetten.
+In het eerste filmpje gaan we werken aan dit
+
+5
+00:00:16,660 --> 00:00:19,519
+spel.
+Giga, onze vriendin, je ziet haar in de linker
+
+6
+00:00:19,519 --> 00:00:24,539
+bovenhoek, zit opgesloten in een doolhof.
+En ze moet ontsnappen door de sleutel onderaan
+
+7
+00:00:24,539 --> 00:00:28,560
+het doolhof te pakken.
+We gaan haar besturen en zorgen dat ze door
+
+8
+00:00:28,560 --> 00:00:31,970
+het doolhof heen kan navigeren.
+Tot ziens in het volgende filmpje.
+

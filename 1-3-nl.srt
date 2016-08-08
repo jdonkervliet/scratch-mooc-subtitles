@@ -1,0 +1,190 @@
+1
+00:00:01,500 --> 00:00:05,220
+Is je eerste programmeer opdracht gelukt?
+Als het gelukt is, dan heb je als het goed
+
+2
+00:00:05,220 --> 00:00:09,870
+is deze vier programmeer-blokken gemaakt.
+En als je dan op de pijltjes toetsen klikt,
+
+3
+00:00:09,870 --> 00:00:13,030
+dan gaat Giga alle kanten op.
+Kijk maar eens met mij mee.
+
+4
+00:00:13,030 --> 00:00:16,760
+Ze gaat naar rechts, en naar links, en omhoog,
+en omlaag.
+
+5
+00:00:16,760 --> 00:00:21,289
+Dat werkt helemaal goed.
+Er is alleen één probleem in ons programma.
+
+6
+00:00:21,289 --> 00:00:25,390
+Je hebt hier nog dat lege blok staat 'wanneer
+de groene pijl [vlag] wordt aangeklikt.'
+
+7
+00:00:25,390 --> 00:00:31,800
+Op zich geeft dat niks, maar wij programmeurs
+houden van een opgeruimde omgeving.
+
+8
+00:00:31,800 --> 00:00:36,450
+Dus je kunt dat blok opruimen.
+Als je het oppakt, en je legt het terug hier,
+
+9
+00:00:36,450 --> 00:00:39,710
+dan gaat het vanzelf weer weg.
+En dat is fijn, want dan staat het ons niet
+
+10
+00:00:39,710 --> 00:00:44,420
+in de weg bij het verder programmeren.
+Misschien heb je natuurlijk wel gezien dat
+
+11
+00:00:44,420 --> 00:00:47,530
+Giga dwars door de doolhof muren heen kan
+lopen.
+
+12
+00:00:47,530 --> 00:00:51,740
+Dat is niet helemaal de bedoeling.
+Want zo is het natuurlijk niet echt een spannend
+
+13
+00:00:51,740 --> 00:00:54,350
+doolhof.
+Dus onze volgende programmeer opdracht is
+
+14
+00:00:54,350 --> 00:00:57,670
+om te zorgen dat Giga niet door de muur heen
+kan lopen.
+
+15
+00:00:57,670 --> 00:01:02,590
+Wat we daarvoor gaan gebruiken is een herhaal-blok.
+Ga maar met mij mee naar 'besturen'.
+
+16
+00:01:02,590 --> 00:01:10,250
+En dan pak je hier een herhaal-blok.
+Dat herhaal blok gaan we nu vastplakken aan
+
+17
+00:01:10,250 --> 00:01:15,990
+een nieuwe 'wanneer de groene vlag wordt aangeklikt'-blok.
+Dus we leggen hem weer terug, en we plakken
+
+18
+00:01:15,990 --> 00:01:20,030
+hem vast aan het herhaal blok.
+Dus dat betekent dat iedere keer als we op
+
+19
+00:01:20,030 --> 00:01:23,920
+de groene vlag klikken, dat er hier in dat
+blok iets herhaald wordt.
+
+20
+00:01:23,920 --> 00:01:27,560
+En je ziet dat nu al ook, omdat dat herhaal-blok
+nu helemaal geel wordt.
+
+21
+00:01:27,560 --> 00:01:31,560
+Omdat die blokken nu aan het draaien zijn,
+zeg maar.
+
+22
+00:01:31,560 --> 00:01:36,100
+Iets dat je in een herhaal blok stopt, dat
+wordt, nou ja het woord zegt het natuurlijk
+
+23
+00:01:36,100 --> 00:01:41,890
+al, de hele tijd herhaald.
+Dus in programmeer taal noemen we zo'n herhaal-blok
+
+24
+00:01:41,890 --> 00:01:45,030
+een 'lus'.
+Denk maar aan de lus die je in je veters legt,
+
+25
+00:01:45,030 --> 00:01:47,950
+die ik ook rond, net als zo'n herhaal blok
+rond is.
+
+26
+00:01:47,950 --> 00:01:50,800
+Dus iets dat je daar in stopt dat gaat de
+hele tijd gebeuren.
+
+27
+00:01:50,800 --> 00:01:55,890
+En het is nu aan jou om een paar dingen uit
+te proberen die je daar in kan stoppen, dat
+
+28
+00:01:55,890 --> 00:01:58,659
+de hele tijd herhaald wordt.
+Een aantal dingen die je bijvoorbeeld zou
+
+29
+00:01:58,659 --> 00:02:01,070
+kunnen proberen,
+is bijvoorbeeld zoiets als dit.
+
+30
+00:02:01,070 --> 00:02:07,820
+Je pakt 'verander x met 10'.
+Dan pak je een wacht-blok,
+
+31
+00:02:07,820 --> 00:02:13,330
+en dan pak je weer een 'verander x met 10',
+maar nu ga je hem op -10 zetten.
+
+32
+00:02:13,330 --> 00:02:16,800
+Net zoals we daarnet hebben gedaan..
+Oeps, geen -100.
+
+33
+00:02:16,800 --> 00:02:20,569
+Net zoals we daarnet hebben gedaan met het
+besturen.
+
+34
+00:02:20,569 --> 00:02:25,920
+Nu zeg je, weer een wacht-blok.
+En leg jij nou maar eens uit in de volgende
+
+35
+00:02:25,920 --> 00:02:29,450
+opdracht wat er nu precies gebeurt in dat
+herhaal blokje.
+
+36
+00:02:29,450 --> 00:02:32,100
+Klik op de groene vlag, kijk maar eens wat
+Giga doet,
+
+37
+00:02:32,100 --> 00:02:36,230
+en in de volgende opdracht gaan we je dan
+vragen wat er nou precies is die herhaal-opdracht
+
+38
+00:02:36,230 --> 00:02:37,660
+gebeurt.
+Succes!
+

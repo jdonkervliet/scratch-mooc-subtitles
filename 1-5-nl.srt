@@ -1,0 +1,280 @@
+1
+00:00:01,090 --> 00:00:06,230
+Nou, als je alle opdrachten goed had,
+dan snap je zeker hoe een als-dan-blok werkt.
+
+2
+00:00:06,230 --> 00:00:09,910
+Je weet nu wel hoe het moet,
+dus we gaan het spel wat spannender maken.
+
+3
+00:00:09,910 --> 00:00:14,480
+In plaats van dat Giga 'auw!' gaat zeggen
+gaan haar terug naar het begin van het doolhof
+
+4
+00:00:14,480 --> 00:00:17,190
+sturen.
+Kijk maar eens hoe dat moet.
+
+5
+00:00:17,190 --> 00:00:22,160
+We gaan naar het blokje 'beweging' en daar
+zie je een heel groot blok staan.
+
+6
+00:00:22,160 --> 00:00:25,130
+Helemaal hier, het is zo groot, het past niet
+eens in die tussen balk.
+
+7
+00:00:25,130 --> 00:00:29,770
+Er staat 'schuif in 1 seconde naar een xje
+en een ytje.'
+
+8
+00:00:29,770 --> 00:00:34,440
+Pak dat blok maar eens op,
+en dat gaan we zetten op de plek onder 'zeg
+
+9
+00:00:34,440 --> 00:00:37,380
+auw!'
+Dus als Giga 'auw!' heeft gezegd,
+
+10
+00:00:37,380 --> 00:00:40,200
+dat gaat vanzelf,
+dan gaat ze daarna terug schuiven.
+
+11
+00:00:40,200 --> 00:00:44,430
+Dan is natuurlijk een van onze vragen
+'welke getallen moeten we daar nou bij die
+
+12
+00:00:44,430 --> 00:00:47,510
+x en die y invullen, zodat ze naar de goede
+plek gaat?'
+
+13
+00:00:47,510 --> 00:00:52,059
+Die x en die y die er nu staan, dat is de
+plek waar Giga nu staat.
+
+14
+00:00:52,059 --> 00:00:57,180
+En dat kan je zien helemaal onderaan je scherm,
+bij de sleutel.
+
+15
+00:00:57,180 --> 00:01:02,680
+Hier staat een xje en een ytje.
+En dat geeft precies aan op welke plek je
+
+16
+00:01:02,680 --> 00:01:04,989
+muis nu wijst.
+Je ziet als mijn muis beweegt,
+
+17
+00:01:04,989 --> 00:01:10,789
+dan bewegen die xjes en die ytjes mee.
+Dus hierzo staat Giga ongeveer op die -37
+
+18
+00:01:10,789 --> 00:01:15,430
+en die 66 die in ons blok staan.
+Maar we willen natuurlijk dat ze ongeveer
+
+19
+00:01:15,430 --> 00:01:18,600
+daar naartoe gaat.
+Dus we kunnen even onderaan lezen,
+
+20
+00:01:18,600 --> 00:01:24,630
+wat staat daar nu?
+-218 en 105.. 154!
+
+21
+00:01:24,630 --> 00:01:30,380
+Nou, die getallen kunnen we hier invullen.
+Wat zei ik nou ongeveer?
+
+22
+00:01:30,380 --> 00:01:37,549
+-178 geloof ik, en 154.
+Als ik die intoets dan gaat ze dus precies
+
+23
+00:01:37,549 --> 00:01:40,810
+naar die bovenkant.
+Kijk maar eens mee of het werkt.
+
+24
+00:01:40,810 --> 00:01:46,179
+Ik klik op de groene vlag.
+Als ze nu tegen de muur aan loopt,
+
+25
+00:01:46,179 --> 00:01:50,270
+dan gaat ze helemaal naar de bovenkant.
+Oh, ik zit er geloof ik een beetje naast met
+
+26
+00:01:50,270 --> 00:01:54,040
+mijn -178.
+Hoeveel moest het eigenlijk zijn?
+
+27
+00:01:54,040 --> 00:01:56,679
+Ietsjes verder terug nog.
+Ohja, -214.
+
+28
+00:01:56,679 --> 00:01:59,359
+Dat is beter.
+Min tweehonderdveertien.
+
+29
+00:01:59,359 --> 00:02:02,219
+Laten we dat maar eens uitproberen of het
+de goede plek is.
+
+30
+00:02:02,219 --> 00:02:05,880
+We racen helemaal naar rechts, en hoppa, terug
+naar het begin.
+
+31
+00:02:05,880 --> 00:02:10,439
+Dat werkt mooi.
+Je kunt natuurlijk ook nog wat andere blokjes
+
+32
+00:02:10,439 --> 00:02:12,849
+toevoegen.
+Kijk zelf maar eens mee.
+
+33
+00:02:12,849 --> 00:02:17,030
+Bijvoorbeeld bij 'uiterlijken',
+kun je een aantal andere gezichtjes voor Giga
+
+34
+00:02:17,030 --> 00:02:20,010
+uitkiezen.
+En als je naar die uiterlijken aan de bovenkant
+
+35
+00:02:20,010 --> 00:02:22,310
+gaat.
+Dat is deze 'uiterlijken' die hier tussen
+
+36
+00:02:22,310 --> 00:02:25,610
+staat.
+Dan zie je dat Giga ook een boos gezichtje
+
+37
+00:02:25,610 --> 00:02:29,010
+heeft.
+Giga-d, hier zie je die naam onder het boze
+
+38
+00:02:29,010 --> 00:02:33,319
+gezichtje staan.
+Dus wat je kan doen, is als je hier naar programmeer-blok
+
+39
+00:02:33,319 --> 00:02:37,190
+uiterlijken gaat,
+kun je zeggen 'verander het uiterlijk naar
+
+40
+00:02:37,190 --> 00:02:39,519
+Giga-d.'
+Daar staan al die gezichtjes in.
+
+41
+00:02:39,519 --> 00:02:43,680
+Dus ik kan die hier onder zetten.
+En dan gaat ze niet alleen terug naar het
+
+42
+00:02:43,680 --> 00:02:45,719
+begin,
+niet alleen zegt ze 'auw!',
+
+43
+00:02:45,719 --> 00:02:51,689
+maar ze gaat ook een boos gezichtje opzetten.
+Je ziet dat ze nu al een boos gezichtje heeft,
+
+44
+00:02:51,689 --> 00:02:55,370
+dus we willen een blij gezichtje als ze niet
+de muur raakt.
+
+45
+00:02:55,370 --> 00:02:57,829
+En het blije gezichtje,
+heb je misschien wel gezien,
+
+46
+00:02:57,829 --> 00:03:02,620
+dat was de Giga-a.
+Als we nu op de groene vlag klikken, dan kijkt
+
+47
+00:03:02,620 --> 00:03:05,540
+ze blij.
+Kijk maar, ze heeft een mooie glimlach op
+
+48
+00:03:05,540 --> 00:03:09,510
+haar gezicht.
+Maar als we nu tegen de groene muur aan gaan,
+
+49
+00:03:09,510 --> 00:03:12,330
+dan kijkt ze boos totdat ze weer terug bij
+het begin is.
+
+50
+00:03:12,330 --> 00:03:17,000
+En dan kijkt ze weer blij.
+Experimenteer jij maar eens met andere blokken
+
+51
+00:03:17,000 --> 00:03:19,349
+die je kan gebruiken als Giga tegen de muur
+botst,
+
+52
+00:03:19,349 --> 00:03:22,920
+of niet tegen de muur botst.
+Je kan ook eens kijken bij het 'geluiden'
+
+53
+00:03:22,920 --> 00:03:25,959
+blokje,
+want je kan Giga ook een geluidje laten maken
+
+54
+00:03:25,959 --> 00:03:29,550
+als ze tegen de muur aan botst.
+Probeer maar eens uit wat voor blokken er
+
+55
+00:03:29,550 --> 00:03:31,980
+allemaal zijn.
+In de volgende opdracht gaan we je vragen
+
+56
+00:03:31,980 --> 00:03:34,340
+wat je allemaal hebt uitgevonden.
+Tot straks!
+

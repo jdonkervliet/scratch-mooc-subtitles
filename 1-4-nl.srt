@@ -1,0 +1,320 @@
+1
+00:00:00,900 --> 00:00:03,600
+Nou, nu weet je wel hoe een herhaal-blok werkt,
+toch?
+
+2
+00:00:03,600 --> 00:00:08,180
+Iedere keer als het uitgevoerd wordt, gaan
+alle blokjes in het herhaal-blok aan.
+
+3
+00:00:08,180 --> 00:00:13,759
+Dus in dit geval, wat we nu hebben geprogrammeerd,
+gaat Giga iedere keer links, rechts, links,
+
+4
+00:00:13,759 --> 00:00:18,590
+rechts, en tussendoor wacht ze een tel.
+Dat herhaal-blok gaan we gebruiken om te kijken
+
+5
+00:00:18,590 --> 00:00:21,830
+of Giga al tegen de groene muur aan is gebotst.
+Kijk maar eens mee.
+
+6
+00:00:21,830 --> 00:00:26,380
+Deze blokjes gaan we uit het herhaal-blok
+halen.
+
+7
+00:00:26,380 --> 00:00:28,270
+En die kunnen we weer in het midden terug
+leggen.
+
+8
+00:00:28,270 --> 00:00:31,490
+Dus als je die bovenste vast pakt, dan plakt
+alles daaraan,
+
+9
+00:00:31,490 --> 00:00:33,620
+en als je hem dan hier in het midden legt,
+dan leg je ze weer terug.
+
+10
+00:00:33,620 --> 00:00:38,690
+Wat we gaan gebruiken is een 'als-dan-blok',
+dat zit ook bij besturen, hier bovenaan.
+
+11
+00:00:38,690 --> 00:00:43,370
+We pakken het als-dan-blok vast, en we klikken
+dat in het herhaal-blok.
+
+12
+00:00:43,370 --> 00:00:49,230
+En wat zo'n als-dan-blok doet is: alle blokjes
+die je in de binnenkant stopt worden alleen
+
+13
+00:00:49,230 --> 00:00:53,540
+uitgevoerd als het blokje wat je daar in het
+driehoekje stopt, als dat waar is.
+
+14
+00:00:53,540 --> 00:00:58,930
+En wat we daar gaan gebruiken is, we gaan
+kijken of Giga al tegen de muur aan is gebotst.
+
+15
+00:00:58,930 --> 00:01:02,730
+Dus we gaan naar 'waarnemen', die klikken
+we aan.
+
+16
+00:01:02,730 --> 00:01:06,750
+En daar staat 'raak ik kleur'.
+En daar staat nu blauw, dat gaan we zo dadelijk
+
+17
+00:01:06,750 --> 00:01:09,630
+oplossen.
+Pak eerst maar eens dat 'raak ik kleur'-blok.
+
+18
+00:01:09,630 --> 00:01:12,970
+En je ziet dat dat van die driehoekige kantjes
+heeft,
+
+19
+00:01:12,970 --> 00:01:15,440
+net als daar in die als-dan moet.
+Dus dat past precies.
+
+20
+00:01:15,440 --> 00:01:21,420
+Laat hem maar los, nn dan klikt ie er in.
+Nu staat er 'als raak ik kleur blauw.'
+
+21
+00:01:21,420 --> 00:01:25,700
+Dat is niet de goede kleur van de muur.
+Dat kunnen we aanpassen als je eerst op dat
+
+22
+00:01:25,700 --> 00:01:29,710
+gekleurde vakje klikt, en dan zie je dat het
+een handje wordt, je muis aanwijzer.
+
+23
+00:01:29,710 --> 00:01:32,670
+En dan gaan we naar die groene [muur], en
+dan klikken we nog een keer.
+
+24
+00:01:32,670 --> 00:01:38,400
+En nu staat er 'herhaal als raak ik groen.'
+En dat is natuurlijk de muur.
+
+25
+00:01:38,400 --> 00:01:42,950
+Nou, nu is ons blokje nog leeg. Dus je kunt
+wel op die groene vlag klikken,
+
+26
+00:01:42,950 --> 00:01:47,140
+en als ik nu tegen die muur aan loop dan gebeurt
+er nog steeds helemaal niks.
+
+27
+00:01:47,140 --> 00:01:50,350
+Want, die lus is nog leeg.
+Daar moeten we nog iets in gaan stoppen.
+
+28
+00:01:50,350 --> 00:01:55,020
+Nou, we gaan makkelijk beginnen.
+Wat we eerst maar eens gaan programmeren is
+
+29
+00:01:55,020 --> 00:01:57,110
+dat Giga 'auw!' zegt als ze tegen de muur
+aan loopt.
+
+30
+00:01:57,110 --> 00:02:00,640
+Dus we gaan naar 'uiterlijken',
+en dan pakken we die 'zeg hallo' hier,
+
+31
+00:02:00,640 --> 00:02:04,880
+en die stoppen we in het midden.
+En dan gaan we die 'hallo' eventjes weghalen,
+
+32
+00:02:04,880 --> 00:02:07,570
+en daar zetten we in 'auw!'
+Je mag er natuurlijk ook iets anders in zetten,
+
+33
+00:02:07,570 --> 00:02:12,279
+je mag programmeren wat je wilt.
+Kijk, probeer dit programma maar eens uit
+
+34
+00:02:12,279 --> 00:02:16,370
+door op de groene vlag te klikken.
+Als we nu tegen de muur aan lopen, auw!
+
+35
+00:02:16,370 --> 00:02:20,920
+Dan zegt Giga 'auw!'
+Dat is wel de bedoeling van het spel natuurlijk,
+
+36
+00:02:20,920 --> 00:02:22,780
+dat we niet tegen de groene muur aan moeten
+lopen.
+
+37
+00:02:22,780 --> 00:02:28,150
+Als je het spel hebt uitgeprobeerd, dan zie
+je wel dat er nog één probleem is.
+
+38
+00:02:28,150 --> 00:02:32,379
+Als we eenmaal 'auw!' hebben gezegd,
+dat blijft die 'auw!' voor altijd staan.
+
+39
+00:02:32,379 --> 00:02:35,689
+Kijk maar, ook als we niet meer tegen de groene
+muur aan lopen.
+
+40
+00:02:35,689 --> 00:02:40,389
+Want we hebben alleen maar gezegd 'als raak
+ik kleur groen, dan auw!'
+
+41
+00:02:40,389 --> 00:02:43,590
+Dus we moeten ons programma een heel klein
+beetje gaan aanpassen.
+
+42
+00:02:43,590 --> 00:02:48,019
+Ga maar eens terug naar besturen.
+En dan zie je dat daar een als-dan-blok in
+
+43
+00:02:48,019 --> 00:02:53,641
+zit, maar ook een als-dan-anders-blok.
+En dat gaan we gebruiken.
+
+44
+00:02:53,641 --> 00:02:56,180
+We gaan even dat als-dan-anders-blok hier
+naast zetten.
+
+45
+00:02:56,180 --> 00:02:58,890
+Want we gaan dat in de plaats zetten voor
+het als-dan-blok.
+
+46
+00:02:58,890 --> 00:03:03,390
+Dus pak die 'raak ik kleur' maar op, en leg
+die daarin.
+
+47
+00:03:03,390 --> 00:03:09,690
+En dan zetten we die 'auw!' aan de bovenkant.
+Dit gaan we eruit halen, het originele als-dan-blok,
+
+48
+00:03:09,690 --> 00:03:14,269
+en dan stoppen we dit erin.
+Dit programma doet precies hetzelfde als het
+
+49
+00:03:14,269 --> 00:03:17,730
+programma dat we net hadden.
+Want, er staat toch nog niks in het anders-blok.
+
+50
+00:03:17,730 --> 00:03:22,739
+Als ik nu op de groene vlag klik, kijk maar,
+dan zeg ik 'auw!', maar het gaat nooit meer
+
+51
+00:03:22,739 --> 00:03:24,959
+weg.
+Dus we zijn al in de buurt, want we hebben
+
+52
+00:03:24,959 --> 00:03:30,299
+nu een leeg vakje hier, binnen de 'anders',
+waar we iets anders kunnen gaan zeggen als
+
+53
+00:03:30,299 --> 00:03:34,569
+Giga niet de muur raakt.
+Dus ga maar naar 'uiterlijken',
+
+54
+00:03:34,569 --> 00:03:37,950
+en dan pakken we nog een zeg-blok.
+En dat stoppen we hier in.
+
+55
+00:03:37,950 --> 00:03:41,790
+Als ik dat zeg blok nou leeg maak, met de
+'delete' knop,
+
+56
+00:03:41,790 --> 00:03:44,919
+dat betekent dat het spreekballonnetje weggaat.
+Kijk maar eens mee.
+
+57
+00:03:44,919 --> 00:03:48,189
+Ik klik op de groene vlag.
+Nu zegt ze 'auw!'
+
+58
+00:03:48,189 --> 00:03:54,049
+En nou zegt ze geen 'auw!' meer.
+Kijk, dat begint al ergens op te lijken, hè?
+
+59
+00:03:54,049 --> 00:03:58,299
+In de volgende puzzels die je nu te zien krijgt
+ga je een beetje oefenen met de als-dan-blokken,
+
+60
+00:03:58,299 --> 00:04:01,969
+zodat we zeker weten dat je goed snapt wat
+een als-dan-blok is,
+
+61
+00:04:01,969 --> 00:04:05,849
+en wat een als-dan-anders-blok is.
+En daarna gaan we programmeren dat Giga niet
+
+62
+00:04:05,849 --> 00:04:08,680
+alleen maar 'auw!' zegt als ze tegen de muur
+loopt,
+
+63
+00:04:08,680 --> 00:04:11,120
+maar dat ze echt terug gaat naar het begin
+van het doolhof,
+
+64
+00:04:11,120 --> 00:04:14,079
+om het opnieuw uit te proberen.
+Succes!
+
