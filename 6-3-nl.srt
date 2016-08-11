@@ -1,0 +1,119 @@
+1
+00:00:00,130 --> 00:00:04,810
+Kijk zo spring je supervloeiend. In plaats
+van in één keer omhoog, Herhalen we een
+
+2
+00:00:04,810 --> 00:00:12,660
+aantal keer omhoog. Wacht even en een aantal
+keer omlaag. Kijk maar eens. Nou dat springt
+
+3
+00:00:12,660 --> 00:00:16,759
+toch hartstikke soepel? En je ziet dat nu
+als als je springt en naar links of naar rechts
+
+4
+00:00:16,759 --> 00:00:23,570
+duwt, dat je ook in de lucht nog van richting
+kan veranderen. Misschien heb je al wel gezien,
+
+5
+00:00:23,570 --> 00:00:29,509
+dat in dit spel ook een muur zit. Kijk hier,
+muur. Maar die muur is nog onzichtbaar. Die
+
+6
+00:00:29,509 --> 00:00:34,160
+kunnen we naar boven brengen als we op dat
+i'tje duwen en dan klik je op tonen. En dan
+
+7
+00:00:34,160 --> 00:00:40,020
+zie je opeens een mooie muur staan. In zo'n
+soort Mario spel, wil je natuurlijk ook op
+
+8
+00:00:40,020 --> 00:00:47,300
+de muren springen. Maar helaas, nu lukt dat
+nog niet. Want je gaat steeds omhoog en omlaag,
+
+9
+00:00:47,300 --> 00:00:54,250
+precies met 60 he, 20 keer 3, en dan weer
+60 omlaag, 20 keer -3. Wat je eigenlijk zou
+
+10
+00:00:54,250 --> 00:01:00,220
+willen is op die muur landen, dus we gaan
+hier dit herhaalblok weghalen. En in plaats
+
+11
+00:01:00,220 --> 00:01:06,819
+van een 'herhaal 20 keer', ga ik een 'herhaal
+tot' pakken. Nou weet jij nou wat er in die
+
+12
+00:01:06,819 --> 00:01:16,070
+'tot' moet komen? In plaats van 60 naar beneden,
+gaan we naar beneden tot... Weet jij het?
+
+13
+00:01:16,070 --> 00:01:22,829
+Nou dat was misschien een beetje lastig, maar
+kijk wat kan je nou gebruiken? Ik kan zeggen,
+
+14
+00:01:22,829 --> 00:01:28,220
+ik ga naar beneden tot 'raak ik kleur' en
+dan pak ik die bruine kleur. Want toevallig,
+
+15
+00:01:28,220 --> 00:01:33,880
+das eigenlijk niet toevallig he, want dat
+heb ik zo gemaakt, zijn die muur en die grond
+
+16
+00:01:33,880 --> 00:01:41,619
+allebei bruin. Dus als ik nu hierop duw en
+ik spring. Kijk ik ga naar beneden tot ik
+
+17
+00:01:41,619 --> 00:01:48,060
+de bruine grond raak, maar ook naar beneden
+tot ik de bruine muur raak. Nou is dit programma
+
+18
+00:01:48,060 --> 00:01:56,249
+nog niet helemaal goed. Want, als ik nu hier
+loop, kijk, dan blijf ik in de lucht hangen...
+
+19
+00:01:56,249 --> 00:02:02,899
+Dus het springen gaat nu goed, maar het lopen
+daar gaat iets nog niet helemaal goed. Maar
+
+20
+00:02:02,899 --> 00:02:07,520
+jij, als een volleerde programmeur, bijna
+in de laatste les, jij kan dat eigenlijk al
+
+21
+00:02:07,520 --> 00:02:13,640
+beter dan ik. Dus ik denk dat jij mijn programma
+wel kan repareren. Zo dat het hetzelfde blijft
+
+22
+00:02:13,640 --> 00:02:19,311
+als nu, dus Giga springt omhoog en omlaag,
+op de grond, op de muur, maar als ze van der
+
+23
+00:02:19,311 --> 00:02:23,640
+muurtje afloopt, moet ze wel naar beneden
+vallen en niet in de lucht blijven hangen
+
+24
+00:02:23,640 --> 00:02:25,610
+zoals hier. Maak jij het goede programma?
+

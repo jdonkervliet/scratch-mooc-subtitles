@@ -1,0 +1,149 @@
+1
+00:00:00,120 --> 00:00:05,540
+Zo kan je Giga ook laten bewegen. Je herhaalt
+de hele tijd, als, en dan pak je zo'n blok
+
+2
+00:00:05,540 --> 00:00:10,679
+bij waarnemen, en daar ga je steeds maar kijken
+of de pijltjes zijn ingedrukt. En als je ziet
+
+3
+00:00:10,679 --> 00:00:18,560
+hoe dat spel werkt, dan zie je dat heel mooi
+vlot, vloeiend door dat level heen glijdt.
+
+4
+00:00:18,560 --> 00:00:23,650
+En dat is een stuk makkelijker dan iedere
+keer een klein stukje bij zo'n soort Mario
+
+5
+00:00:23,650 --> 00:00:29,180
+spel, dat noemen we trouwens een platformer.
+Dat had je ook al bovenin zien staan. Het
+
+6
+00:00:29,180 --> 00:00:34,940
+enige wat natuurlijk bij zo'n Mario spel ook
+willen, is springen! Niet alleen links en
+
+7
+00:00:34,940 --> 00:00:38,690
+rechts, maar ook springen. Niet zoals bij
+het doolhof met een pijltje omhoog, dat zou
+
+8
+00:00:38,690 --> 00:00:43,170
+een beetje raar zijn. We willen echt een soort
+sprongetje gaan maken. Nou hier is eerst een
+
+9
+00:00:43,170 --> 00:00:47,800
+kwisje. Denk daar eens even over na, hoe zou
+je zo'n sprongetje programmeren? Probeer maar
+
+10
+00:00:47,800 --> 00:00:53,609
+eens even wat blokjes uit, kijk wat er al
+staat, verander dat een beetje en probeer
+
+11
+00:00:53,609 --> 00:00:59,780
+of jij Giga kan laten springen. Hierbij één
+tip die ik je wil meegeven, als ze bovenin
+
+12
+00:00:59,780 --> 00:01:03,789
+is, moet je natuurlijk even wachten tot ze
+weer naar beneden gaat, want als je 'maak
+
+13
+00:01:03,789 --> 00:01:10,160
+y 10' en '-10' doet, dan zul je zien dat je
+niets ziet, omdat scratch het heel snel achter
+
+14
+00:01:10,160 --> 00:01:18,751
+elkaar uitprogrammeert. Probeer het maar.
+Ik denk dat jij ongeveer gedaan hebt, als
+
+15
+00:01:18,751 --> 00:01:25,230
+je een beetje ervaren programmeur al bent,
+is je maakt hier een kopietje van en dan kan
+
+16
+00:01:25,230 --> 00:01:32,030
+je hier natuurlijk 'spatie' van pakken. Wat
+willen we dan doen? We willen niet de x, maar
+
+17
+00:01:32,030 --> 00:01:40,660
+de y veranderen. Dus je zou zo'n 'verander
+y' kunnen pakken met bijvoorbeeld 60. Even
+
+18
+00:01:40,660 --> 00:01:49,610
+kijken hoe dat gaat. Kijk dat is 60, dat zou
+je kunnen doen en dan wacht je even. Bijvoorbeeld,
+
+19
+00:01:49,610 --> 00:01:57,660
+uhh, nou laten we zeggen 0.1 seconden. En
+dan kan je Giga weer naar beneden laten gaan,
+
+20
+00:01:57,660 --> 00:02:05,930
+dus bijvoorbeeld -60. Zo zou je het kunnen
+doen. Moeten we haar wel even terug aan het
+
+21
+00:02:05,930 --> 00:02:12,239
+begin zetten. En als je nu op de spatiebalk
+duwt, gaat ze omhoog en dan weer omlaag. Kijk!
+
+22
+00:02:12,239 --> 00:02:18,480
+Dat is mooi, hè? Laten we ook nog even één
+blokje bovenaan zetten, waarbij we zorgen
+
+23
+00:02:18,480 --> 00:02:27,439
+dat Giga op de goede hoogte begint. Zo. Kijk.
+Oh, oeps! We moeten even naar beneden, wat
+
+24
+00:02:27,439 --> 00:02:38,249
+is die y? Min uh, -170 ongeveer. Zo begint
+ze goed, kjik. Dat is al een mooi springspel.
+
+25
+00:02:38,249 --> 00:02:47,280
+Maar er gaat iets nog niet helemaal goed,
+het is niet helemaal zo vloeiend als links
+
+26
+00:02:47,280 --> 00:02:50,950
+en rechts bewegen. Denk bijvoorbeeld ook aan
+die flappy bird die we vorige week gemaakt
+
+27
+00:02:50,950 --> 00:02:56,400
+hebben, die gaat omhoog en dan wil je eigenlijk
+steeds een beetje naar beneden in plaats van
+
+28
+00:02:56,400 --> 00:03:02,120
+'hop hop', 'hop hop'. Dus jouw puzzel is:
+hoe zou je dat bewegen nou wat vloeiender
+
+29
+00:03:02,120 --> 00:03:08,480
+kunnen maken?Dus niet één, twee, maar 'zwoep',
+'zwooo'. Kies jij het goede programma uit?
+
+30
+00:03:08,480 --> 00:03:09,040
+Succes!
+

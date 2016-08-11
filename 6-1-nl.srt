@@ -1,0 +1,145 @@
+1
+00:00:00,960 --> 00:00:07,210
+Welkom jongens bij les 6 van ScratchX met
+Felienne. Deze week is onze grote vriendin
+
+2
+00:00:07,210 --> 00:00:13,469
+van les 1, Giga, terug om mee te gaan spelen.
+Maar deze week gaan we een soort Mario spel
+
+3
+00:00:13,469 --> 00:00:19,320
+maken. Dus Giga door het level rennen, springen
+en straks monsters verpletteren. Laten we
+
+4
+00:00:19,320 --> 00:00:26,550
+maar eens beginnen met Giga gewoon door het
+level te laten lopen. Kijk mee. Maar dan denk
+
+5
+00:00:26,550 --> 00:00:30,710
+jij misschien: 'Door het level lopen? Dat
+heeft Giga al eerder gedaan! Ik heb helemaal
+
+6
+00:00:30,710 --> 00:00:37,829
+geen zin om dat opnieuw te programmeren, want
+in dat doolhof van les 1 daar werkte Giga
+
+7
+00:00:37,829 --> 00:00:42,840
+ook al prima!' Nou dan heb je helemaal gelijk!
+Wat je zou kunnen doen, is gebruik maken van
+
+8
+00:00:42,840 --> 00:00:46,940
+de rugzak hieronder. Misschien heb je dat
+wel al zien staan, de rugzak, als je hier
+
+9
+00:00:46,940 --> 00:00:52,000
+op dat driehoekje klikt, dan gaat hij open
+en in die rugzak kun je blokjes verplaatsen
+
+10
+00:00:52,000 --> 00:00:57,750
+van het ene naar het andere programma. Dus
+als ik dit hierin sleep: pijltje rechts en
+
+11
+00:00:57,750 --> 00:01:04,280
+pijltje links en ik ga dan naar de platformer
+daar staat ook een rugzak en daar zitten die
+
+12
+00:01:04,280 --> 00:01:10,610
+blokjes dan in. Die kan ik meteen gebruiken.
+Dus ook hier kan ik ze meteen neerzetten,
+
+13
+00:01:10,610 --> 00:01:15,790
+rechts en links, en zonder iets te programmeren,
+werkt het spel dus meteen. Want als ik nu
+
+14
+00:01:15,790 --> 00:01:22,380
+naar rechts ga of naar links, dan doet hij
+het al. Alleen het zou wel iets mooier zijn
+
+15
+00:01:22,380 --> 00:01:28,810
+he, als Giga, als ze achteruit loopt, ook
+omdraait. Dat hebben we in les 1 met uiterlijken
+
+16
+00:01:28,810 --> 00:01:32,750
+gedaan, dat zou je natuurlijk kunnen doen,
+je zou hier een uiterlijk bij kunnen zetten
+
+17
+00:01:32,750 --> 00:01:37,869
+wat omdraait. Dat had ik stiekem de eerste
+les voor jullie gedaan, maar wat je ook kan
+
+18
+00:01:37,869 --> 00:01:43,479
+doen is hier een 'richt' blok voor gebruiken.
+Je kan zeggen als je naar rechts gaat, richt
+
+19
+00:01:43,479 --> 00:01:50,320
+naar rechts. En als je naar links gaat, richt
+naar links. Kijk als ik nu naar rechts gaat,
+
+20
+00:01:50,320 --> 00:01:55,359
+kijkt ze naar rechts. En als ze naar links
+gaat. Ah! Wat is dat nou? Ze staat op der
+
+21
+00:01:55,359 --> 00:02:00,640
+kop! Dat is een beetje jammer. Je kan het
+niet zien, maar eigenlijk is Giga hier ondersteboven
+
+22
+00:02:00,640 --> 00:02:06,950
+komen te staan. En dat komt door de draaistijl.
+Als ik op dit 'i'tje klik, dan zie je hier
+
+23
+00:02:06,950 --> 00:02:12,200
+draaistijl. Helemaal rond, Links/Rechts en
+deze is helemaal niet draaien. Dus als ik
+
+24
+00:02:12,200 --> 00:02:19,880
+Giga nu terug zet, dan draait ze mooi naar
+links en naar rechts. Op zich is dat al een
+
+25
+00:02:19,880 --> 00:02:24,640
+aardig programma, alleen is het helaas zo
+dat Giga, dat heb je misschien bij les 1 ook
+
+26
+00:02:24,640 --> 00:02:29,160
+wel gezien, een beetje schokkerig beweegt.
+Als je op dat pijltje duwt, dan duurt het
+
+27
+00:02:29,160 --> 00:02:34,280
+eventjes voor ze op gang komt en dan gaat
+ze pas voort. Dus in de eerste programmeeropdracht
+
+28
+00:02:34,280 --> 00:02:40,450
+gaan wij samen Giga wat vloeiender laten bewegen
+door gebruik te maken van een 'herhaal' en
+
+29
+00:02:40,450 --> 00:02:44,360
+een 'als' blok. Ik zie hoe jij dat heb gedaan
+in het volgende filmpje.
+
