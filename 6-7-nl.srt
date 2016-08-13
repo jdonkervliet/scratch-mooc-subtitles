@@ -1,0 +1,229 @@
+1
+00:00:00,380 --> 00:00:04,550
+Kijk ik heb het zo gemaakt, dit is de code
+van de muur en wat doet die muur?Als hij nou
+
+2
+00:00:04,550 --> 00:00:09,281
+het signaal 'schuiven maar' ontvangt, als
+hij helemaal op de rand is, begint hij weer
+
+3
+00:00:09,281 --> 00:00:14,139
+opnieuw. Maar anders, dat hadden we al, dan
+schuift hij gewoon lekker door. Als je dat
+
+4
+00:00:14,139 --> 00:00:19,489
+zo programmeert, kijk, dan kunnen we gewoon
+eindeloos door dat level heen blijven rennen.
+
+5
+00:00:19,489 --> 00:00:24,509
+Hop, daar gaat hij weer. Als ik nou eenmaal
+aan die kant ben als muur, dan, floep, daar
+
+6
+00:00:24,509 --> 00:00:29,640
+gaat hij. Nou dat is al een cool spel, hè?
+Het lijkt net alsof we heel erg ver kunnen
+
+7
+00:00:29,640 --> 00:00:35,120
+wandelen, maar eigenlijk is het gewoon 1 muur
+die steeds langskomt. Nou denk jij misschien:
+
+8
+00:00:35,120 --> 00:00:41,690
+'Er is 1 ding dat dit spel nog mist, namelijk
+vijanden!' Natuurlijk, we willen eigenlijk
+
+9
+00:00:41,690 --> 00:00:47,660
+wel iets in dat spel tegenkomen dat ons probeert
+te vangen anders is het een beetje saai. Dus
+
+10
+00:00:47,660 --> 00:00:54,079
+je mag van mij weer een cool monster uitkiezen.
+We gaan kiezen voor een nieuwe sprite, dus
+
+11
+00:00:54,079 --> 00:00:59,180
+klik hier maar 'nieuwe sprite uit de bibliotheek'.
+En je mag helemaal pakken wat je wil, maakt
+
+12
+00:00:59,180 --> 00:01:05,050
+mij geen verschil. Je kan een vliegtuig pakken
+of een ballerina, maar ik ga een lieveheersbeestje
+
+13
+00:01:05,050 --> 00:01:11,792
+pakken, want dat vind ik nou wel een leuke
+vijand. Ik ga kiezen voor de 'ladybug2'. Die
+
+14
+00:01:11,792 --> 00:01:17,590
+kies ik uit, dat wordt mijn vijand en die
+zet ik hier neer. Ik maak hem wel een klein
+
+15
+00:01:17,590 --> 00:01:22,890
+beetje kleiner, want zo'n heel groot monster,
+dat is me ook wel weer een beetje te eng.
+
+16
+00:01:22,890 --> 00:01:29,229
+Ietsjes groter, zo. Ja zo vind ik hem er wel
+mooi uitzien. Nou zou het leuk zijn als die
+
+17
+00:01:29,229 --> 00:01:36,850
+ladybug niet gewoon door het level alleen
+maar staat, maar als hij ook meeschuift. Want
+
+18
+00:01:36,850 --> 00:01:43,420
+wat er nu gebeurt, kijk maar eens even, die
+muur beweegt, maar die ladybug die schuift
+
+19
+00:01:43,420 --> 00:01:48,990
+helemaal niet door. Weet jij nou hoe je dit
+moet maken, zodat die ladybug ook doorschuift?
+
+20
+00:01:48,990 --> 00:01:53,659
+En ik zal je verklappen dat je hebt de goede
+blokjes al, je hoeft ze alleen maar even op
+
+21
+00:01:53,659 --> 00:02:01,079
+de juiste plek te krijgen. Nou dat is je vast
+gelukt hè? Want je kunt die code van de muur,
+
+22
+00:02:01,079 --> 00:02:06,200
+kan je gewoon herbruiken ook op de ladybug.
+En dan weet je misschien nog wel van de vorige
+
+23
+00:02:06,200 --> 00:02:13,060
+les, als je dit pakt en je legt dat daarop.
+Plop, dan zit hij hier ook in. En nu schuift
+
+24
+00:02:13,060 --> 00:02:18,890
+die ladybug lekker mee, door het level en
+die gaat ook de hele tijd rond, net als dat
+
+25
+00:02:18,890 --> 00:02:24,670
+de muur rond gaat. Dat is alvast een mooie
+verbetering. Maar het zou leuk zijn, als die
+
+26
+00:02:24,670 --> 00:02:29,980
+ladybug ook zou bewegen. In Mario heb je ook
+van die poppetje die steeds maar naar links
+
+27
+00:02:29,980 --> 00:02:37,030
+en rechts op en neer blijven bewegen. Dat
+gaan wij nu ook programmeren door gebruik
+
+28
+00:02:37,030 --> 00:02:44,230
+te maken van een variabele en die variabele
+noemen we 'kant'. En dat is, dat raad je waarschijnlijk
+
+29
+00:02:44,230 --> 00:02:51,550
+al, de kant die de ladybug of je eigen monster,
+he wat je maar hebt, op gaat bewegen. Dus
+
+30
+00:02:51,550 --> 00:02:58,070
+wat we gaan doen is, als je op de groene vlag
+klikt, dan maken we die kant, nou je mag het
+
+31
+00:02:58,070 --> 00:03:04,210
+zelf weten, links of rechts, maar ik ga kiezen
+voor links. Dus we beginnen op links en wat
+
+32
+00:03:04,210 --> 00:03:09,812
+ik dan graag zou willen dat jij gaat programmeren
+is, zorg er nou eens voor dat als de kant
+
+33
+00:03:09,812 --> 00:03:15,690
+op links staat, dat ladybug naar links gaat
+en als 'kant' op rechts staat dat ladybug
+
+34
+00:03:15,690 --> 00:03:25,150
+naar rechts gaat. Kan jij dat programmeren?
+Nou dat is denk ik wel gelukt, hè? Want die
+
+35
+00:03:25,150 --> 00:03:30,070
+'herhaal' blokken en die 'als' blokken die
+we daarvoor nodig hebben, die ken jij inmiddels
+
+36
+00:03:30,070 --> 00:03:41,020
+toch uit je hoofd. Dus als, een isje (=) gaan
+we daarvoor gebruiken, dus als 'kant = links',
+
+37
+00:03:41,020 --> 00:03:48,540
+zo, dan gaan we naar links met 'neem', je
+mag zelf een beetje kiezen hoe je de snelheid
+
+38
+00:03:48,540 --> 00:03:54,220
+instelt, maar ik zou zeggen -2 stappen, we
+willen het niet al te moeilijk maken. Dat
+
+39
+00:03:54,220 --> 00:04:00,900
+kan ik natuurlijk kopiëren, eronder plakken.
+En als 'kant = rechts' dan nemen we 2 stappen.
+
+40
+00:04:00,900 --> 00:04:07,680
+Dus de kant staat al op links, en dan zal
+je zien, kijk de ladybug gaat mooi naar links.
+
+41
+00:04:07,680 --> 00:04:13,460
+Alleen, ja we zetten die kant één keer op
+links, hij moet ook een keer op rechts, want
+
+42
+00:04:13,460 --> 00:04:18,921
+als je dit spel af laat lopen, dan blijft
+hij naar links gaan, maar dan plakt het monster
+
+43
+00:04:18,921 --> 00:04:23,940
+aan de kant omdat hij niet meer verder kan.
+Dus ik denk dat jij al weet wat jouw volgende
+
+44
+00:04:23,940 --> 00:04:30,690
+opdracht is. Kan jij dit nou maken, dat als
+jouw monster de rand raakt of de muur, dat
+
+45
+00:04:30,690 --> 00:04:37,820
+hij dan van kant verandert? Lukt het jou om
+het monster oneindig lang door het level heen
+
+46
+00:04:37,820 --> 00:04:40,150
+te laten lopen door die kant steeds te flippen?
+

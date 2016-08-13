@@ -1,0 +1,225 @@
+1
+00:00:00,799 --> 00:00:04,370
+Kijk nu staat het goed voor links, het zijn
+bijna de dezelfde blokjes, maar als je het
+
+2
+00:00:04,370 --> 00:00:09,530
+kopieert moet je er natuurlijk wel aan denken
+dat je links gaat en dat je ook Giga naar
+
+3
+00:00:09,530 --> 00:00:16,119
+links laat kijken bij het pijltje naar links.
+Dus kijk maar mee. Als ik nu het spel start
+
+4
+00:00:16,119 --> 00:00:21,929
+en ik ben aan de rechterkant van de muur,
+ik loop naar links en daar kan ik ook niet
+
+5
+00:00:21,929 --> 00:00:26,990
+verder. Maar als je wel eens Mario hebt gespeeld
+of een ander spel dan weet je natuurlijk eigenlijk
+
+6
+00:00:26,990 --> 00:00:31,769
+als je naar rechts loopt, dat je dan niet
+tot het einde van het level kan komen, omdat
+
+7
+00:00:31,769 --> 00:00:37,670
+dat level met jou mee opschuift. Dus dat gaan
+wij ook maken, zodat het level eindeloos rond
+
+8
+00:00:37,670 --> 00:00:44,019
+blijft lopen en je steeds maar weer over muurtjes
+heen kan springen. We gaan even die y-positie
+
+9
+00:00:44,019 --> 00:00:48,449
+uitzetten, want daar zijn we nu wel mee klaar,
+we gaan de x-positie aanzetten. Dan kun je
+
+10
+00:00:48,449 --> 00:00:54,219
+zien dat Giga nu op 81 staat en als je dan
+naar links gaat, kijk dan wordt hij lager
+
+11
+00:00:54,219 --> 00:00:58,500
+en weer hoger. Dus wat we eigenlijk zouden
+willen is dat als Giga in het midden is, rond
+
+12
+00:00:58,500 --> 00:01:04,659
+de nul, dat dan het level begint met opschuiven.
+En hiervoor gaan we een signaal gebruiken,
+
+13
+00:01:04,659 --> 00:01:09,190
+want we gaan dat opschuiven eigenlijk een
+beetje namaken doordat we tegen dat muurtje
+
+14
+00:01:09,190 --> 00:01:14,560
+gaan zeggen: 'He muurtje, schuif jij nou een
+beetje op naar die kant, dan lijkt het net
+
+15
+00:01:14,560 --> 00:01:19,870
+alsof Giga naar voren komt. Kijk maar eens
+mee. We gaan daarvoor een variabele....Uh,
+
+16
+00:01:19,870 --> 00:01:25,610
+sorry! We gaan daarvoor een signaal maken,
+dus we gaan naar 'gebeurtenissen' en we maken
+
+17
+00:01:25,610 --> 00:01:34,490
+een signaal 'schuiven maar'. Oh dat zijn hoofdletters,
+dat is wel een beetje heel enthousiast. 'schuiven
+
+18
+00:01:34,490 --> 00:01:41,310
+maar' dat gaan we gebruiken en dat signaal
+'schuiven maar' gaan we sturen van Giga naar
+
+19
+00:01:41,310 --> 00:01:49,630
+de muur. Dus als de x-positie nul is, als
+Giga mooi middenin het level staat, dan gaan
+
+20
+00:01:49,630 --> 00:01:55,240
+we het signaal sturen. Nou waar gaan we dat
+doen? We gaan dat natuurlijk doen bij het
+
+21
+00:01:55,240 --> 00:01:59,790
+bewegen. En deze keer niet bij het links en
+rechts, maar alleen bij rechts. Want we willen
+
+22
+00:01:59,790 --> 00:02:05,600
+schuiven als Giga naar rechts gaat. Dus wat
+gaan we nu doen? Hier laat ik nog steeds dat
+
+23
+00:02:05,600 --> 00:02:10,952
+geluidje staan bij de muur, maar hier bij
+het naar rechts lopen, daar gaan we wat aanpassen.
+
+24
+00:02:10,952 --> 00:02:19,890
+We gaan daar weer een 'als-dan-anders' inplakken.
+'Als-dan-anders'. Als, wat zeiden we ook alweer,
+
+25
+00:02:19,890 --> 00:02:28,260
+de x-positie, die staat hier, de x-positie
+van Giga, als die groter is dan 0. We pakken
+
+26
+00:02:28,260 --> 00:02:32,670
+het 'groter' (>) blok, ik doe het even hier
+zodat je het beter kan zien. Als de x-positie
+
+27
+00:02:32,670 --> 00:02:40,330
+groter is dan 0, nou in dat geval gaan we
+'schuiven maar' en anders gaan we gewoon lopen.
+
+28
+00:02:40,330 --> 00:02:47,920
+Dus op het moment dat we voorbij het midden
+gaan, Giga is bij 0, dan gaan we niet meer
+
+29
+00:02:47,920 --> 00:02:52,970
+vooruit, maar in plaats van dat we zelf vooruit
+gaan, gaan we een signaaltje sturen naar de
+
+30
+00:02:52,970 --> 00:02:58,040
+muur: 'Hallo muur, beweeg jij maar! Dan lijkt
+het net alsof ik nog vooruit ga!' Maar in
+
+31
+00:02:58,040 --> 00:03:03,480
+de eerste helft van het level daar mag Giga
+gewoon bewegen. Dus wat moeten we nu doen
+
+32
+00:03:03,480 --> 00:03:09,370
+als muur, als we het signaal 'schuiven maar'
+ontvangen? Dan gaan we opschuiven naar links.
+
+33
+00:03:09,370 --> 00:03:13,840
+Kijk hoe dat eruit ziet, en nu is er nog niets
+verandert, want we sturen dat signaal alleen
+
+34
+00:03:13,840 --> 00:03:19,450
+maar, maar we pakken het nog helemaal niet
+op. Dus wat moet Giga nou doen als hij dat
+
+35
+00:03:19,450 --> 00:03:24,569
+signaal ontvangt? Uh sorry, de muur. 'Wanneer
+ik signaal schuiven maar ontvang', nou wat
+
+36
+00:03:24,569 --> 00:03:31,061
+we gaan doen is we nemen '-5 stappen'. Dus
+we gaan het proberen, kijk maar. Het is een
+
+37
+00:03:31,061 --> 00:03:35,640
+beetje moeilijk programma, maar kijk maar
+hoe gaaf het eruit ziet. Als we nu voorbij
+
+38
+00:03:35,640 --> 00:03:43,060
+de nul zijn, schuift het level op. Kijk dat
+muurtje komt op ons af. Aan deze kant van
+
+39
+00:03:43,060 --> 00:03:49,490
+het level verandert er niets hè? Want dat
+is dus deze kant, als de x-positie niet groter
+
+40
+00:03:49,490 --> 00:03:54,819
+is dan nul dan gaan we nog gewoon bewegen.
+Maar als hij groter wordt dan nul dan schuiven
+
+41
+00:03:54,819 --> 00:03:59,460
+we het level door. Dat is best vet, hè? Het
+is net alsof we door het level lopen, omdat
+
+42
+00:03:59,460 --> 00:04:04,209
+die muur opschuift. Alleen, ja ik doe nou
+wel dit, maar dat gebeurt er eigenlijk niet,
+
+43
+00:04:04,209 --> 00:04:09,630
+want die muur gaat maar 1 keer en dan stopt
+hij. Kan jij het nou zo programmeren dat als
+
+44
+00:04:09,630 --> 00:04:14,319
+die muur helemaal op het einde is, dat hij
+dan weer bij het begin begint? Want zo kan
+
+45
+00:04:14,319 --> 00:04:17,969
+je helemaal eindeloos door het level heen
+rennen als Giga.
+

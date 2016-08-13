@@ -1,0 +1,165 @@
+1
+00:00:00,340 --> 00:00:04,460
+Kijk zo doe je dat! De blokjes waren eigenlijk
+al goed, maar ze stonden nog niet op de goede
+
+2
+00:00:04,460 --> 00:00:09,410
+plek. Want we willen altijd, de hele tijd,
+naar beneden vallen, en dan alleen als er
+
+3
+00:00:09,410 --> 00:00:14,500
+op de spatie geduwd wordt dan willen we omhoog.
+Dus we hoeven dat blokje alleen te verplaatsen.
+
+4
+00:00:14,500 --> 00:00:21,870
+Kijk maar. Zo springen we omhoog, maar we
+kunnen ook op de muur en als we eraf gaan,
+
+5
+00:00:21,870 --> 00:00:26,779
+he dan gaat dit blokje aan, want dan gaan
+we altijd, totdat we de kleur bruin raken,
+
+6
+00:00:26,779 --> 00:00:34,190
+naar beneden vallen. Best prima, maar... We
+fietsen gewoon dwars door die muur heen, dat
+
+7
+00:00:34,190 --> 00:00:39,210
+is natuurlijk niet echt een leuk spel. Wat
+we zouden willen, is dat als Giga tegen de
+
+8
+00:00:39,210 --> 00:00:44,910
+muur aanloopt, dat ze dan stopt. Dat ze niet
+meer verder kan. Dus het eerste wat we gaan
+
+9
+00:00:44,910 --> 00:00:49,890
+proberen is eens even, dat als we er tegen
+aan lopen dat we dan een geluidje krijgen.
+
+10
+00:00:49,890 --> 00:00:55,191
+Dan ga ik de muur even aan deze kant zetten,
+want zo'n Mario spel, speelt de hele tijd
+
+11
+00:00:55,191 --> 00:01:01,530
+naar rechts. Dus we willen dat als Giga naar
+rechts tegen de muur aanloopt, daar gaan we
+
+12
+00:01:01,530 --> 00:01:07,819
+mee beginnen, dat als ze hier is en ze raakt
+de muur, dat er dan een geluidje afspeelt.
+
+13
+00:01:07,819 --> 00:01:15,549
+Kan jij dat maken? Nou dat is je vast gelukt
+hè! Om dat te maken. Je kunt natuurlijk daarvoor
+
+14
+00:01:15,549 --> 00:01:23,380
+een 'raak ik Muur' blok pakken. En dan zeg
+je, als Giga naar rechts gaat en als het nou
+
+15
+00:01:23,380 --> 00:01:31,880
+toevallig ook nog is zo is, even wat ruimte
+maken, dat ze de muur raakt, dan start ik
+
+16
+00:01:31,880 --> 00:01:39,741
+een geluidje. Maar anders... Laat ik het eerst
+even zo maken, als we er nu tegenaan gaan,
+
+17
+00:01:39,741 --> 00:01:46,299
+he we duwen rechts, dan krijg ik een geluidje.
+Maar we willen natuurlijk wel bewegen als
+
+18
+00:01:46,299 --> 00:01:51,149
+ze de muur niet aanraakt. Dus we gaan daar
+een 'als-dan-anders' voor in de plek zetten.
+
+19
+00:01:51,149 --> 00:01:58,249
+Raak ik muur, dan start ik een geluid. En
+anders mogen we wel gewoon bewegen. Dus als
+
+20
+00:01:58,249 --> 00:02:03,859
+ik Giga nu even terug zet, gaan we mooi naar
+rechts, maar niet als we de muur raken, want
+
+21
+00:02:03,859 --> 00:02:09,280
+dan krijgen we voortdurend het geluidje en
+gaan we niet meer naar voren. Dat werkt al
+
+22
+00:02:09,280 --> 00:02:15,220
+goed, alleen helaas is het zo, dat als je
+Giga op de muur zet, probeer dat maar eens.
+
+23
+00:02:15,220 --> 00:02:20,560
+Wacht ik zal het even snel doen. Als ik Giga
+nu met de spatiebalk op de muur zet, kijk.
+
+24
+00:02:20,560 --> 00:02:26,140
+Als ik nu op dat pijltje duw, dan gaat hij
+ook 'poppen' (een geluidje maken). Dus helaas
+
+25
+00:02:26,140 --> 00:02:30,709
+kunnen we nu wel op de muur, maar we kunnen
+niet meer van de muur af, want ja dan duw
+
+26
+00:02:30,709 --> 00:02:36,349
+je rechts en dan raak je de muur en dan ga
+je niet meer verder. Dat kunnen we oplossen
+
+27
+00:02:36,349 --> 00:02:40,400
+door een 'vergelijk' blok bij 'functies' te
+pakken. Een 'groter dan' (>) of een 'kleiner
+
+28
+00:02:40,400 --> 00:02:47,760
+dan' (<) en te kijken is Giga nou boven de
+muur of is Giga nou voor de muur? En dat kan
+
+29
+00:02:47,760 --> 00:02:53,609
+je doen, kijk maar eens goed naar de hoogtes
+van Giga. Dan zal ik je nog 1 tip meegeven
+
+30
+00:02:53,609 --> 00:03:00,799
+voordat we naar de quiz gaan. Kijk hieronder
+kan je de y-positie van Giga aanzetten en
+
+31
+00:03:00,799 --> 00:03:08,920
+ook de y-positie van de muur. Dus probeer
+jij nou eens heel diep na te denken wat moet
+
+32
+00:03:08,920 --> 00:03:14,810
+nou het getal zijn voor Giga, wanneer is ze
+boven die muur? En wanneer moet ze dus wel
+
+33
+00:03:14,810 --> 00:03:20,069
+lopen als er op rechts geduwd wordt. Dat is
+jouw volgende programmeeropdracht.
+

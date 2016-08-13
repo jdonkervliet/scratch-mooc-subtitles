@@ -1,0 +1,64 @@
+1
+00:00:00,719 --> 00:00:06,599
+Kijk zo kan je dat doen. Je pakt een 'en'
+blok en dan als Giga de muur raakt EN ze is
+
+2
+00:00:06,599 --> 00:00:11,670
+ongeveer op de grond, dan maak je het geluid
+en anders mag het gewoon wel. En dat had je
+
+3
+00:00:11,670 --> 00:00:17,519
+dus kunnen zien door bovenin de hoek te kijken
+naar wanneer is nou de y-positie, welk getal
+
+4
+00:00:17,519 --> 00:00:22,189
+is het op de grond en welk getal is het als
+je bovenop de muur staat. Dus nu gaat het
+
+5
+00:00:22,189 --> 00:00:30,279
+goed, kijk maar. Ik start het spel. Ik loop
+tegen de muur. Popperdepopperdepop. Maar als
+
+6
+00:00:30,279 --> 00:00:36,970
+ik er op sta, kijk dan is mijn y-positie -110.
+En ik heb hier ingesteld, alleen als het kleiner
+
+7
+00:00:36,970 --> 00:00:42,660
+is dan -120 dan komt dat geluid en nu komt
+dat geluid niet, nu gaan we gewoon die x veranderen.
+
+8
+00:00:42,660 --> 00:00:48,100
+Dus nu lopen we er gewoon lekker af, geen
+probleem, we blijven niet meer op de muur
+
+9
+00:00:48,100 --> 00:00:53,540
+vast zitten. Maar dat heb je misschien al
+gezien, als ik aan de andere kant sta, als
+
+10
+00:00:53,540 --> 00:00:59,420
+ik van links kom, dan fiets ik er nog gewoon
+helemaal doorheen. Dus ga jij het nou eens
+
+11
+00:00:59,420 --> 00:01:05,030
+maken dat het van rechts werkt, maar ook van
+links. Dus dat is een kwestie van die blokjes
+
+12
+00:01:05,030 --> 00:01:09,670
+kopiëren en misschien een klein beetje hier
+en daar aanpassen en dan op de goede plek
+
+13
+00:01:09,670 --> 00:01:12,210
+plakken dat gaat jou vast lukken.
+
