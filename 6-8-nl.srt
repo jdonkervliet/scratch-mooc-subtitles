@@ -1,0 +1,69 @@
+1
+00:00:00,210 --> 00:00:06,319
+Kijk zo heb ik dat gedaan. Als ik de muur
+raak, of ik raak de rand dan als ik rechts
+
+2
+00:00:06,319 --> 00:00:11,690
+was, word ik links en als ik links was, word
+ik rechts. En dan zul je zien, je hebt die
+
+3
+00:00:11,690 --> 00:00:16,560
+'kant' variabele ook nog bovenin beeld staan,
+die hij netjes iedere keer van kant wisselt.
+
+4
+00:00:16,560 --> 00:00:22,279
+Kijk maar. Daar gaat hij. Ik ga naar links
+en nu ga ik weer naar rechts. Ik fiets even
+
+5
+00:00:22,279 --> 00:00:28,779
+door Giga, dat gaan we straks nog wel oplossen.
+En daar ga ik weer naar links. Al met al aardig,
+
+6
+00:00:28,779 --> 00:00:34,260
+maar je hebt misschien dat dit soms ook mis
+kan gaan, kijk. Die bug die kan vastplakken
+
+7
+00:00:34,260 --> 00:00:39,679
+aan de muur of aan de rand. Kijk hier zit
+hij helemaal vast, met z'n kleine pootjes
+
+8
+00:00:39,679 --> 00:00:46,070
+zit hij in de muur en hij wil verder. Dus
+de volgende opdracht, die het spel nog wat
+
+9
+00:00:46,070 --> 00:00:51,909
+beter maakt, is kan je nou wachten met die
+bug aan het begin laten verschijnen totdat
+
+10
+00:00:51,909 --> 00:00:56,230
+die muur een eindje uit beeld is. Laten we
+zeggen dat die muur verderweg moet zijn dan
+
+11
+00:00:56,230 --> 00:01:03,159
+100 en dan pas mag dat beestje in beeld springen.
+Niet als die muur daar nog staat, want dan
+
+12
+00:01:03,159 --> 00:01:09,299
+zul je zien, dan gaat hij vastplakken. Dus
+laat de ladybug, of je eigen monster, wat
+
+13
+00:01:09,299 --> 00:01:14,360
+je maar hebt, wachten tot de muur op honderd
+staat en dan pas, mag hij verschijnen. Dat
+
+14
+00:01:14,360 --> 00:01:16,159
+is jou volgende programmeeropdracht.
+
