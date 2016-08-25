@@ -1,0 +1,301 @@
+1
+00:00:00,500 --> 00:00:01,860
+Kijk zo moet dat.
+
+2
+00:00:01,860 --> 00:00:07,029
+Je laat je bug, of je monster, verdwijnen,
+je wacht tot de muur opgeschoven is en dan
+
+3
+00:00:07,029 --> 00:00:12,970
+pas mag hij verschijnen of ergens de x, ik
+heb hem op 200 gezet, maar je kan hem natuurlijk
+
+4
+00:00:12,970 --> 00:00:15,780
+ook een klein beetje aanpassen als je je monster
+ergens anders wilt...
+
+5
+00:00:15,780 --> 00:00:17,360
+Kijk maar hoe dat gaat.
+
+6
+00:00:17,360 --> 00:00:22,280
+Ik duw op de vlag, er is nog geen monster,
+want de muur is nog niet ver genoeg weg.
+
+7
+00:00:22,280 --> 00:00:25,400
+Maar als ik dan een beetje schuif, kijk daar
+komt hij aan.
+
+8
+00:00:25,400 --> 00:00:30,050
+En dan blijft hij mooi links en rechts gaan
+tot aan de muur of tot de rand.
+
+9
+00:00:30,050 --> 00:00:33,940
+Maar je ziet al, jaaa, dat monster gaat gewoon
+dwars door mij heen.
+
+10
+00:00:33,940 --> 00:00:39,160
+Dat willen we niet, we willen natuurlijk dat
+Giga afgaat als het monster haar pakt.
+
+11
+00:00:39,160 --> 00:00:43,420
+Nou ik denk dat jij wel weet hoe we het zouden
+kunnen bereiken.
+
+12
+00:00:43,420 --> 00:00:46,090
+We gaan nog een signaal maken.
+
+13
+00:00:46,090 --> 00:00:51,100
+Dat signaal dat noemen we 'giga af' of 'giga
+is af'.
+
+14
+00:00:51,100 --> 00:00:53,960
+Nieuw bericht, 'giga is af'.
+
+15
+00:00:53,960 --> 00:00:56,980
+Nou wanneer is Giga af?
+
+16
+00:00:56,980 --> 00:01:02,219
+Ik denk dat jij wel weet, wanneer Giga af
+is.
+
+17
+00:01:02,219 --> 00:01:05,040
+Ja dat is natuurlijk niet zo lastig he?
+
+18
+00:01:05,040 --> 00:01:08,290
+Giga is af, als het monster haar aanraakt.
+
+19
+00:01:08,290 --> 00:01:14,360
+Dus bij het monster zetten we een 'herhaal'-blok
+en een 'wacht tot' blok.
+
+20
+00:01:14,360 --> 00:01:21,909
+Wachten tot 'raak ik Giga', want we zijn al
+bij het monster he, dus we wachten tot 'raak
+
+21
+00:01:21,909 --> 00:01:27,369
+ik Giga' en als we Giga raken, dan zenden
+we het signaal 'giga is af'.
+
+22
+00:01:27,369 --> 00:01:33,590
+Maar nu gebeurt er nog helemaal niets, want
+bij Giga hebben we nog niet op dat signaal
+
+23
+00:01:33,590 --> 00:01:34,790
+gereageerd.
+
+24
+00:01:34,790 --> 00:01:39,450
+Ik schuif hier een beetje op en wat we nu
+gaan doen is, wanneer ik het signaal ontvang.
+
+25
+00:01:39,450 --> 00:01:45,229
+Wat je zou kunnen doen is natuurlijk iets
+zeggen, 'au' of 'help', maar we gaan het een
+
+26
+00:01:45,229 --> 00:01:46,430
+klein beetje anders doen.
+
+27
+00:01:46,430 --> 00:01:49,930
+We gaan een nieuw blokje proberen en dat blokje
+is 'stop alle'.
+
+28
+00:01:49,930 --> 00:01:54,740
+Als Giga af is, dan stopt het hele spel.
+
+29
+00:01:54,740 --> 00:01:57,480
+Kijk maar mee.
+
+30
+00:01:57,480 --> 00:02:04,270
+Ik loop hier en nu loop ik tegen een monster
+aan, kijk het loopt een soort van helemaal
+
+31
+00:02:04,270 --> 00:02:05,730
+vast, het spel.
+
+32
+00:02:05,730 --> 00:02:09,310
+Het stopt echt, maar er gebeurt dan ook niets
+anders meer.
+
+33
+00:02:09,310 --> 00:02:15,480
+Als iemand anders je spel speelt, je broer
+of je vader dan weten die eigenlijk niet wat
+
+34
+00:02:15,480 --> 00:02:16,480
+er aan de hand is.
+
+35
+00:02:16,480 --> 00:02:18,230
+Misschien is het wel echt vastgelopen!
+
+36
+00:02:18,230 --> 00:02:23,680
+Dus het zou toch handig zijn als we iets in
+beeld zouden zetten bijvoorbeeld 'game over'.
+
+37
+00:02:23,680 --> 00:02:28,290
+En we kunnen dat niet met Giga doen, daar
+hebben we een andere oplossing voor nodig.
+
+38
+00:02:28,290 --> 00:02:35,430
+Want als ik Giga iets laat zeggen, ik kan
+dat wel proberen hoor, als ik zeg, zeg 'au'
+
+39
+00:02:35,430 --> 00:02:37,010
+en daarna stopt het spel.
+
+40
+00:02:37,010 --> 00:02:42,050
+Nou als ik dan tegen een monster aanloop,
+zie je dat zeggen, dat gebeurt niet.
+
+41
+00:02:42,050 --> 00:02:43,870
+Want het spel stopt meteen!
+
+42
+00:02:43,870 --> 00:02:49,010
+Ik zeg iets en dan stopt het en dat stoppen
+betekent ook dat ik niks meer kan zeggen.
+
+43
+00:02:49,010 --> 00:02:50,811
+Dus wat gaan we doen?
+
+44
+00:02:50,811 --> 00:02:57,459
+We gaan bovenin de lucht 'game over' laten
+verschijnen als Giga het monster aanraakt.
+
+45
+00:02:57,459 --> 00:02:58,670
+Dat is echt cool he?
+
+46
+00:02:58,670 --> 00:03:00,489
+Dat kunnen we natuurlijk zelf programmeren.
+
+47
+00:03:00,489 --> 00:03:03,810
+Programmeren kan eigenlijk bijna alles.
+
+48
+00:03:03,810 --> 00:03:08,099
+We gaan een nieuwe sprite maken en dat doen
+we deze keer niet met het poppetje, maar we
+
+49
+00:03:08,099 --> 00:03:10,970
+gaan zelf een nieuwe sprite tekenen.
+
+50
+00:03:10,970 --> 00:03:15,750
+En dan krijg je een leeg blokje en daar kan
+je in tekenen wat je maar wilt.
+
+51
+00:03:15,750 --> 00:03:19,599
+Daar gaan wij een tekst inmaken, ik ga hem
+op rood zetten.
+
+52
+00:03:19,599 --> 00:03:25,650
+En dan maak ik hier bij het kruisje, dat hij
+een beetje in het midden komt, maak ik: "GAME
+
+53
+00:03:25,650 --> 00:03:26,650
+OVER!!!"
+
+54
+00:03:26,650 --> 00:03:28,370
+Met drie uitroeptekens.
+
+55
+00:03:28,370 --> 00:03:33,049
+En je kan natuurlijk ook een ander woord kiezen
+he, wat je maar wilt, en je ziet dan hier
+
+56
+00:03:33,049 --> 00:03:35,030
+dat die game over in beeld komt.
+
+57
+00:03:35,030 --> 00:03:40,470
+Ik ga hem hier neerzetten en ik maak hem iets
+groter maar je mag natuurlijk ook zelf iets
+
+58
+00:03:40,470 --> 00:03:41,470
+kiezen.
+
+59
+00:03:41,470 --> 00:03:46,180
+"Helaas pindakaas", of iets wat je in beeld
+wilt.
+
+60
+00:03:46,180 --> 00:03:55,160
+We willen natuurlijk dat dat niet er staat
+als het spel begint, maar wel als Giga afgaat.
+
+61
+00:03:55,160 --> 00:04:03,060
+Kan jij dat nou programmeren, kan jij een
+blokje kiezen waardoor de game over niet er
+
+62
+00:04:03,060 --> 00:04:09,380
+staat als het spel begint, maar op het moment
+dat Giga het monster aanraakt, komt dat GAME
+
+63
+00:04:09,380 --> 00:04:10,380
+OVER!!!
+
+64
+00:04:10,380 --> 00:04:11,380
+bovenin beeld.
+
+65
+00:04:11,380 --> 00:04:13,420
+Dat is de volgende programmeeropdracht.
+
+66
+00:04:13,420 --> 00:04:15,540
+Ik denk dat het je zeker gaat lukken!
+

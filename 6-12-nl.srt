@@ -1,0 +1,82 @@
+1
+00:00:00,420 --> 00:00:05,520
+Kijk hier in dat 'verschijn rechts blok' daar
+gaan we het uiterlijk op 'gewoon' zetten.
+
+2
+00:00:05,520 --> 00:00:10,050
+Dus iedere keer als hij verschijnt, dan ziet
+hij er gewoon uit en niet geplet.
+
+3
+00:00:10,050 --> 00:00:15,809
+En dat betekent dat we dus hierboven dat 'gewoon'
+blok niet meer nodig hebben.
+
+4
+00:00:15,809 --> 00:00:20,200
+Ik zei er kan ook een blokje weg, het kan
+geen kwaad om dat daar neer te zetten, maar
+
+5
+00:00:20,200 --> 00:00:26,320
+het hoeft niet, want hij begint hier al rond
+en als hij dan geplet wordt, begint hij hier
+
+6
+00:00:26,320 --> 00:00:28,750
+bij die 'verschijn rechts' ook weer rond.
+
+7
+00:00:28,750 --> 00:00:32,419
+We zijn echt bijna bij het einde van de laatste
+les.
+
+8
+00:00:32,419 --> 00:00:38,039
+Er is nog één opdracht die jullie moeten
+maken, want gek is, is als ik op dat beest
+
+9
+00:00:38,039 --> 00:00:43,989
+spring, zie je, hij beweegt nog een klein
+beetje door als hij geplet wordt.
+
+10
+00:00:43,989 --> 00:00:47,159
+Hij stopt niet met bewegen als hij geplet
+wordt.
+
+11
+00:00:47,159 --> 00:00:55,019
+Dus jouw aller, allerlaatste programmeeropdracht
+voordat jij een volleerde programmeur, een
+
+12
+00:00:55,019 --> 00:01:01,459
+afgestuurde programmeur bent, is, zorg ervoor
+dat als het beest geplet wordt, dat hij dan
+
+13
+00:01:01,459 --> 00:01:02,459
+stil staat.
+
+14
+00:01:02,459 --> 00:01:08,590
+En een tip, je kunt hier de variabele 'kant'
+voor gebruiken en zet die kant in plaats van
+
+15
+00:01:08,590 --> 00:01:14,520
+'links' en 'rechts' op 'geen' of op 'stop'
+en gebruik dat om je beestje te laten stoppen.
+
+16
+00:01:14,520 --> 00:01:19,009
+Dat is de aller, aller, allerlaatste puzzel
+die we jullie gaan laten doen.
+
+17
+00:01:19,009 --> 00:01:20,020
+Succes!
+

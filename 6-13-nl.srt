@@ -1,0 +1,81 @@
+1
+00:00:00,560 --> 00:00:04,140
+Voor een afgestuurde programmeur was dat geen
+lastige opdracht he?
+
+2
+00:00:04,140 --> 00:00:05,140
+Kijk hier!
+
+3
+00:00:05,140 --> 00:00:09,850
+Als we Giga raken, dan maken we kant 'geen'
+en verder hoeft er niks te gebeuren, want
+
+4
+00:00:09,850 --> 00:00:13,620
+we hebben de kant alleen maar voor 'links'
+en 'rechts' geprogrammeerd dus als de kant
+
+5
+00:00:13,620 --> 00:00:16,620
+'geen' is, dan gebeurt er vanzelf al niks.
+
+6
+00:00:16,620 --> 00:00:18,800
+Kijk maar eens hoe goed dat spel werkt.
+
+7
+00:00:18,800 --> 00:00:22,820
+Ik zet hem nog één keertje voor jullie aan,
+ik heb die 'kant' ook weer even aangezet.
+
+8
+00:00:22,820 --> 00:00:27,890
+Ik plet de bug en dan zie je dat hij stopt
+met bewegen als ik hem aanraak.
+
+9
+00:00:27,890 --> 00:00:29,519
+Hoppakee daar gaan we.
+
+10
+00:00:29,519 --> 00:00:33,980
+Dat was het hele spel dat jullie hebben geprogrammeerd.
+
+11
+00:00:33,980 --> 00:00:39,670
+En ik wil jullie super bedanken dat jullie
+zes weken lang aan alle puzzels hebben gewerkt.
+
+12
+00:00:39,670 --> 00:00:45,960
+Het was fantastisch voor ons om alle reacties
+te zien op het forum, de gekste spellen, vliegtuigen
+
+13
+00:00:45,960 --> 00:00:50,490
+in een aquarium, Giga's met tranen, we hebben
+het allemaal voorbij zien komen.
+
+14
+00:00:50,490 --> 00:00:51,670
+En het was geweldig!
+
+15
+00:00:51,670 --> 00:00:57,510
+En ik hoop misschien dat ik sommigen van jullie
+over 10 jaar wel terug zie als studenten hier
+
+16
+00:00:57,510 --> 00:00:58,600
+op de TU Delft.
+
+17
+00:00:58,600 --> 00:01:00,110
+Misschien wel tot dan!
+
+18
+00:01:00,110 --> 00:01:00,530
+Doei!
+

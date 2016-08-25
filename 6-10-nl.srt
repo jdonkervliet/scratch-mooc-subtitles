@@ -1,0 +1,251 @@
+1
+00:00:01,250 --> 00:00:06,240
+Nou voor een bijna afgestuurde programmeur
+zoals jij is dit geen probleem he?
+
+2
+00:00:06,240 --> 00:00:11,280
+Als er op de groene vlag geklikt wordt, dan
+verdwijnt de sprite, maar als hij dat signaal
+
+3
+00:00:11,280 --> 00:00:14,349
+'giga is af' krijgt, dan verschijnt hij snel.
+
+4
+00:00:14,349 --> 00:00:16,660
+Kijk dat ziet er echt al cool uit.
+
+5
+00:00:16,660 --> 00:00:19,570
+Ik begin, niets aan de hand, geen game over.
+
+6
+00:00:19,570 --> 00:00:24,800
+Maar daar raak ik het monster aan en game
+over, het spel stopt, maar we krijgen nog
+
+7
+00:00:24,800 --> 00:00:25,800
+wel iets te zien.
+
+8
+00:00:25,800 --> 00:00:32,980
+Één ding moet hier nog aangepast worden
+aan onze game over, want hier zie je dat dat
+
+9
+00:00:32,980 --> 00:00:34,380
+sprite 1 heet.
+
+10
+00:00:34,380 --> 00:00:39,530
+Nou dat vind ik geen goede naam, het is nooit
+goed om dingen 'afbeelding 1' of 'monster
+
+11
+00:00:39,530 --> 00:00:43,149
+1' te noemen, want dan weet je straks niet
+meer wat het nu eigenlijk is.
+
+12
+00:00:43,149 --> 00:00:48,770
+Dus het zou nu veel beter zijn, als we hier
+in plaats van 'sprite 1' opschrijven 'game
+
+13
+00:00:48,770 --> 00:00:49,770
+over'.
+
+14
+00:00:49,770 --> 00:00:55,820
+Dat is veel mooier, dan zie je beter wat het
+is.
+
+15
+00:00:55,820 --> 00:00:58,449
+Wat gaan we nog verder doen?
+
+16
+00:00:58,449 --> 00:01:02,160
+Nou het zou wel leuk zijn, als we dat monster
+ook kunnen verslaan, vind je niet?
+
+17
+00:01:02,160 --> 00:01:05,820
+Want ja als het alleen maar ons aanraakt,
+hoe moeten we er dan mee spelen?
+
+18
+00:01:05,820 --> 00:01:10,320
+Dan kan je alleen maar proberen om er iedere
+keer zo overheen te springen, maar dat valt
+
+19
+00:01:10,320 --> 00:01:11,320
+niet mee.
+
+20
+00:01:11,320 --> 00:01:16,030
+Dus het zou leuk zijn, dat als we op dat monster
+springen, dat we het monster pletten.
+
+21
+00:01:16,030 --> 00:01:20,120
+Helemaal zo plat maken als een pannenkoek,
+is dat niet cool?
+
+22
+00:01:20,120 --> 00:01:25,310
+Daarvoor gaan we een nieuw uiterlijk maken,
+dus ga mee naar uiterlijken.
+
+23
+00:01:25,310 --> 00:01:29,590
+En dit uiterlijk wat we nu hebben, gaan we
+kopiëren.
+
+24
+00:01:29,590 --> 00:01:37,290
+Daar kan ik een stempeltje voor gebruiken,
+'kopie maken' en dan krijg ik nog een uiterlijk.
+
+25
+00:01:37,290 --> 00:01:40,860
+Ik kan dat uiterlijk nu gaan veranderen, dus
+ik kan er iets bij tekenen.
+
+26
+00:01:40,860 --> 00:01:44,700
+En ik zag op het forum dat sommige mensen
+dat al eerder hebben gedaan, door bijvoorbeeld
+
+27
+00:01:44,700 --> 00:01:47,220
+traantjes te tekenen op het gezicht van Giga.
+
+28
+00:01:47,220 --> 00:01:54,270
+Ik converteer dit naar een afbeelding en dan
+kan ik dat monstertje selecteren en plat maken.
+
+29
+00:01:54,270 --> 00:01:57,960
+Kijk dan ga ik zo, ik maak hem een beetje
+plat, je kan hem zo plat maken als je maar
+
+30
+00:01:57,960 --> 00:02:03,350
+wilt en ik zet hem wel terug bij het kruisje,
+want anders dan ziet het er straks een beetje
+
+31
+00:02:03,350 --> 00:02:04,350
+gek uit.
+
+32
+00:02:04,350 --> 00:02:10,610
+En hier ook, willen we weer een goede naam
+geven, want ladybug2-a2 vinden we niet zo'n
+
+33
+00:02:10,610 --> 00:02:11,610
+goede naam.
+
+34
+00:02:11,610 --> 00:02:15,360
+We gaan dit noemen 'geplet' en zullen we dit
+dan noemen 'gewoon'.
+
+35
+00:02:15,360 --> 00:02:20,700
+Want dan is het veel makkelijker straks, om
+in de code te lezen welke er geplet is en
+
+36
+00:02:20,700 --> 00:02:21,700
+welke er gewoon is.
+
+37
+00:02:21,700 --> 00:02:23,700
+Je kunt er nu ook tussen schuiven.
+
+38
+00:02:23,700 --> 00:02:26,400
+Dit is gewoon en dit is geplet.
+
+39
+00:02:26,400 --> 00:02:28,170
+Nu zie je, ooh oeps.
+
+40
+00:02:28,170 --> 00:02:32,180
+Nu zie je dat ik hem een klein beetje moet
+opschuiven, want hij ligt nu op de grond.
+
+41
+00:02:32,180 --> 00:02:36,760
+En dat kruisje dat geeft aan waar het midden
+is, dus ik kan hem even oppakken en een beetje
+
+42
+00:02:36,760 --> 00:02:40,930
+zo, iets omhoog schuiven, dat is weer net
+iets te hoog, zo.
+
+43
+00:02:40,930 --> 00:02:42,819
+Kijk nu ligt hij mooi op de grond.
+
+44
+00:02:42,819 --> 00:02:46,770
+Zo loopt hij en zo is hij als hij geplet wordt.
+
+45
+00:02:46,770 --> 00:02:52,050
+Nou wat gaan we nu programmeren?
+
+46
+00:02:52,050 --> 00:02:56,959
+Dit wordt een best wel uitdagende puzzel,
+maar ik denk dat het je gaat lukken.
+
+47
+00:02:56,959 --> 00:03:03,830
+We willen dat als Giga tegen het monster aanloopt,
+gaat ze af, maar als ze bovenop het monster
+
+48
+00:03:03,830 --> 00:03:08,000
+springt, dan moet hij wisselen naar het uiterlijk
+'geplet'.
+
+49
+00:03:08,000 --> 00:03:11,780
+En denk hierbij, kijk goed naar de code die
+je bij de muur hebt gebruikt.
+
+50
+00:03:11,780 --> 00:03:15,220
+Als ik bovenop de muur ben, dan mag ik wel
+lopen.
+
+51
+00:03:15,220 --> 00:03:19,099
+Maar als ik tegen de muur aan sta dan mag
+ik niet lopen.
+
+52
+00:03:19,099 --> 00:03:23,660
+Dezelfde soort blokken gaan we gebruiken,
+als ik bovenop het monster spring, dan moet
+
+53
+00:03:23,660 --> 00:03:26,310
+hij geplet worden, maar van de zijkant gaat
+Giga af.
+
+54
+00:03:26,310 --> 00:03:27,920
+Zet jij het voor me in elkaar?
+
