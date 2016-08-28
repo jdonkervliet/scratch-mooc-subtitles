@@ -1,0 +1,136 @@
+1
+00:00:00,199 --> 00:00:02,780
+Zo, ben je klaar voor je volgende programmeer
+opdracht?
+
+2
+00:00:02,780 --> 00:00:04,720
+Je wordt er al echt goed in he!
+
+3
+00:00:04,720 --> 00:00:08,740
+Giga heeft het spel gewonnen als ze onderaan
+bij de sleutel terecht is gekomen.
+
+4
+00:00:08,740 --> 00:00:11,170
+Die je hier helemaal onderaan ziet staan.
+
+5
+00:00:11,170 --> 00:00:16,700
+Dus jouw volgende programmeer opdracht is
+om 'yes' te zeggen in een spreekballonnetje,
+
+6
+00:00:16,700 --> 00:00:20,460
+of 'hoera!', of 'ik heb gewonnen', als ze
+de sleutel heeft aangeraakt.
+
+7
+00:00:20,460 --> 00:00:22,250
+Ik zal je een paar tips geven.
+
+8
+00:00:22,250 --> 00:00:28,630
+We gaan nog een 'wanneer de groene vlag wordt
+aangeklikt' gebruiken.
+
+9
+00:00:28,630 --> 00:00:31,080
+En nog een herhaal-blok.
+
+10
+00:00:31,080 --> 00:00:33,250
+Die zetten we hier in.
+
+11
+00:00:33,250 --> 00:00:37,640
+We gaan ook nog een als-dan-blok hier naast
+zetten.
+
+12
+00:00:37,640 --> 00:00:41,190
+En die twee blokken die gaan tegelijkertijd.
+
+13
+00:00:41,190 --> 00:00:44,480
+Dus allebei die blokken worden iedere keer
+uitgevoerd.
+
+14
+00:00:44,480 --> 00:00:51,520
+In iedere lus gaan we kijken of Giga de groene
+kleur maakt én we gaan kijken of ze de sleutel
+
+15
+00:00:51,520 --> 00:00:52,520
+raakt.
+
+16
+00:00:52,520 --> 00:00:53,520
+Ga maar eens naar 'waarnemen'.
+
+17
+00:00:53,520 --> 00:00:58,630
+Want behalve 'raak ik kleur', heb je daar
+ook nog een blokje boven staan: 'raak ik ...'
+
+18
+00:00:58,630 --> 00:01:02,190
+Sleep die maar eens in het als-dan-blok.
+
+19
+00:01:02,190 --> 00:01:06,950
+En als je die dan naar beneden uit klapt door
+op dat driehoekje te klikken,
+
+20
+00:01:06,950 --> 00:01:09,530
+dan zie je daar staan 'als raak ik Key'.
+
+21
+00:01:09,530 --> 00:01:12,780
+En 'Key' is het engelse woord voor 'sleutel'.
+
+22
+00:01:12,780 --> 00:01:15,840
+Dus in plaats van dat we hier kijken 'welke
+kleur raakt Giga aan?',
+
+23
+00:01:15,840 --> 00:01:19,729
+kijken we hier 'Welk ander poppetje in het
+spel raakt ze aan?'
+
+24
+00:01:19,729 --> 00:01:24,780
+En die Key, zoals je hier onderaan ziet, is
+een ander soort poppetje in het spel.
+
+25
+00:01:24,780 --> 00:01:28,990
+Nou is het jouw programmeer opdracht om daar
+leuke blokken in te stoppen.
+
+26
+00:01:28,990 --> 00:01:30,369
+Dus zeg maar bijvoorbeeld 'yes!'
+
+27
+00:01:30,369 --> 00:01:33,069
+of 'hoera!',
+maak een geluidje,
+
+28
+00:01:33,069 --> 00:01:37,249
+laat Giga een rondje om haar as draaien,
+probeer maar eens wat blokjes uit.
+
+29
+00:01:37,249 --> 00:01:40,009
+Om het spel helemaal jouw eigen spel te maken.
+
+30
+00:01:40,009 --> 00:01:40,459
+Succes!
+

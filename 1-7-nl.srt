@@ -1,0 +1,264 @@
+1
+00:00:00,870 --> 00:00:02,690
+Is het je gelukt om het te programmeren?
+
+2
+00:00:02,690 --> 00:00:04,570
+Kijk maar eens welke blokken ik heb gebruikt.
+
+3
+00:00:04,570 --> 00:00:09,120
+Ik zeg 'yes!', en ik laat Giga d'r mondje
+open doen, met het Giga-c uiterlijk.
+
+4
+00:00:09,120 --> 00:00:11,490
+Maar misschien heb jij wel iets veel leukers
+verzonnen.
+
+5
+00:00:11,490 --> 00:00:14,179
+Iets met geluidjes, of iets met beweging.
+
+6
+00:00:14,179 --> 00:00:17,390
+Ik zal je laten zien hoe mijn programma werkt.
+
+7
+00:00:17,390 --> 00:00:21,190
+Als ik op de groene vlag klik,
+en ik raak de sleutel aan,
+
+8
+00:00:21,190 --> 00:00:24,760
+kijk dan gaat ze naag Giga uiterlijk C, en
+ze zegt 'Yess!'
+
+9
+00:00:24,760 --> 00:00:28,780
+Maar alles wat je kan verzinnen is goed,
+want het is je eigen spel.
+
+10
+00:00:28,780 --> 00:00:30,040
+Mooi toch?
+
+11
+00:00:30,040 --> 00:00:35,300
+We gaan het spel nog iets spannender maken
+door monsters in het spel toe te voegen.
+
+12
+00:00:35,300 --> 00:00:40,079
+Het monster gaat proberen om Giga te vangen
+voordat ze bij de sleutel is.
+
+13
+00:00:40,079 --> 00:00:43,539
+Als je een nieuw poppetje toe wilt voegen,
+dan ga je hier naar beneden,
+
+14
+00:00:43,539 --> 00:00:45,460
+en dan klik je op 'nieuwe sprite'.
+
+15
+00:00:45,460 --> 00:00:47,829
+En daar staat een poppetje van Giga naast.
+
+16
+00:00:47,829 --> 00:00:48,989
+Daar klik je op.
+
+17
+00:00:48,989 --> 00:00:52,780
+En dan zie je dat hier allemaal poppetjes
+zijn om uit te kiezen.
+
+18
+00:00:52,780 --> 00:00:54,579
+Je mag helemaal zelf kiezen.
+
+19
+00:00:54,579 --> 00:00:58,079
+We hebben hier allerlei soorten dieren,
+allerlei soorten fantasie.
+
+20
+00:00:58,079 --> 00:01:03,010
+Ik kies deze 'Ghoul', als een soort eng spook,
+maar je mag het helemaal zelf weten.
+
+21
+00:01:03,010 --> 00:01:07,080
+Als jij bijvoorbeeld graag wilt dat Giga wordt
+aangevallen door een appel,
+
+22
+00:01:07,080 --> 00:01:08,950
+zet jij er lekker een appel op.
+
+23
+00:01:08,950 --> 00:01:10,610
+Alles mag.
+
+24
+00:01:10,610 --> 00:01:14,720
+Kijk, nu hebben we een nieuw spook gekregen,
+maar misschien ben je helemaal geschrokken
+
+25
+00:01:14,720 --> 00:01:16,960
+omdat alle blokjes weg zijn.
+
+26
+00:01:16,960 --> 00:01:18,450
+Wat is hier aan de hand?
+
+27
+00:01:18,450 --> 00:01:21,860
+Het is niet de bedoeling dat alles gewist
+is natuurlijk.
+
+28
+00:01:21,860 --> 00:01:28,850
+Nou, iedere sprite, dat is ieder poppetje
+wat je in het spel hebt, heeft zijn eigen
+
+29
+00:01:28,850 --> 00:01:29,850
+blokjes.
+
+30
+00:01:29,850 --> 00:01:32,030
+Dus als ik op Giga klik, kijk, dan zijn mijn
+blokjes weer terug.
+
+31
+00:01:32,030 --> 00:01:34,540
+En dat zijn de blokjes die Giga besturen.
+
+32
+00:01:34,540 --> 00:01:37,710
+Dus als hier bijvoorbeeld staat:
+'raak IK kleur groen?'
+
+33
+00:01:37,710 --> 00:01:40,470
+Die 'ik', dat is eigenlijk ons poppetje Giga.
+
+34
+00:01:40,470 --> 00:01:44,560
+Dus als ik terug ga naar de Ghoul, het spook,
+daar staan nog geen blokjes in,
+
+35
+00:01:44,560 --> 00:01:48,290
+want ja, die blokjes hebben we nog niet geprogrammeerd.
+
+36
+00:01:48,290 --> 00:01:50,310
+Wat kunnen we met dat spook doen?
+
+37
+00:01:50,310 --> 00:01:54,750
+Nou, je mag van alles verzinnen, maar ik zal
+je een paar voorbeelden geven die we met het
+
+38
+00:01:54,750 --> 00:01:55,750
+spook kunnen maken.
+
+39
+00:01:55,750 --> 00:02:01,560
+Het eerste wat we gaan doen is toch dat spook
+een klein beetje kleiner maken, met het maak-kleiner-knopje,
+
+40
+00:02:01,560 --> 00:02:04,830
+want anders wordt het wel een heel erg moeilijk
+spel.
+
+41
+00:02:04,830 --> 00:02:10,489
+We gaan hier weer een 'wanneer er op de groene
+vlag wordt geklikt' blok, want dat is natuurlijk
+
+42
+00:02:10,489 --> 00:02:14,810
+hoe we het spel starten,
+en we gaan er ook een herhaal-blok in stoppen.
+
+43
+00:02:14,810 --> 00:02:19,180
+Dat heb je eigenlijk bijna altijd nodig,
+want voor ieder poppetje wat je in je spel
+
+44
+00:02:19,180 --> 00:02:22,760
+hebt wil je iedere keer wat doen,
+en niet maar één keer.
+
+45
+00:02:22,760 --> 00:02:24,500
+Nou, de opdracht is nu voor jou.
+
+46
+00:02:24,500 --> 00:02:28,689
+Je mag helemaal zelf verzinnen wat je dat
+spook gaat laten doen.
+
+47
+00:02:28,689 --> 00:02:33,130
+Een aantal blokjes die je zou kunnen proberen
+zijn de bewegings-blokjes,
+
+48
+00:02:33,130 --> 00:02:35,150
+die hier in het blauwe vak staan.
+
+49
+00:02:35,150 --> 00:02:37,159
+Ik zal hem even op het blauw zetten.
+
+50
+00:02:37,159 --> 00:02:39,310
+Die blokjes kun je allemaal proberen.
+
+51
+00:02:39,310 --> 00:02:41,800
+Dus je kunt het spook laten bewegen, alle
+kanten maar op.
+
+52
+00:02:41,800 --> 00:02:47,790
+En een blokje wat je zeker even zou mouten
+uitproberen is het 'wanneer ik de rand raak,
+
+53
+00:02:47,790 --> 00:02:48,790
+draai om' blok.
+
+54
+00:02:48,790 --> 00:02:50,319
+Probeer maar eens wat dat doet.
+
+55
+00:02:50,319 --> 00:02:53,769
+Dat is waarschijnlijk een blokje dat heel
+handig is om te gebruiken voor het spook.
+
+56
+00:02:53,769 --> 00:02:58,109
+In de volgende opdracht kan jij ons een plaatje
+van jouw spook-programma sturen,
+
+57
+00:02:58,109 --> 00:03:01,650
+om te laten zien hoe creatief je blokjes hebt
+uitgekozen.
+
+58
+00:03:01,650 --> 00:03:02,400
+Succes!
+

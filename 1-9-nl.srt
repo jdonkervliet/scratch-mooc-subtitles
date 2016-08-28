@@ -1,0 +1,194 @@
+1
+00:00:00,210 --> 00:00:02,080
+Nou, dat was geen moeilijke opdracht toch?
+
+2
+00:00:02,080 --> 00:00:03,390
+Dat moet je wel gelukt zijn.
+
+3
+00:00:03,390 --> 00:00:05,710
+Kijk maar eens wat ik hier heb geprogrammeerd.
+
+4
+00:00:05,710 --> 00:00:09,040
+Als raak ik groen, of raak ik Ghoul.
+
+5
+00:00:09,040 --> 00:00:11,490
+Als het spook mij pakt, ga ik terug naar het
+begin.
+
+6
+00:00:11,490 --> 00:00:13,370
+Kijk maar eens hoe dat dat eruit ziet.
+
+7
+00:00:13,370 --> 00:00:15,990
+Ik klik op de groene vlag.
+
+8
+00:00:15,990 --> 00:00:17,279
+Oh daar komt het spook aan!
+
+9
+00:00:17,279 --> 00:00:20,779
+Yikes, ik ga terug naar het begin.
+
+10
+00:00:20,779 --> 00:00:22,239
+En voor dat spook hoef ik natuurlijk niets
+te programmeren.
+
+11
+00:00:22,239 --> 00:00:25,149
+Dat hij terug gaat naar zijn begin als hij
+de groene muur raakt.
+
+12
+00:00:25,149 --> 00:00:28,949
+Want ja, het is een spook, en een spook kan
+door de muren.
+
+13
+00:00:28,949 --> 00:00:30,329
+Dat is geen enkel probleem.
+
+14
+00:00:30,329 --> 00:00:33,379
+Er is één ding dat we nog niet geprogrammeerd
+hebben.
+
+15
+00:00:33,379 --> 00:00:37,199
+Iedere keer als we het spel beginnen, dat
+zie je wel, ik zal ook Giga eens even hier
+
+16
+00:00:37,199 --> 00:00:38,350
+in het midden zetten..
+
+17
+00:00:38,350 --> 00:00:43,019
+Als ik nu op de groene vlag klik, dan begint
+ze gewoon precies waar ze staat.
+
+18
+00:00:43,019 --> 00:00:45,280
+Dat is natuurlijk niet echt leuk.
+
+19
+00:00:45,280 --> 00:00:51,120
+Dus één ding wat we nog willen programmeren
+is dat Giga begint bij het begin als het spel
+
+20
+00:00:51,120 --> 00:00:52,120
+start.
+
+21
+00:00:52,120 --> 00:00:57,170
+Als ik haar zo hier mooi op die plek zet waar
+ik haar wil laten beginnen, is een handig
+
+22
+00:00:57,170 --> 00:01:04,059
+trucje, als ik nu naar beweging ga en nu het
+ga-naar-blok pak, dan zie je dat die cijfertjes
+
+23
+00:01:04,059 --> 00:01:08,750
+die hier in ingevuld staan precies om de plek
+staan waar Giga nu staat.
+
+24
+00:01:08,750 --> 00:01:11,360
+Dus als je geen zin hebt om iedere keer te
+typen,
+
+25
+00:01:11,360 --> 00:01:15,610
+kan je je poppetje altijd op de plek neerzetten
+waar je wilt dat ie naartoe gaat, en dan pak
+
+26
+00:01:15,610 --> 00:01:17,520
+je het ga-naar-blok.
+
+27
+00:01:17,520 --> 00:01:21,149
+Dat ga-naar-blok zet ik één keertje hier.
+
+28
+00:01:21,149 --> 00:01:25,430
+Niet natuurlijk binnen het herhaal blok,
+want ik wil maar één keer naar het begin,
+
+29
+00:01:25,430 --> 00:01:28,250
+en niet iedere keer terug naar het begin.
+
+30
+00:01:28,250 --> 00:01:30,189
+Dus ik zal je even laten ziet hoe het werkt.
+
+31
+00:01:30,189 --> 00:01:33,000
+Stel je voor dat Giga daar geëindigd is.
+
+32
+00:01:33,000 --> 00:01:37,479
+Als ik nou op de groene vlag klik,
+dan komt ze bij het begin terecht.
+
+33
+00:01:37,479 --> 00:01:41,450
+Hetzelfde moeten we natuurlijk maken voor
+het spook.
+
+34
+00:01:41,450 --> 00:01:44,700
+Want, zoals je zag toen ik op de groene vlag
+klikte,
+
+35
+00:01:44,700 --> 00:01:48,190
+het spook bleef precies staan waar hij in
+het vorige spel nog stond.
+
+36
+00:01:48,190 --> 00:01:53,369
+Dus jouw volgende programmeer opdracht is
+om ook het spook op een plek in het spel te
+
+37
+00:01:53,369 --> 00:01:54,369
+laten beginnen.
+
+38
+00:01:54,369 --> 00:01:56,600
+Iedere keer dezelfde, je mag zelf kiezen waar.
+
+39
+00:01:56,600 --> 00:02:00,359
+Je kan het spook op de sleutel laten beginnen,
+of in het midden.
+
+40
+00:02:00,359 --> 00:02:03,390
+Je mag het helemaal zelf kiezen,
+maar het is wel de bedoeling dat iedere keer
+
+41
+00:02:03,390 --> 00:02:07,219
+als het spel start,
+dat het spook op een bepaalde plek terecht
+
+42
+00:02:07,219 --> 00:02:08,219
+komt.
+
+43
+00:02:08,219 --> 00:02:08,220
+Succes!
+

@@ -1,0 +1,444 @@
+1
+00:00:01,550 --> 00:00:02,550
+Is het gelukt?
+
+2
+00:00:02,550 --> 00:00:04,370
+Kijk hier moet het blokje natuurlijk komen.
+
+3
+00:00:04,370 --> 00:00:07,779
+Als ze het spook aanraakt, dan veranderen
+we de punten met min één.
+
+4
+00:00:07,779 --> 00:00:13,170
+Een ding dat je misschien gezien hebt is dat
+die punten nu dwars op Giga d'r snoet staan.
+
+5
+00:00:13,170 --> 00:00:14,630
+Dat is niet echt zo handig.
+
+6
+00:00:14,630 --> 00:00:17,090
+Als we dat niet mooi vinden kunnen we dat
+aanpassen,
+
+7
+00:00:17,090 --> 00:00:18,150
+kijk maar eens mee.
+
+8
+00:00:18,150 --> 00:00:19,579
+Ik kan twee dingen doen.
+
+9
+00:00:19,579 --> 00:00:23,099
+Ik kan dit vinkje hier weghalen,
+bij 'maak een variabele'.
+
+10
+00:00:23,099 --> 00:00:26,759
+Als ik dat weg haal, dan komt 'punten' wel
+of niet in beeld.
+
+11
+00:00:26,759 --> 00:00:30,599
+Soms kan het wel handig zijn, als het goed
+duidelijk is,
+
+12
+00:00:30,599 --> 00:00:32,570
+wat de waarde van een variabele is.
+
+13
+00:00:32,570 --> 00:00:33,700
+Welk getal erin zit.
+
+14
+00:00:33,700 --> 00:00:37,230
+Dus ik kan die punten ook oppakken,
+en ik kan hem ergens anders neerzetten.
+
+15
+00:00:37,230 --> 00:00:38,230
+Waar ik hem wel mooi vind.
+
+16
+00:00:38,230 --> 00:00:39,230
+Bijvoorbeeld hier onder.
+
+17
+00:00:39,230 --> 00:00:41,140
+Daar komt Giga waarschijnlijk toch niet zo
+vaak terecht.
+
+18
+00:00:41,140 --> 00:00:42,769
+Dus die kan ik daar neerzetten.
+
+19
+00:00:42,769 --> 00:00:46,489
+Nou dat ik eigenlijk een hartstikke goed spel,
+vind je niet?
+
+20
+00:00:46,489 --> 00:00:51,789
+Ik klik op de vlag, en dan moet ik er snel
+vandoor racen voordat het spook mij kan pakken.
+
+21
+00:00:51,789 --> 00:00:55,679
+Als je het natuurlijk wat makkelijker wilt
+maken kan je Giga wat sneller maken, of het
+
+22
+00:00:55,679 --> 00:00:58,930
+spook wat sneller,
+maar je hebt een hele mooie basis om zo aan
+
+23
+00:00:58,930 --> 00:01:00,230
+het spel te werken.
+
+24
+00:01:00,230 --> 00:01:03,399
+Je mag het spel helemaal aanpassen tot wat
+je wilt.
+
+25
+00:01:03,399 --> 00:01:06,900
+Het hoeft helemaal niet zo te zijn,
+je mag andere poppetjes in het spel zetten,
+
+26
+00:01:06,900 --> 00:01:08,970
+geluidjes erbij, andere opdrachten.
+
+27
+00:01:08,970 --> 00:01:11,400
+Je mag er zoveel aan veranderen als je wilt.
+
+28
+00:01:11,400 --> 00:01:16,611
+Dat is het gave van programmeren,
+je mag alles wat je kan verzinnen in de computer
+
+29
+00:01:16,611 --> 00:01:17,611
+stoppen.
+
+30
+00:01:17,611 --> 00:01:20,080
+Er is nog één ding wat ik jullie wil laten
+zien.
+
+31
+00:01:20,080 --> 00:01:23,630
+Want het is natuurlijk wel zo fijn, als je
+heel hard aan je programma hebt gewerkt, als
+
+32
+00:01:23,630 --> 00:01:28,590
+het ook echt opgeslagen wordt in de computer,
+of op internet.
+
+33
+00:01:28,590 --> 00:01:32,220
+Op Scratch, in de website, kan je een eigen
+account aanmaken.
+
+34
+00:01:32,220 --> 00:01:36,360
+En als je inlogt met je account, dan staan
+alle spellen daar altijd op.
+
+35
+00:01:36,360 --> 00:01:39,880
+Het maakt niet uit waar je bent, op school
+of thuis, of bij je opa en oma.
+
+36
+00:01:39,880 --> 00:01:43,020
+Als je inlogt blijven je spellen op internet
+bestaan.
+
+37
+00:01:43,020 --> 00:01:46,970
+Ik zou je laten zien hoe je je eigen account
+kan maken zodat je spellen nooit verloren
+
+38
+00:01:46,970 --> 00:01:48,340
+gaan.
+
+39
+00:01:48,340 --> 00:01:53,430
+Je ziet hierboven al staan, boven in de balk:
+'Log in om op te slaan.'
+
+40
+00:01:53,430 --> 00:01:57,480
+Alleen als jij tegen Scratch hebt verteld
+wie jij bent, weet ie natuurlijk waar je dat
+
+41
+00:01:57,480 --> 00:01:58,480
+moet opslaan.
+
+42
+00:01:58,480 --> 00:02:01,890
+Dan kan je hier op 'Log in' klikken, en dat
+moet je klikken op dat driehoekje.
+
+43
+00:02:01,890 --> 00:02:06,490
+Nou er staat 'Inloggen', maar ja, we hebben
+nog geen gebruikersnaam of wachtwoord.
+
+44
+00:02:06,490 --> 00:02:10,420
+Dus wat we gaan doen, in plaats van inloggen,
+is 'wordt Scratcher', klik daar maar eens
+
+45
+00:02:10,420 --> 00:02:11,420
+op.
+
+46
+00:02:11,420 --> 00:02:13,760
+En dan kan je hier je eigen gebruikersnaam
+kiezen.
+
+47
+00:02:13,760 --> 00:02:19,340
+Mag zelf kiezen hoe je heet, of iets anders
+verzinnen.
+
+48
+00:02:19,340 --> 00:02:21,620
+Bijvoorbeeld 'PietjePuk123456', dat is een
+mooie naam,
+
+49
+00:02:21,620 --> 00:02:23,160
+die bestaat vast nog niet.
+
+50
+00:02:23,160 --> 00:02:27,590
+En hier moet je een wachtwoord kiezen,
+en je ziet daar ook al een pop-up staan, heel
+
+51
+00:02:27,590 --> 00:02:28,590
+belangrijk.
+
+52
+00:02:28,590 --> 00:02:31,340
+Je moet je wachtwoord goed onthouden,
+en je moet nooit je wachtwoord tegen iemand
+
+53
+00:02:31,340 --> 00:02:32,340
+vertellen.
+
+54
+00:02:32,340 --> 00:02:34,460
+En kies ook het liefst een beetje een moeilijk
+woord,
+
+55
+00:02:34,460 --> 00:02:37,430
+dus niet bijvoorbeeld je huisdier of de naam
+van je juf.
+
+56
+00:02:37,430 --> 00:02:40,310
+Iets wat niemand kan raden dat jouw wachtwoord
+is.
+
+57
+00:02:40,310 --> 00:02:42,870
+Ik ga jullie natuurlijk ook niet mijn wachtwoord
+vertellen!
+
+58
+00:02:42,870 --> 00:02:46,950
+Zo, kunnen jullie lekker niet zijn wat ik
+in tik.
+
+59
+00:02:46,950 --> 00:02:48,910
+Maar je mag zelf iets verzinnen.
+
+60
+00:02:48,910 --> 00:02:54,350
+Dan klik je op volgende,
+dan kan je even je geboorte datum en je geboorte
+
+61
+00:02:54,350 --> 00:02:55,350
+jaar invullen.
+
+62
+00:02:55,350 --> 00:02:57,770
+Mijn geboortejaar is héél lang geleden zoals
+je ziet.
+
+63
+00:02:57,770 --> 00:03:02,250
+Ik ben een meisje, en hier in het land kun
+je '''Nederland' aanklikken.
+
+64
+00:03:02,250 --> 00:03:04,500
+En als je nou geen zin hebt om helemaal naar
+beneden te scrollen,
+
+65
+00:03:04,500 --> 00:03:09,020
+kun je altijd even op de 'n' duwen,
+dan kom je vanzelf bij 'Nederland' terecht.
+
+66
+00:03:09,020 --> 00:03:12,330
+Het staat er wel in het Engels helaas.
+
+67
+00:03:12,330 --> 00:03:13,459
+Klik je op volgende.
+
+68
+00:03:13,459 --> 00:03:17,600
+En hier moet je een email adres invullen,
+zodat ze weten wie er bij het account hoort.
+
+69
+00:03:17,600 --> 00:03:21,250
+Je kan je eigen email adres pakken,
+of als je geen email adres hebt,
+
+70
+00:03:21,250 --> 00:03:23,790
+pak dan het email adres van je vader of moeder.
+
+71
+00:03:23,790 --> 00:03:26,730
+Ik zal jullie mijn email adres laten zien.
+
+72
+00:03:26,730 --> 00:03:30,060
+Je mag me gerust een mailtje sturen trouwens,
+als je vragen hebt.
+
+73
+00:03:30,060 --> 00:03:31,090
+Dan klik je op volgende.
+
+74
+00:03:31,090 --> 00:03:34,000
+Duurt eventjes.
+
+75
+00:03:34,000 --> 00:03:38,900
+En dan gaat Scratch voor jou een programma
+maken.
+
+76
+00:03:38,900 --> 00:03:40,800
+Welkom bij Scratch, PietjePuk123456!
+
+77
+00:03:40,800 --> 00:03:42,120
+Laten we beginnen.
+
+78
+00:03:42,120 --> 00:03:47,610
+Kijk, nu zijn we weer terug bij het spel,
+en je ziet hier al bovenaan staan: 'Wil je
+
+79
+00:03:47,610 --> 00:03:48,610
+opslaan?
+
+80
+00:03:48,610 --> 00:03:49,610
+Klik dan op remix.'
+
+81
+00:03:49,610 --> 00:03:52,480
+Nou, klik maar op 'remix', gaan we doen.
+
+82
+00:03:52,480 --> 00:03:54,341
+Zeg je 'OK, ik snap het.'
+
+83
+00:03:54,341 --> 00:03:57,090
+En wat er dan gebeurt als je gaat remixen
+is,
+
+84
+00:03:57,090 --> 00:03:59,760
+je krijgt een eigen kopie van dit spel.
+
+85
+00:03:59,760 --> 00:04:04,090
+Dus je bent begonnen met mijn spel,
+en nu wordt het spel opgeslagen in jouw eigen
+
+86
+00:04:04,090 --> 00:04:05,090
+Scratch account.
+
+87
+00:04:05,090 --> 00:04:06,880
+Klik je 'OK, ik snap het.'
+
+88
+00:04:06,880 --> 00:04:12,640
+En dan zie je hier nu ook boven staan: Doolhof
+Start remix, van PietjePuk, in plaats van
+
+89
+00:04:12,640 --> 00:04:13,640
+'van Felienne.'
+
+90
+00:04:13,640 --> 00:04:19,349
+En nu is jouw project voor altijd opgeslagen,
+en op welke computer je dan ook inlogt,
+
+91
+00:04:19,349 --> 00:04:22,159
+staan altijd jouw programma's klaar om verder
+te gaan programmeren.
+
+92
+00:04:22,159 --> 00:04:24,800
+Ik hoop dat je de eerste les leuk vond.
+
+93
+00:04:24,800 --> 00:04:30,120
+Dat je alvast wat hebt opgestoken over programmeren,
+herhalen en als-dan-condities,
+
+94
+00:04:30,120 --> 00:04:32,669
+en in de volgende les gaan we een ander spel
+maken
+
+95
+00:04:32,669 --> 00:04:38,180
+waarin Gerrie de diepzee vis andere visjes
+moet pakken zodat ie steeds groter en groter
+
+96
+00:04:38,180 --> 00:04:39,180
+wordt.
+
+97
+00:04:39,180 --> 00:04:39,599
+Tot volgende week!
+
