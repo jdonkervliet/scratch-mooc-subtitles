@@ -1,0 +1,261 @@
+1
+00:00:01,310 --> 00:00:03,720
+Hey, dat ik je vast gelukt om Gerrie te laten
+bewegen!
+
+2
+00:00:03,720 --> 00:00:07,069
+En als het goed is heb je blokken, ongeveer
+zoals deze,
+
+3
+00:00:07,069 --> 00:00:10,560
+met een x, en een y,
+en een omhoog, en een omlaag.
+
+4
+00:00:10,560 --> 00:00:12,480
+Er is alleen wel iets met deze blokken aan
+de hand.
+
+5
+00:00:12,480 --> 00:00:16,230
+Als je goed kijkt dan zie je dat die blokken
+schots en scheef staan!
+
+6
+00:00:16,230 --> 00:00:20,779
+Dus ons programma werkt wel,
+maar ja, dit is niet echt mooi, hè?
+
+7
+00:00:20,779 --> 00:00:23,869
+En programmeurs houden van een opgeruimde
+werkomgeving.
+
+8
+00:00:23,869 --> 00:00:27,449
+Dus wat je kunt doen om die blokken automatisch
+op te ruimen,
+
+9
+00:00:27,449 --> 00:00:31,659
+als je met shift links-klikt,
+dus ik houd shift ingedrukt en ondertussen
+
+10
+00:00:31,659 --> 00:00:34,180
+klik ik met de muis,
+dan staat daar een optie 'opruimen'.
+
+11
+00:00:34,180 --> 00:00:38,900
+En als ik daarop klik gaan die blokken automatisch
+opgeruimd worden!
+
+12
+00:00:38,900 --> 00:00:39,900
+Is dat niet handig?
+
+13
+00:00:39,900 --> 00:00:42,040
+Zou mooi zijn als het met je kamer ook zo
+zou werken!
+
+14
+00:00:42,040 --> 00:00:45,190
+Staat het vanzelf helemaal recht,
+hartstikke handig.
+
+15
+00:00:45,190 --> 00:00:48,050
+Nou, als we het spel uitproberen dan werkt
+het wel,
+
+16
+00:00:48,050 --> 00:00:51,500
+maar misschien heb je ook al gezien:
+als ik nu naar rechts duw,
+
+17
+00:00:51,500 --> 00:00:54,320
+dan gaat het eigenlijk wel mooi,
+maar als ik naar links duw,
+
+18
+00:00:54,320 --> 00:00:56,380
+ja dan zwemt die vis een soort van achteruit!
+
+19
+00:00:56,380 --> 00:01:00,130
+Dat doet het wel,
+maar het is niet zo heel erg mooi.
+
+20
+00:01:00,130 --> 00:01:02,630
+Dus wat we kunnen doen,
+als we naar 'uiterlijken' gaan,
+
+21
+00:01:02,630 --> 00:01:06,929
+dan zie je dat daar een 'rechts', maar ook
+een 'links' uiterlijk te vinden is.
+
+22
+00:01:06,929 --> 00:01:11,340
+Dus als we terug naar het programmeren gaan,
+en we kiezen daar 'uiterlijk',
+
+23
+00:01:11,340 --> 00:01:15,509
+dan zouden we dat uiterlijk kunnen veranderen
+in 'links',
+
+24
+00:01:15,509 --> 00:01:16,610
+en in 'rechts'.
+
+25
+00:01:16,610 --> 00:01:19,619
+Nou, weet jij nou waar die blokken moeten
+komen te staan?
+
+26
+00:01:19,619 --> 00:01:24,390
+Je krijgt een kort puzzeltje hier achter om
+er achter te komen of jij weet waar die blokken
+
+27
+00:01:24,390 --> 00:01:25,619
+moeten staan.
+
+28
+00:01:25,619 --> 00:01:27,600
+Nou, dat was niet zo lastig hè?
+
+29
+00:01:27,600 --> 00:01:29,749
+Als je naar rechts gaat verander je het uiterlijk
+in 'rechts',
+
+30
+00:01:29,749 --> 00:01:32,080
+en als je naar links gaat verander je het
+uiterlijk in 'links'.
+
+31
+00:01:32,080 --> 00:01:34,210
+Kijk, zo ziet dat er uit.
+
+32
+00:01:34,210 --> 00:01:36,249
+Dat is al een stuk mooiere vis.
+
+33
+00:01:36,249 --> 00:01:38,499
+Dat lijkt eigenlijk wel een beetje op een
+echte vis,
+
+34
+00:01:38,499 --> 00:01:41,249
+zoals die zo mooi naar links en naar rechts
+zwemt.
+
+35
+00:01:41,249 --> 00:01:47,409
+Nou, dat werkt goed maar we willen natuurlijk
+niet alleen maar door het hele level heen
+
+36
+00:01:47,409 --> 00:01:48,409
+zwemmen.
+
+37
+00:01:48,409 --> 00:01:50,090
+We willen dat mooie PurleFishje gaan opeten.
+
+38
+00:01:50,090 --> 00:01:52,810
+Want die vinden we hartstikke lekker smaken.
+
+39
+00:01:52,810 --> 00:01:57,249
+Dus jouw volgende programmeer opdracht is
+om het visje
+
+40
+00:01:57,249 --> 00:01:58,249
+'HULP!'
+
+41
+00:01:58,249 --> 00:02:01,049
+te laten roepen als Gerrie hem opeet.
+
+42
+00:02:01,049 --> 00:02:07,439
+Dus we gaan naar de code van de PurleFish,
+en hier moeten blokjes komen waarmee de PurleFish
+
+43
+00:02:07,439 --> 00:02:10,399
+bepaald of Gerrie hem aan het opeten is.
+
+44
+00:02:10,399 --> 00:02:13,310
+En als [Gerrie] hem aanraakt,
+dan moet ie zeggen 'Help!'
+
+45
+00:02:13,310 --> 00:02:14,500
+of 'Ga weg!'
+
+46
+00:02:14,500 --> 00:02:17,470
+of 'Paniek!',
+je mag zelf een leuk woord uitkiezen.
+
+47
+00:02:17,470 --> 00:02:21,070
+En denk daarbij weer aan dit ene blokje,
+dat geef ik je weer als tip mee.
+
+48
+00:02:21,070 --> 00:02:26,620
+Hier, het 'raak ik Gerrie' blok,
+dat ga je zeker nodig hebben in je programmeer
+
+49
+00:02:26,620 --> 00:02:29,480
+opdracht,
+maar aan jou is de opdracht:
+
+50
+00:02:29,480 --> 00:02:30,489
+wat moet ik doen?
+
+51
+00:02:30,489 --> 00:02:31,810
+Wanneer raak ik Gerrie aan?
+
+52
+00:02:31,810 --> 00:02:34,549
+En je mag helemaal zelf verzinnen wat je dan
+gaat doen.
+
+53
+00:02:34,549 --> 00:02:37,629
+Denk ook bijvoorbeeld aan een geluidje,
+dat kan je ook altijd proberen.
+
+54
+00:02:37,629 --> 00:02:39,760
+Maar in ieder geval moet ie roepen 'Help!'
+
+55
+00:02:39,760 --> 00:02:41,569
+of iets van die strekking.
+
+56
+00:02:41,569 --> 00:02:42,300
+Zet hem op!
+

@@ -1,0 +1,245 @@
+1
+00:00:00,110 --> 00:00:03,219
+Nou, dat was misschien best wel een lastige
+opdracht.
+
+2
+00:00:03,219 --> 00:00:06,350
+Want als dat visje eenmaal verdwenen is, dan
+komt ie niet terug.
+
+3
+00:00:06,350 --> 00:00:09,740
+Dus wat er moeilijk aan was is dat je hier
+helemaal bovenaan,
+
+4
+00:00:09,740 --> 00:00:13,440
+als het spel begint,
+wel één keertje een verschijn blok moet
+
+5
+00:00:13,440 --> 00:00:14,440
+hebben.
+
+6
+00:00:14,440 --> 00:00:17,710
+Want als het spel afgelopen is op het moment
+dat het visje onzichtbaar is,
+
+7
+00:00:17,710 --> 00:00:18,790
+dan komt ie nooit meer terug.
+
+8
+00:00:18,790 --> 00:00:20,850
+Dus je had twee verschijn blokken nodig.
+
+9
+00:00:20,850 --> 00:00:24,300
+Eentje hier bovenin, en eentje helemaal op
+het einde,
+
+10
+00:00:24,300 --> 00:00:25,300
+nadat ie verdwenen is.
+
+11
+00:00:25,300 --> 00:00:27,670
+En dan werkt het heel goed,
+kijk maar eens mee.
+
+12
+00:00:27,670 --> 00:00:31,520
+Als ik nu op de groene vlag klik,
+dan verschijnt ie.
+
+13
+00:00:31,520 --> 00:00:32,660
+Dat is dus dit verschijn-blok.
+
+14
+00:00:32,660 --> 00:00:36,980
+En vervolgens,
+iedere keer als ik wordt aangeraakt,
+
+15
+00:00:36,980 --> 00:00:39,590
+dan verdwijn ik,
+maar na één seconde kom ik weer terug.
+
+16
+00:00:39,590 --> 00:00:43,300
+Dus als Gerrie dan snel weer weg zwemt,
+kijk, dan blijft ie gewoon staan,
+
+17
+00:00:43,300 --> 00:00:44,300
+en hij blijft 'Help!'
+
+18
+00:00:44,300 --> 00:00:45,300
+zeggen.
+
+19
+00:00:45,300 --> 00:00:47,220
+Nou vind je dit misschien niet zo'n heel moeilijk
+spel.
+
+20
+00:00:47,220 --> 00:00:50,010
+Want als dat PurpleFishje iedere keer op dezelfde
+plek staat,
+
+21
+00:00:50,010 --> 00:00:52,620
+ja kijk,
+het is voor Gerrie nogal makkelijk om hem
+
+22
+00:00:52,620 --> 00:00:53,730
+iedere keer te blijven vangen.
+
+23
+00:00:53,730 --> 00:00:54,730
+Hop!
+
+24
+00:00:54,730 --> 00:00:55,730
+Hij blijft maar terug komen.
+
+25
+00:00:55,730 --> 00:00:57,910
+Dat is niet echt zo heel erg lastig.
+
+26
+00:00:57,910 --> 00:01:02,399
+Dus we willen liever dat,
+in plaats van op dezelfde plek waar ie al
+
+27
+00:01:02,399 --> 00:01:06,070
+stond,
+dat visje op een willekeurige plek in het
+
+28
+00:01:06,070 --> 00:01:07,550
+veld terecht komt.
+
+29
+00:01:07,550 --> 00:01:11,500
+Ga maar eens naar het bewegings-blok.
+
+30
+00:01:11,500 --> 00:01:17,290
+Dan pakken we een 'ga naar ...',
+die zetten we bij het verschijnen.
+
+31
+00:01:17,290 --> 00:01:22,510
+Dus voordat ie gaat verschijnen gaan we naar
+een bepaalde plek toe.
+
+32
+00:01:22,510 --> 00:01:26,110
+Nu staan daar getallen,
+dus als je het programmaatje zo uit zou proberen,
+
+33
+00:01:26,110 --> 00:01:29,689
+ik zal het eens even laten zien,
+kijk, dan blijft ie nog steeds iedere keer
+
+34
+00:01:29,689 --> 00:01:32,150
+op dezelfde plek waar ie nu al staat.
+
+35
+00:01:32,150 --> 00:01:36,010
+Maar als we naar 'functies' gaan,
+dan staat daar weer een super groot blok,
+
+36
+00:01:36,010 --> 00:01:40,970
+dat bijna niet er in past,
+'willekeurig getal tussen 1 en 10'.
+
+37
+00:01:40,970 --> 00:01:45,110
+Pak dat maar eens op,
+en dat stoppen we in die gaatjes.
+
+38
+00:01:45,110 --> 00:01:49,770
+En zowel de X, als de Y,
+daar gaan we een willekeurig getal in stoppen.
+
+39
+00:01:49,770 --> 00:01:53,259
+Ik zal het even opschuiven,
+want het blok is al zo groot dat het er bijna
+
+40
+00:01:53,259 --> 00:01:54,330
+niet meer in past.
+
+41
+00:01:54,330 --> 00:02:00,970
+Als je nu op de groene vlag klikt,
+en ik pak het visje,
+
+42
+00:02:00,970 --> 00:02:03,420
+komt ie op een andere hele andere plek terecht!
+
+43
+00:02:03,420 --> 00:02:07,430
+Maar misschien zijn 1 en 10 niet echt de goede
+keuzes.
+
+44
+00:02:07,430 --> 00:02:12,540
+Want als je de vorige les hebt opgelet,
+dan weet je dat 0.0 precies in het midden
+
+45
+00:02:12,540 --> 00:02:13,540
+is.
+
+46
+00:02:13,540 --> 00:02:16,810
+Dus 1 en 10 is een beetje in de buurt van
+het midden iedere keer.
+
+47
+00:02:16,810 --> 00:02:22,220
+Dus jouw volgende programmeer opdracht is
+goede getallen uitkiezen voor die 1 en die
+
+48
+00:02:22,220 --> 00:02:24,610
+10,
+want dat is niet echt zo heel erg willekeurig.
+
+49
+00:02:24,610 --> 00:02:26,370
+Dat blijft alleen maar in het midden.
+
+50
+00:02:26,370 --> 00:02:29,450
+En denk er ook aan dat de linker kant van
+het veld,
+
+51
+00:02:29,450 --> 00:02:31,130
+dat dat negatieve getallen zijn.
+
+52
+00:02:31,130 --> 00:02:35,130
+Dus probeer ook eens een getal onder nul in
+de vakjes te zetten.
+
+53
+00:02:35,130 --> 00:02:35,689
+Succes!
+

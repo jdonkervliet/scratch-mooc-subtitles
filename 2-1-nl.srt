@@ -1,0 +1,87 @@
+1
+00:00:00,480 --> 00:00:04,009
+Hallo allemaal,
+welkom bij les twee van ScratchX met Felienne.
+
+2
+00:00:04,009 --> 00:00:05,980
+Deze week gaan we diepzeevissen.
+
+3
+00:00:05,980 --> 00:00:08,690
+En als je de link in de online omgeving hebt
+gevolgd,
+
+4
+00:00:08,690 --> 00:00:11,839
+dan ben je als het goed is bij het volgende
+programma uitgekomen.
+
+5
+00:00:11,839 --> 00:00:12,940
+Kijk maar eens met mij mee.
+
+6
+00:00:12,940 --> 00:00:14,490
+Hier is het programma.
+
+7
+00:00:14,490 --> 00:00:17,769
+Je ziet dat we een 'Gerrie' hebben en een
+'PurleFish',
+
+8
+00:00:17,769 --> 00:00:20,910
+maar verder zitten er nog helemaal geen blokken
+in dit programma,
+
+9
+00:00:20,910 --> 00:00:22,530
+want die gaan jullie zelf toevoegen.
+
+10
+00:00:22,530 --> 00:00:28,039
+Net als vorige week willen we het poppetje
+gaan besturen met de links, rechts, omhoog
+
+11
+00:00:28,039 --> 00:00:29,050
+en omlaag toetsen.
+
+12
+00:00:29,050 --> 00:00:35,030
+Dus wat we daar zeker voor nodig hebben is
+een 'wanneer ... wordt ingedrukt',
+
+13
+00:00:35,030 --> 00:00:37,660
+namelijk omhoog, omlaag, rechts en links.
+
+14
+00:00:37,660 --> 00:00:41,500
+En wat we natuurlijk ook gaan gebruiken zijn
+weer deze blokken:
+
+15
+00:00:41,500 --> 00:00:45,269
+de verander-x en de verander-y blokken.
+
+16
+00:00:45,269 --> 00:00:49,220
+Maar na les één ben je natuurlijk echt een
+zelfstandige programmeur geworden,
+
+17
+00:00:49,220 --> 00:00:53,190
+dus ik denk dat het jou wel moet lukken om
+de goede blokken op de goede plaats te krijgen.
+
+18
+00:00:53,190 --> 00:00:57,840
+Links, rechts, omhoog en omlaag,
+dat is jouw eerste opdracht voor les twee.
+
+19
+00:00:57,840 --> 00:00:58,489
+Zet hem op!
+

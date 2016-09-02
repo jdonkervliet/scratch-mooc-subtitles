@@ -1,0 +1,197 @@
+1
+00:00:00,220 --> 00:00:01,220
+Is het gelukt?
+
+2
+00:00:01,220 --> 00:00:02,350
+Hier zie je mijn code.
+
+3
+00:00:02,350 --> 00:00:07,109
+Dus wat ik gedaan heb is:
+ik herhaal en iedere keer als ik Gerrie aanraak,
+
+4
+00:00:07,109 --> 00:00:09,850
+dan zeg ik 'help!',
+en ik heb er ook nog een mooi 'pop' geluidje
+
+5
+00:00:09,850 --> 00:00:12,490
+bij gemaakt,
+zodat we het ook kunnen horen dat de PurpleFish
+
+6
+00:00:12,490 --> 00:00:13,490
+gepakt wordt.
+
+7
+00:00:13,490 --> 00:00:15,010
+Kijk maar eens hoe dat werkt.
+
+8
+00:00:15,010 --> 00:00:17,140
+Hier is Gerrie,
+hij is lekker aan het zwemmen.
+
+9
+00:00:17,140 --> 00:00:20,720
+En als ie die PurpleFish tegen komt,
+dan zegt de PurpleFish 'Help!',
+
+10
+00:00:20,720 --> 00:00:24,789
+en je hoort ook de hele tijd een geluidje,
+zolang dat ie hem aanraakt.
+
+11
+00:00:24,789 --> 00:00:28,829
+Nou, dat ik al een heel mooi programma,
+maar we willen natuurlijk eigenlijk dat die
+
+12
+00:00:28,829 --> 00:00:32,140
+PurpleFish verdwijnt,
+want als ie opgegeten is dan moet ie niet
+
+13
+00:00:32,140 --> 00:00:33,210
+blijven staan.
+
+14
+00:00:33,210 --> 00:00:38,510
+Bij uiterlijken, waar je ook iets kan zeggen,
+daar staat ook een 'verschijn' en een 'verdwijn'
+
+15
+00:00:38,510 --> 00:00:39,510
+blokje.
+
+16
+00:00:39,510 --> 00:00:43,530
+Dus we pakken dat verdwijn-blokje,
+en dat gaan we zetten op de goede plek.
+
+17
+00:00:43,530 --> 00:00:47,600
+Nou is het jouw kleine tussen-opdrachtje om
+even te kijken
+
+18
+00:00:47,600 --> 00:00:52,280
+of jij weet op welke plek dat het verdwijn-blok
+terecht moet komen.
+
+19
+00:00:53,220 --> 00:00:54,980
+Nou, dat was niet zo heel lastig hè?
+
+20
+00:00:54,990 --> 00:00:57,430
+Je pakt dat verdwijn-blok,
+en je zet dat hier.
+
+21
+00:00:57,430 --> 00:01:02,380
+Het maakt eigenlijk niet uit of dat nou vóór
+of achter dat geluidje terecht komt.
+
+22
+00:01:02,380 --> 00:01:06,770
+Nu gaan we starten,
+en als we de vis nu aanraken,
+
+23
+00:01:06,770 --> 00:01:08,140
+kijk daar gaan we,
+WOOP!
+
+24
+00:01:08,140 --> 00:01:09,950
+Dan gaat ie vanzelf weg.
+
+25
+00:01:09,950 --> 00:01:10,950
+Dat werkt goed.
+
+26
+00:01:10,950 --> 00:01:14,540
+Alleen, het werkt een beetje iets té goed!
+
+27
+00:01:14,540 --> 00:01:19,120
+Kijk, er is nu helemaal geen vis meer,
+en die komt nooit meer terug.
+
+28
+00:01:19,120 --> 00:01:23,640
+Want als hij eenmaal één keertje Gerrie
+heeft aangeraakt dan is hij verdwenen.
+
+29
+00:01:23,640 --> 00:01:26,190
+En ja, hij komt niet meer terug.
+
+30
+00:01:26,190 --> 00:01:29,240
+Dus we kunnen daarvoor een verschijn-blok
+pakken.
+
+31
+00:01:29,240 --> 00:01:32,990
+En dat verschijn-blok dat zetten we hier achter.
+
+32
+00:01:32,990 --> 00:01:35,451
+Wat gaan we nou doen?
+
+33
+00:01:35,451 --> 00:01:40,880
+Jouw volgende programmeer opdracht is om de
+PurpleFish niet voor altijd te laten verdwijnen,
+
+34
+00:01:40,880 --> 00:01:42,600
+maar voor eventjes.
+
+35
+00:01:42,600 --> 00:01:46,820
+Dus hij moet verdwijnen,
+even wachten, bijvoorbeeld één seconde,
+
+36
+00:01:46,820 --> 00:01:48,460
+en dan weer terug verschijnen.
+
+37
+00:01:48,460 --> 00:01:51,860
+Dus weet jij welke blokjes je daar voor moet
+gebruiken?
+
+38
+00:01:51,860 --> 00:01:55,080
+En het wacht-blokje,
+misschien weet je dat nog van les één,
+
+39
+00:01:55,080 --> 00:01:57,770
+dat zit onder de categorie 'besturen'.
+
+40
+00:01:57,770 --> 00:01:59,760
+Dus in de gele categorie kan je een wacht-blok
+vinden,
+
+41
+00:01:59,760 --> 00:02:04,000
+en kijk jij maar eens of je die blokjes, de
+verschijn-, de verdwijn- en het wacht-blok
+
+42
+00:02:04,000 --> 00:02:05,220
+op de goede plek krijgt.
+
+43
+00:02:05,220 --> 00:02:05,780
+Succes!
+
