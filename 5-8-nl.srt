@@ -1,0 +1,243 @@
+1
+00:00:00,160 --> 00:00:01,160
+Kijk zo moet het!
+
+2
+00:00:01,160 --> 00:00:06,259
+De vleermuis wacht totdat de muur er is en
+als de muur voorbij is, geeft hij een punt.
+
+3
+00:00:06,259 --> 00:00:11,160
+En dan wacht hij weer tot de muur aan de andere
+kant uitkomt, en dat herhaalt hij de hele
+
+4
+00:00:11,160 --> 00:00:12,160
+tijd door.
+
+5
+00:00:12,160 --> 00:00:15,360
+Dat gaat goed, ik zal proberen dit te demonstreren.
+
+6
+00:00:15,360 --> 00:00:21,300
+Want ons spel is inmiddels al best wel lastig
+geworden, kijk als ik er goed doorheen vlieg,
+
+7
+00:00:21,300 --> 00:00:22,300
+jaaaa.
+
+8
+00:00:22,300 --> 00:00:24,030
+Dan heb ik een punt!
+
+9
+00:00:24,030 --> 00:00:27,279
+En als ik het nog een keer doe, jaaa dan heb
+ik twee punten!
+
+10
+00:00:27,279 --> 00:00:31,360
+Helaas heb ik nu de muur aangeraakt, maar
+het programma werkt goed!
+
+11
+00:00:31,360 --> 00:00:37,480
+Je krijgt iedere keer één punt in plaats
+van dertig punten als die muur voorbij rolt.
+
+12
+00:00:37,480 --> 00:00:39,829
+Wat gaan we nu doen?
+
+13
+00:00:39,829 --> 00:00:44,820
+Zoals ik had beloofd, gaan we proberen de
+vleermuis omhoog te slaan met onze eigen hand!
+
+14
+00:00:44,820 --> 00:00:46,380
+Dat is toch echt vet?
+
+15
+00:00:46,380 --> 00:00:51,289
+En het zal je misschien wel verbazen dat je
+daar maar één nieuw blokje voor nodig hebt
+
+16
+00:00:51,289 --> 00:00:52,820
+om dat voor elkaar te krijgen.
+
+17
+00:00:52,820 --> 00:00:56,170
+Kijk maar eens met mij waar dat speciale blokje
+zit.
+
+18
+00:00:56,170 --> 00:00:58,690
+Dat zit hier bij gebeurtenissen.
+
+19
+00:00:58,690 --> 00:01:02,600
+Daar staat een 'wanneer geluidsterkte groter
+dan 0'.
+
+20
+00:01:02,600 --> 00:01:07,520
+Even wat ruimte maken, en ik kan daar ook
+'videobeweging' kiezen.
+
+21
+00:01:07,520 --> 00:01:11,300
+En als je dat kiest dan gaat Scratch aan jou
+vragen: "Hé hallo!
+
+22
+00:01:11,300 --> 00:01:13,470
+Mag ik eigenlijk wel in jouw webcam kijken?"
+
+23
+00:01:13,470 --> 00:01:17,000
+Moet je natuurlijk nooit zomaar 'ja' op zeggen,
+want dan kan iemand in jouw webcam kijken!
+
+24
+00:01:17,000 --> 00:01:19,950
+Maar in dit geval zijn we het zelf en vinden
+we het goed.
+
+25
+00:01:19,950 --> 00:01:23,990
+Als je nu op 'allow' klikt, dan zie je, kijk:
+'Hallo jongens!
+
+26
+00:01:23,990 --> 00:01:26,080
+Dit ben ik via de webcam'.
+
+27
+00:01:26,080 --> 00:01:30,960
+Dan kom je in beeld, omdat je op de webcam
+achter je eigen scherm staat.
+
+28
+00:01:30,960 --> 00:01:34,240
+Nou dat is al heel gaaf, maar we gaan het
+nog wat leuker maken.
+
+29
+00:01:34,240 --> 00:01:38,310
+Ik pak even de vleermuis op en die zet ik
+hierboven in de hoek.
+
+30
+00:01:38,310 --> 00:01:43,830
+Ik pak dat blok 'wanneer videobeweging groter
+is dan 10'.
+
+31
+00:01:43,830 --> 00:01:48,020
+We gaan simpel beginnen, want we gaan als
+eerste gewoon even een geluidje maken zodat
+
+32
+00:01:48,020 --> 00:01:51,380
+we zeker weten dat dit blok wel echt doet
+wat we willen.
+
+33
+00:01:51,380 --> 00:01:53,530
+We gaan naar geluid en pakken 'pop'.
+
+34
+00:01:53,530 --> 00:02:00,350
+En nu iedere keer als ik met mijn hand daar
+de vleermuis raak, dan hoor je 'pop, pop,
+
+35
+00:02:00,350 --> 00:02:01,350
+pop, pop'.
+
+36
+00:02:01,350 --> 00:02:03,510
+Nou dat is wel al heel cool, hè?
+
+37
+00:02:03,510 --> 00:02:07,970
+Je kunt misschien ook wel een ander spel maken
+na deze les, waarmee je van alles kunt doen
+
+38
+00:02:07,970 --> 00:02:09,039
+met de webcam.
+
+39
+00:02:09,039 --> 00:02:15,250
+Nu willen we natuurlijk dat, in plaats van,
+of naast, dat je op de spatiebalk duwt, dat
+
+40
+00:02:15,250 --> 00:02:20,790
+ook als er videobeweging is op die sprite,
+dat dan de vleermuis omhoog gaat.
+
+41
+00:02:20,790 --> 00:02:27,440
+Dat is een kwestie van deze blokjes pakken,
+een kopie maken, hieronder aan plakken en
+
+42
+00:02:27,440 --> 00:02:29,690
+dan gaat de vleermuis steeds omhoog.
+
+43
+00:02:29,690 --> 00:02:34,730
+Ik start het spel, dit wordt helemaal een
+uitdaging, want nu ga ik met mij handen zwaaien,
+
+44
+00:02:34,730 --> 00:02:36,730
+in plaats van op de spatiebalk duwen!
+
+45
+00:02:36,730 --> 00:02:37,730
+Daar gaat ie.
+
+46
+00:02:37,730 --> 00:02:44,310
+Als ik nu met mijn hand zwaai, zie je dat
+de vleermuis omhoog vliegt!
+
+47
+00:02:44,310 --> 00:02:47,580
+Alleen door mijn eigen beweging van mijn hand!
+
+48
+00:02:47,580 --> 00:02:50,830
+Nou dat is toch wel echt héél gaaf, hè?
+
+49
+00:02:50,830 --> 00:02:54,230
+Dat was het jongens, dat was het einde van
+les 5.
+
+50
+00:02:54,230 --> 00:02:59,280
+Speel lekker verder met je spel, zet er nog
+vijanden in, doe iets geks met de webcam en
+
+51
+00:02:59,280 --> 00:03:04,250
+laat ons maar zien, in de studio, wat jullie
+allemaal geprogrammeerd hebben deze week,
+
+52
+00:03:04,250 --> 00:03:05,950
+met of zonder de webcam.
+
+53
+00:03:05,950 --> 00:03:06,410
+Doei!!
+

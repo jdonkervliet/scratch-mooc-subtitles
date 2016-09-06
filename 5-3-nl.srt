@@ -1,0 +1,117 @@
+1
+00:00:00,149 --> 00:00:04,770
+Kijk in de vorige puzzel heb jij een herhaalblok
+toegevoegd, dus we zijn nu helemaal klaar
+
+2
+00:00:04,770 --> 00:00:05,779
+met de muur.
+
+3
+00:00:05,779 --> 00:00:08,240
+Tijd dus om eens even naar de vleermuis te
+gaan kijken!
+
+4
+00:00:08,240 --> 00:00:12,929
+Wat we gaan doen, in zo'n Flappy Bird spel,
+is dat die vleermuis steeds naar beneden moet
+
+5
+00:00:12,929 --> 00:00:13,929
+zakken.
+
+6
+00:00:13,929 --> 00:00:18,010
+Dus hij begint in het midden en dan zakt hij
+naar beneden en als jij op de spatiebalk duwt,
+
+7
+00:00:18,010 --> 00:00:19,270
+dan floept hij omhoog!
+
+8
+00:00:19,270 --> 00:00:20,930
+Dat is wat we nu gaan programmeren.
+
+9
+00:00:20,930 --> 00:00:21,930
+Kijk maar mee.
+
+10
+00:00:21,930 --> 00:00:24,340
+We gaan even naar de code van de vleermuis.
+
+11
+00:00:24,340 --> 00:00:28,439
+We pakken een 'wanneer er op de groene vlag
+wordt geklikt' om te beginnen.
+
+12
+00:00:28,439 --> 00:00:31,260
+We gaan eerst naar een startpositie.
+
+13
+00:00:31,260 --> 00:00:35,370
+Nou waar hij nu staat is een prima startpositie,
+dus die laten we gewoon staan.
+
+14
+00:00:35,370 --> 00:00:38,340
+Ga naar -120 en y = 0.
+
+15
+00:00:38,340 --> 00:00:44,620
+En dan pakken we een herhaal blok, want we
+gaan steeds naar beneden vallen.
+
+16
+00:00:44,620 --> 00:00:49,690
+Welk blokje heb je nodig als je steeds naar
+beneden wilt gaan?
+
+17
+00:00:49,690 --> 00:00:54,300
+Dat is natuurlijk een 'verander y met' blok.
+
+18
+00:00:54,300 --> 00:00:57,670
+Dat staat hier bij 'beweging', zetten we er
+in.
+
+19
+00:00:57,670 --> 00:01:02,520
+En jij weet al, van de vorige puzzel, dat
+dat natuurlijk geen 10 moet zijn, maar iets
+
+20
+00:01:02,520 --> 00:01:05,160
+onder nul, laten we eens zeggen -2.
+
+21
+00:01:05,160 --> 00:01:12,280
+Kijk als ik nu op de groene vlag klik, gaat
+die vleermuis steeds maar weer naar beneden.
+
+22
+00:01:12,280 --> 00:01:17,300
+Nu is het jouw volgende programmeeropdracht
+om te programmeren dat die vleermuis omhoog
+
+23
+00:01:17,300 --> 00:01:19,490
+gaat als je op de spatiebalk duwt.
+
+24
+00:01:19,490 --> 00:01:25,130
+Laten we zeggen 25 omhoog, dat hij lekker
+een goede flap krijgt om door die muren heen
+
+25
+00:01:25,130 --> 00:01:26,130
+te gaan.
+
+26
+00:01:26,130 --> 00:01:26,789
+Ga jij het voor me programmeren?
+

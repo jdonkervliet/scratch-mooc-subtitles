@@ -1,0 +1,189 @@
+1
+00:00:00,580 --> 00:00:02,170
+Kijk zo heb ik het gedaan.
+
+2
+00:00:02,170 --> 00:00:08,250
+Ik maak de x 240 en de y 0 en dan laat ik
+hem helemaal opschuiven naar -240.
+
+3
+00:00:08,250 --> 00:00:14,730
+Dat schuift al heel mooi, maar helaas gaat
+de muur dan wel iedere keer op dezelfde hoogte.
+
+4
+00:00:14,730 --> 00:00:18,970
+En als je wel eens een echt Flappy Bird spel
+hebt gespeeld, dan weet je dat die muur soms
+
+5
+00:00:18,970 --> 00:00:20,710
+hoog komt en dan weer laag.
+
+6
+00:00:20,710 --> 00:00:22,790
+Dus dat willen wij ook gaan programmeren.
+
+7
+00:00:22,790 --> 00:00:23,970
+Kijk maar eens mee!
+
+8
+00:00:23,970 --> 00:00:29,300
+In plaats van dat die y, die hoogte, iedere
+keer op nul staat, wil ik hem steeds weer
+
+9
+00:00:29,300 --> 00:00:30,640
+op een ander getal.
+
+10
+00:00:30,640 --> 00:00:36,610
+Nou als ik zeg 'steeds weer op een ander getal',
+dan zeg jij natuurlijk 'een willekeurig getal'.
+
+11
+00:00:36,610 --> 00:00:37,610
+Helemaal goed!
+
+12
+00:00:37,610 --> 00:00:42,070
+Je kan een willekeurig getal pakken op die
+nul zetten.
+
+13
+00:00:42,070 --> 00:00:47,190
+Nou tussen de 1 en de 10, dat weet je misschien
+nog wel, dat gaat niet zoveel verschil maken,
+
+14
+00:00:47,190 --> 00:00:48,490
+want dat zit hier ergens in het midden.
+
+15
+00:00:48,490 --> 00:00:54,290
+Ik kan er wel eens op klikken, maar iedere
+keer komt hij toch ongeveer even hoog.
+
+16
+00:00:54,290 --> 00:01:00,670
+Als ik die getallen nou een beetje aanpas,
+ik kan daar wel bijvoorbeeld -100 en 100 van
+
+17
+00:01:00,670 --> 00:01:01,670
+maken.
+
+18
+00:01:01,670 --> 00:01:04,670
+Dan zie je dat er echt een groot verschil
+is.
+
+19
+00:01:04,670 --> 00:01:09,330
+Maar wat we ook zien, kijk, die muur gaat
+helemaal scheef.
+
+20
+00:01:09,330 --> 00:01:13,490
+In plaats van dat hij recht gaat, gaat hij
+een beetje terug naar het midden.
+
+21
+00:01:13,490 --> 00:01:15,260
+Waar ligt dat nou aan denk je?
+
+22
+00:01:15,260 --> 00:01:21,100
+Welk blokje zorgt ervoor dat die muur terug
+naar het midden schuift iedere keer?
+
+23
+00:01:21,100 --> 00:01:24,660
+Ik denk dat jij dit hebt aangeklikt.
+
+24
+00:01:24,660 --> 00:01:29,710
+Die y 0 hier, die zorgt ervoor dat we wel
+op een willekeurige hoogte beginnen, maar
+
+25
+00:01:29,710 --> 00:01:31,930
+iedere keer weer naar dat midden terugschuiven.
+
+26
+00:01:31,930 --> 00:01:36,640
+Dus wat we willen doen, is dat getal opslaan
+en twee keer gebruiken.
+
+27
+00:01:36,640 --> 00:01:39,310
+Bij het begin en bij het einde.
+
+28
+00:01:39,310 --> 00:01:42,840
+Nou als ik zeg 'opslaan', zeg jij natuurlijk
+'variabele'!
+
+29
+00:01:42,840 --> 00:01:50,950
+We gaan een variabele maken en die noemen
+we 'hoogte van de muur', zo.
+
+30
+00:01:50,950 --> 00:01:56,760
+En in plaats van die y op een willekeurig
+getal te gaan zetten, gaan we de y zetten
+
+31
+00:01:56,760 --> 00:01:58,180
+op 'hoogte van de muur'.
+
+32
+00:01:58,180 --> 00:02:01,040
+Kijk en dan plopt dat 'willekeurige getal'
+eruit.
+
+33
+00:02:01,040 --> 00:02:05,780
+Nu moeten we natuurlijk nog dat willekeurige
+getal in die hoogte zetten.
+
+34
+00:02:05,780 --> 00:02:08,950
+We hebben daarvoor een 'maak' blok, he die
+hebben we ook al eerder gebruikt.
+
+35
+00:02:08,950 --> 00:02:14,421
+Dus we gaan bij de 'hoogte van de muur' een
+willekeurig getal daarin stoppen en dan bij
+
+36
+00:02:14,421 --> 00:02:19,590
+zowel het begin, aan de rechterkant van het
+veld, als die linkerkant waar we naar toe
+
+37
+00:02:19,590 --> 00:02:24,170
+moeten dan gaan we naar de 'hoogte van de
+muur' schuiven.
+
+38
+00:02:24,170 --> 00:02:26,150
+Kijk maar eens met mij mee!
+
+39
+00:02:26,150 --> 00:02:29,630
+Dat schuift hartstikke mooi!
+
+40
+00:02:29,630 --> 00:02:31,900
+Dat wordt al een mooi spel, hè?
+
+41
+00:02:31,900 --> 00:02:36,489
+Maar we moeten ook nog de vleermuis gaan laten
+bewegen dat gaan we doen in het volgende filmpje.
+

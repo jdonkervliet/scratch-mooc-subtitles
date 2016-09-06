@@ -1,0 +1,101 @@
+1
+00:00:00,310 --> 00:00:02,510
+Zo dat ziet er al best wel cool uit, hè?
+
+2
+00:00:02,510 --> 00:00:05,370
+Kijk maar eens, dat heb je natuurlijk in je
+eigen spel ook al gezien.
+
+3
+00:00:05,370 --> 00:00:08,380
+Het is echt net alsof die vleermuis vliegt!
+
+4
+00:00:08,380 --> 00:00:10,480
+Pung daar gaat hij weer.
+
+5
+00:00:10,480 --> 00:00:11,480
+Supercool.
+
+6
+00:00:11,480 --> 00:00:15,850
+Maar het is eigenlijk wel een beetje jammer
+dat die vleermuis gewoon dwars door die muur
+
+7
+00:00:15,850 --> 00:00:17,039
+heen kan vliegen, hè?
+
+8
+00:00:17,039 --> 00:00:18,590
+Dat willen we natuurlijk niet!
+
+9
+00:00:18,590 --> 00:00:22,830
+Dus jouw volgende programmeerpuzzel, ik heb
+twee opdrachten voor jou.
+
+10
+00:00:22,830 --> 00:00:28,380
+Opdracht 1: Zorg ervoor dat als die vleermuis
+een muur aanraakt, dat hij dan 'oeps' zegt.
+
+11
+00:00:28,380 --> 00:00:29,779
+Of iets anders natuurlijk, hè?
+
+12
+00:00:29,779 --> 00:00:33,550
+Het mag ook zijn 'auw' of 'ai dat was een
+muur!'
+
+13
+00:00:33,550 --> 00:00:39,270
+Kies het zelf maar uit, maar laat de vleermuis
+iets zeggen als hij een muur aanraakt.
+
+14
+00:00:39,270 --> 00:00:40,410
+Wat mag je zelf kiezen.
+
+15
+00:00:40,410 --> 00:00:42,310
+En de tweede opdracht.
+
+16
+00:00:42,310 --> 00:00:44,490
+Zou je een variabele 'punten' kunnen maken?
+
+17
+00:00:44,490 --> 00:00:46,420
+Dat moet je inmiddels zelf lukken, hè?
+
+18
+00:00:46,420 --> 00:00:47,420
+Een variabele.
+
+19
+00:00:47,420 --> 00:00:53,090
+Maak een variabele 'punten', zet de punten
+op 0 als het spel start en zet de punten op
+
+20
+00:00:53,090 --> 00:00:55,330
+0 als de vleermuis de muur raakt.
+
+21
+00:00:55,330 --> 00:01:00,510
+Ga jij dat even maken, dan gaan we in het
+volgende filmpje samen zorgen dat de vleermuis
+
+22
+00:01:00,510 --> 00:01:04,320
+een punt verdient als hij goed door een muur
+is gevlogen.
+
+23
+00:01:04,320 --> 00:01:05,080
+Succes!
+

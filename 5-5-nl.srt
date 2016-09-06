@@ -1,0 +1,102 @@
+1
+00:00:00,229 --> 00:00:01,600
+Kijk zo hebben we het gedaan.
+
+2
+00:00:01,600 --> 00:00:06,049
+Ik ga iedere keer die snelheid 5 maken als
+er op de spatiebalk wordt geduwd, dus hij
+
+3
+00:00:06,049 --> 00:00:09,179
+begint een beetje omhoog en dan wordt hij
+steeds naar de grond getrokken.
+
+4
+00:00:09,179 --> 00:00:15,499
+En je ziet ook dat ik die -2 hier, ook in
+het filmpje, in min een half (-0.5) heb veranderd,
+
+5
+00:00:15,499 --> 00:00:18,300
+want met die -2 gaat hij wel erg hard naar
+beneden.
+
+6
+00:00:18,300 --> 00:00:20,359
+Maar je kan er natuurlijk zelf mee spelen,
+hè!
+
+7
+00:00:20,359 --> 00:00:25,130
+Je kunt het net zo gek, net zo langzaam, net
+zo snel maken als je zelf maar wilt!
+
+8
+00:00:25,130 --> 00:00:31,579
+Wat nou zo leuk zou zijn, vind ik dan, is
+als we die vleermuis ook echt gaan laten flapperen
+
+9
+00:00:31,579 --> 00:00:32,579
+met zijn vleugels.
+
+10
+00:00:32,579 --> 00:00:36,190
+En dat kan gelukkig, want er zitten 2 uiterlijken
+op de vleermuis.
+
+11
+00:00:36,190 --> 00:00:38,070
+Kijk mee bij uiterlijken.
+
+12
+00:00:38,070 --> 00:00:42,469
+Daar zien we en vleugels op en een vleugels
+neer staan.
+
+13
+00:00:42,469 --> 00:00:46,030
+Ik zal de vleermuis een beetje omhoog doen,
+anders kunnen we het helemaal niet in actie
+
+14
+00:00:46,030 --> 00:00:47,030
+zien.
+
+15
+00:00:47,030 --> 00:00:49,289
+Kijk op en neer.
+
+16
+00:00:49,289 --> 00:00:52,250
+Nou wat nou echt heel leuk zou zijn, is...
+
+17
+00:00:52,250 --> 00:00:57,359
+Als je op die spatiebalk duwt dat die vleugels
+dan eventjes 1 keer flapperen.
+
+18
+00:00:57,359 --> 00:00:58,550
+Zou jij dat kunnen programmeren?
+
+19
+00:00:58,550 --> 00:01:03,519
+Dus je duwt op de spatiebalk, de vleugels
+gaan omhoog, je wacht heel even, en de vleugels
+
+20
+00:01:03,519 --> 00:01:04,519
+gaan weer omlaag.
+
+21
+00:01:04,519 --> 00:01:07,920
+Zodat iedere keer als je slaat, hij echt omhoog
+vliegt!
+
+22
+00:01:07,920 --> 00:01:11,820
+Programmeer jij het maar en laat het zien
+aan ons, hoe je dat hebt gemaakt!
+

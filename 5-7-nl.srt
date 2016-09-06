@@ -1,0 +1,273 @@
+1
+00:00:00,989 --> 00:00:02,379
+Kijk zo heb ik het gemaakt!
+
+2
+00:00:02,379 --> 00:00:07,120
+Ik zet de punten op 0 en iedere keer als ik
+een muur aanraak, dan zeg ik 'oeps' en dan
+
+3
+00:00:07,120 --> 00:00:08,920
+maak ik de punten ook weer 0.
+
+4
+00:00:08,920 --> 00:00:11,150
+Kijk maar even mee hoe dat eruit ziet.
+
+5
+00:00:11,150 --> 00:00:15,360
+Deze zet ik nu trouwens even uit, die hoogte
+van de muur en die snelheid zijn we eigenlijk
+
+6
+00:00:15,360 --> 00:00:16,360
+wel klaar mee.
+
+7
+00:00:16,360 --> 00:00:18,280
+En ik zet die punten een beetje naar boven.
+
+8
+00:00:18,280 --> 00:00:22,130
+Kijk, nou dat gaat al hartstikke goed, ik
+zal even expres de muur botsen.
+
+9
+00:00:22,130 --> 00:00:23,380
+'Oeps!'
+
+10
+00:00:23,380 --> 00:00:24,640
+Zo...
+
+11
+00:00:24,640 --> 00:00:31,060
+Nou die drie seconden is misschien wel een
+beetje lang, laten we die even op twee seconden
+
+12
+00:00:31,060 --> 00:00:32,060
+zetten.
+
+13
+00:00:32,060 --> 00:00:36,620
+Op zich al heel erg mooi, maar de punten zijn
+nu wel altijd 0, hè?
+
+14
+00:00:36,620 --> 00:00:40,840
+Want je zet ze één keer op nul en iedere
+keer als hij de muur raakt worden ze weer
+
+15
+00:00:40,840 --> 00:00:41,840
+nul.
+
+16
+00:00:41,840 --> 00:00:42,940
+Maar we willen ook punten verdienen!
+
+17
+00:00:42,940 --> 00:00:46,900
+Dat is een beetje moeilijk, dus dat gaan we
+samen programmeren.
+
+18
+00:00:46,900 --> 00:00:48,540
+Kijk maar eens even mee.
+
+19
+00:00:48,540 --> 00:00:50,350
+Wat zouden we nou kunnen doen?
+
+20
+00:00:50,350 --> 00:00:58,110
+We kunnen zeggen, iedere keer als die muur
+voorbij de vleermuis gaat, dus aan de linkerkant
+
+21
+00:00:58,110 --> 00:01:00,610
+van de vleermuis staat, dan zouden we een
+punt moeten krijgen.
+
+22
+00:01:00,610 --> 00:01:05,080
+Want als het ons gelukt is om die muur voorbij
+te gaan, staat hij links.
+
+23
+00:01:05,080 --> 00:01:07,049
+Hoe zouden we dat nou kunnen gebruiken?
+
+24
+00:01:07,049 --> 00:01:08,469
+Nou zo.
+
+25
+00:01:08,469 --> 00:01:14,359
+'Wanneer de groene vlag wordt aangeklikt'
+gaan we zeggen 'wacht tot'.
+
+26
+00:01:14,359 --> 00:01:17,079
+Nou tot wanneer gaan we wachten?
+
+27
+00:01:17,079 --> 00:01:23,359
+Totdat de muur, de x-positie van de muur,
+kleiner is dan de 'x-positie' van de vleermuis.
+
+28
+00:01:23,359 --> 00:01:28,799
+Dat is programmeertaal voor 'de muur staat
+links van de vleermuis'.
+
+29
+00:01:28,799 --> 00:01:31,570
+Hè denk maar aan de vorige les met het oversteken.
+
+30
+00:01:31,570 --> 00:01:41,049
+Dus dit blok gaan we pakken, als de 'x-positie'
+van, ho even een stukje naar beneden, die
+
+31
+00:01:41,049 --> 00:01:48,100
+van de muur kleiner is dan onze 'x-positie'
+en die staat dan weer bij 'beweging', hè
+
+32
+00:01:48,100 --> 00:01:50,710
+de vleermuis zijn 'x-positie'.
+
+33
+00:01:50,710 --> 00:01:57,209
+Dan, op dat moment, als dat aan de hand is,
+dan gaan we zeggen, verander de punten met
+
+34
+00:01:57,209 --> 00:01:58,209
+1.
+
+35
+00:01:58,209 --> 00:02:00,640
+Werkt dit nou al goed?
+
+36
+00:02:00,640 --> 00:02:03,689
+Nou je kan het altijd even proberen, je spel.
+
+37
+00:02:03,689 --> 00:02:07,049
+Laten we nu voorzichtig voorbij gaan.
+
+38
+00:02:07,049 --> 00:02:11,360
+En je ziet dat het werkt, maar wel maar één
+keertje.
+
+39
+00:02:11,360 --> 00:02:16,600
+Maar één keer wordt die punten op één
+gezet, en daarna houdt het op.
+
+40
+00:02:16,600 --> 00:02:18,620
+Zelfs als we een keer af zijn gegaan.
+
+41
+00:02:18,620 --> 00:02:24,220
+Dan denk jij natuurlijk: 'ja als ik iets meerdere
+keren wil doen, en niet maar één keer',
+
+42
+00:02:24,220 --> 00:02:26,150
+dan pak ik een herhaal blok!'
+
+43
+00:02:26,150 --> 00:02:30,760
+Dat zou je kunnen proberen, laten we dat samen
+eens proberen, dus ik kan hier een herhaalblok
+
+44
+00:02:30,760 --> 00:02:31,760
+omheen zetten.
+
+45
+00:02:31,760 --> 00:02:33,900
+Denk jij nou dat dit al goed werkt?
+
+46
+00:02:33,900 --> 00:02:40,600
+Probeer dit zelf maar eens uit en kijk of
+dit nou eigenlijk wel de goede oplossing is.
+
+47
+00:02:40,600 --> 00:02:46,680
+Nou je hebt gezien dat dit niet de goede oplossing
+is, hij is een beetje iets te goed, want als
+
+48
+00:02:46,680 --> 00:02:48,510
+ik er nu langs vlieg, kijk 'zzzzrt'.
+
+49
+00:02:48,510 --> 00:02:52,200
+Dan schieten die punten omhoog!
+
+50
+00:02:52,200 --> 00:02:58,040
+Helemaal tot aan de 30 en dat is eigenlijk
+niet wat we willen, want we willen maar één
+
+51
+00:02:58,040 --> 00:02:59,040
+punt!
+
+52
+00:02:59,040 --> 00:03:03,790
+En niet 60 punten, 61 punten als we er twee
+keer doorheen zijn gegaan.
+
+53
+00:03:03,790 --> 00:03:05,390
+Wat zouden we nou kunnen doen?
+
+54
+00:03:05,390 --> 00:03:08,851
+Wat we gaan doen is, we wachten.
+
+55
+00:03:08,851 --> 00:03:13,710
+We wachten totdat die muur voorbij ons is,
+als hij ons voorbij gaat, geven we één punt
+
+56
+00:03:13,710 --> 00:03:19,650
+en dan wachten we tot hij weer aan de andere
+kant is, en dan gaan we weer wachten totdat
+
+57
+00:03:19,650 --> 00:03:20,660
+hij weer langs komt.
+
+58
+00:03:20,660 --> 00:03:23,620
+En zo blijft hij iedere keer, de hele tijd,
+loopen.
+
+59
+00:03:23,620 --> 00:03:25,320
+Weet jij hoe dat moet?
+
+60
+00:03:25,320 --> 00:03:29,580
+Kies maar eens het goede programma uit en
+dan gaan we in de volgende film, zoals ik
+
+61
+00:03:29,580 --> 00:03:33,070
+beloofd had aan het begin, de webcam erin
+bouwen.
+

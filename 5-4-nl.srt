@@ -1,0 +1,182 @@
+1
+00:00:00,700 --> 00:00:05,910
+Kijk met de spatiebalk verander je de y met
+25 en de vleermuis gaat omhoog.
+
+2
+00:00:05,910 --> 00:00:11,800
+Maar als je dat spel speelt, ik zal het eens
+even opstarten, het werkt wel...
+
+3
+00:00:11,800 --> 00:00:15,900
+Maar het voelt niet echt helemaal als een
+echte Flappy Bird, hè?
+
+4
+00:00:15,900 --> 00:00:20,600
+Dat komt omdat in een echte Flappy Bird, de
+vleermuis steeds harder naar beneden gaat
+
+5
+00:00:20,600 --> 00:00:25,390
+vallen, in plaats van met een 'constante snelheid',
+steeds dezelfde snelheid.
+
+6
+00:00:25,390 --> 00:00:29,480
+Dat gaan we samen programmeren, en daar gaan
+we een variabele voor gebruiken.
+
+7
+00:00:29,480 --> 00:00:30,480
+Kijk mee!
+
+8
+00:00:30,480 --> 00:00:34,400
+Ik ga hier naar een variabele maken en die
+noem ik 'snelheid'.
+
+9
+00:00:34,400 --> 00:00:40,990
+En in plaats van dat we die y steeds met -2
+gaan veranderen, gaan we die y veranderen
+
+10
+00:00:40,990 --> 00:00:42,120
+met 'snelheid'.
+
+11
+00:00:42,120 --> 00:00:46,600
+Dus dit programma wat ik nu ga maken, is nog
+precies hetzelfde, kijk maar.
+
+12
+00:00:46,600 --> 00:00:53,550
+Ik maak de 'snelheid' -2 en dan verander ik
+de y met 'snelheid'.
+
+13
+00:00:53,550 --> 00:00:59,260
+Oh dat is de verkeerde variabele, ik verander
+de y met 'snelheid'.
+
+14
+00:00:59,260 --> 00:01:03,210
+Kijk, ziet er nog precies hetzelfde uit, ik
+heb nog niets stiekem veranderd.
+
+15
+00:01:03,210 --> 00:01:05,950
+Er is nog niks aan de hand.
+
+16
+00:01:05,950 --> 00:01:11,289
+Wat we nou zo graag zouden willen, is dat
+die snelheid iedere keer minder wordt.
+
+17
+00:01:11,289 --> 00:01:17,119
+Dus iedere keer, iedere slag van dat herhaalblok,
+willen we die snelheid iets verlagen, zodat
+
+18
+00:01:17,119 --> 00:01:21,299
+die vleermuis steeds maar weer harder gaat
+vallen.
+
+19
+00:01:21,299 --> 00:01:25,420
+Weet jij welk blok er nu nodig is?
+
+20
+00:01:25,420 --> 00:01:28,009
+Ja dat is natuurlijk het 'verander' blok!
+
+21
+00:01:28,009 --> 00:01:33,530
+Als ik dat verander blok hieronder plak, maak
+ik even een beetje ruimte, kan ik zeggen:
+
+22
+00:01:33,530 --> 00:01:38,759
+"Nou iedere keer als ik naar beneden ga, maak
+ik de snelheid nog weer kleiner."
+
+23
+00:01:38,759 --> 00:01:40,020
+Bijvoorbeeld -2.
+
+24
+00:01:40,020 --> 00:01:46,289
+En ik ga er nu eventjes een wachtblokje tussen
+zetten, zodat je iets beter kunt zien wat
+
+25
+00:01:46,289 --> 00:01:50,479
+er gebeurt, want anders kiept die vleermuis
+heel hard naar beneden.
+
+26
+00:01:50,479 --> 00:01:51,479
+Kijk!
+
+27
+00:01:51,479 --> 00:01:52,479
+Zo gaan we het doen.
+
+28
+00:01:52,479 --> 00:02:01,369
+En je ziet nu, iedere keer gaat hij sneller
+naar beneden.
+
+29
+00:02:01,369 --> 00:02:06,229
+Dus hij gaat harder en harder en harder steeds
+vallen.
+
+30
+00:02:06,229 --> 00:02:11,420
+Ik zal de wacht even eruit slepen en dan zie
+je hem echt 'whoep', zie je hem echt goed
+
+31
+00:02:11,420 --> 00:02:12,420
+gaan.
+
+32
+00:02:12,420 --> 00:02:14,790
+Dus iedere keer gaat hij harder.
+
+33
+00:02:14,790 --> 00:02:20,580
+Dat is al bijna zoals in een echt Fllappy
+Bird spel, alleen we zouden nu ook graag die
+
+34
+00:02:20,580 --> 00:02:21,580
+spatiebalk willen veranderen.
+
+35
+00:02:21,580 --> 00:02:26,620
+Want we veranderen nu direct de y met de spatiebalk,
+maar nu willen we natuurlijk in plaats van
+
+36
+00:02:26,620 --> 00:02:29,470
+de y, de snelheid gaan veranderen.
+
+37
+00:02:29,470 --> 00:02:35,750
+Probeer dat maar eens uit, dus gooi dat 'maak
+y' blok weg en stop daar een snelheid voor
+
+38
+00:02:35,750 --> 00:02:39,909
+in de plek en kijk of jij het zo kan maken
+als een echte Flappy Bird.
+
+39
+00:02:39,909 --> 00:02:40,379
+Succes!
+
