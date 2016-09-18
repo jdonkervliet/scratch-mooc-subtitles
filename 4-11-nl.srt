@@ -1,0 +1,179 @@
+1
+00:00:00,669 --> 00:00:02,210
+Kijk zo doe je dat.
+
+2
+00:00:02,210 --> 00:00:07,279
+Hij zegt 'oversteken maar' en daarna gat hij
+met een schuifblok ook echt oversteken.
+
+3
+00:00:07,279 --> 00:00:13,170
+Die x kan je op -180 laten staan, want hij
+blijft op dezelfde breedte, maar hij gaat
+
+4
+00:00:13,170 --> 00:00:15,510
+wel omhoog tot -20.
+
+5
+00:00:15,510 --> 00:00:17,720
+Kijk maar eens even mee.
+
+6
+00:00:17,720 --> 00:00:19,360
+Ik klik op de groene vlag.
+
+7
+00:00:19,360 --> 00:00:24,710
+Hij wacht even tot de auto weg is en daar
+gaat hij naar de overkant.
+
+8
+00:00:24,710 --> 00:00:32,949
+Hartstikke mooi, maar hij blijft nu altijd
+'oversteken maar' zeggen, ook, kijk maar eens
+
+9
+00:00:32,949 --> 00:00:35,179
+even mee, als hij al overgestoken is.
+
+10
+00:00:35,179 --> 00:00:37,129
+Kijk nu zegt hij 'oversteken maar'!
+
+11
+00:00:37,129 --> 00:00:38,780
+Maar hij is al aan de overkant!
+
+12
+00:00:38,780 --> 00:00:43,870
+Nu willen we dat hij stopt met zeggen 'oversteken'
+als hij overgestoken is.
+
+13
+00:00:43,870 --> 00:00:46,839
+We gaan ons programma daar een beetje voor
+aanpassen.
+
+14
+00:00:46,839 --> 00:00:54,820
+[Kuch kuch] En daarvoor gaan we een nieuw
+blokje gebruiken, het 'wacht tot' blokje.
+
+15
+00:00:54,820 --> 00:01:00,019
+Deze lijkt een beetje op het 'herhaal tot'
+blokje, ook geel, maar als je ze naast elkaar
+
+16
+00:01:00,019 --> 00:01:05,630
+zet, zie je ook dat in het 'herhaal tot' blokje
+ga je iets doen totdat het waar is.
+
+17
+00:01:05,630 --> 00:01:10,770
+En een 'wacht tot' blokje, daar doe je niets,
+je staat helemaal stil en je wacht tot er
+
+18
+00:01:10,770 --> 00:01:12,100
+iets gebeurt.
+
+19
+00:01:12,100 --> 00:01:14,299
+Dus wat ga ik doen?
+
+20
+00:01:14,299 --> 00:01:19,619
+Ik ga dit hele stuk even opzij schuiven, want
+ik ga mijn programma een beetje aanpassen.
+
+21
+00:01:19,619 --> 00:01:24,670
+Als ik op de groene vlag klik, wat gebeurt
+er dan als eerste?
+
+22
+00:01:24,670 --> 00:01:35,979
+Nou ik ga eerst zeggen 'wachten', dan wacht
+ik tot de afstand groter is dan 200.
+
+23
+00:01:35,979 --> 00:01:46,110
+En als dat zo is, dan zeg ik 'oversteken maar'
+en dan schuif ik ook naar mijn nieuwe positie.
+
+24
+00:01:46,110 --> 00:01:53,079
+Het enige wat we nu vergeten zijn aan de bovenkant
+is om Hassan ook terug aan het begin van de
+
+25
+00:01:53,079 --> 00:01:55,280
+weg te zetten als we oversteken.
+
+26
+00:01:55,280 --> 00:01:56,679
+Dat blok hadden we nog niet.
+
+27
+00:01:56,679 --> 00:02:05,009
+Dan ga ik hier naar toe, naar 'ga naar -180',
+ik blijf op dezelfde breedte staan, maar ik
+
+28
+00:02:05,009 --> 00:02:09,099
+ga naar -130 dat is aan het begin van de weg.
+
+29
+00:02:09,099 --> 00:02:11,150
+Kijk maar eens wat er nu gebeurt.
+
+30
+00:02:11,150 --> 00:02:14,010
+Hij gaat naar het begin.
+
+31
+00:02:14,010 --> 00:02:17,890
+Oh dat ging even niet goed, we gaan het nog
+een keer proberen.
+
+32
+00:02:17,890 --> 00:02:19,360
+Ik klik op de groene vlag.
+
+33
+00:02:19,360 --> 00:02:24,840
+Hij wacht en als de auto weg is, dan steekt
+hij over.
+
+34
+00:02:24,840 --> 00:02:30,239
+Dus ik heb het programma nu wat makkelijker
+gemaakt, in plaats van een herhaal lus, heb
+
+35
+00:02:30,239 --> 00:02:32,180
+ik een 'wacht tot'.
+
+36
+00:02:32,180 --> 00:02:37,120
+Ik sta stil, ik wacht to er iets gebeurt en
+dan steek ik de weg over.
+
+37
+00:02:37,120 --> 00:02:43,870
+Dus denk eraan, als je iets de hele tijd wilt
+doen, dan is een 'herhaal' en 'als' prima,
+
+38
+00:02:43,870 --> 00:02:47,439
+maar als je iets eigenlijk maar één keer
+wil doen, wil wachten tot er iets gebeurt
+
+39
+00:02:47,439 --> 00:02:52,849
+en daar wil je op reageren, dan kan je beter
+een wacht blok gebruiken dan een herhaal blok.
+

@@ -1,0 +1,52 @@
+1
+00:00:00,950 --> 00:00:05,549
+We weten dat we heel vaak gaan oversteken
+en als je iets heel vaak gaat doen, kan je
+
+2
+00:00:05,549 --> 00:00:10,060
+er beter een eigen blok voor maken, want dat
+houdt je programma lekker opgeruimd.
+
+3
+00:00:10,060 --> 00:00:11,309
+Kijk met mij mee!
+
+4
+00:00:11,309 --> 00:00:15,089
+We weten het natuurlijk wel van les 2, maar
+ik ga het toch nog een keer laten zien omdat
+
+5
+00:00:15,089 --> 00:00:16,630
+het best lastig is.
+
+6
+00:00:16,630 --> 00:00:23,630
+We gaan naar 'meer blokken' en dan zeg ik
+'maak een blok' en ik ga dat blok 'oversteken'
+
+7
+00:00:23,630 --> 00:00:24,630
+noemen.
+
+8
+00:00:24,630 --> 00:00:30,500
+Ik klik op 'ok' en dan krijg ik hier een mooi
+blok 'definieer oversteken'.
+
+9
+00:00:30,500 --> 00:00:36,100
+Hieronder wil ik zodadelijk alle blokjes krijgen
+die bij het oversteken horen.
+
+10
+00:00:36,100 --> 00:00:40,930
+Dus ik laat het zo staan voor jou, ga jij
+voor mij alle blokjes van het bovenste stuk
+
+11
+00:00:40,930 --> 00:00:45,530
+uitkiezen die bij oversteken horen en die
+ga je onder dat oversteken plakken.
+

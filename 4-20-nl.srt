@@ -1,0 +1,99 @@
+1
+00:00:00,489 --> 00:00:01,800
+Kijk zo gaat dat!
+
+2
+00:00:01,800 --> 00:00:06,379
+We gaan naar ons startpunt en dan schuiven
+we in één seconde naar de x-positie van
+
+3
+00:00:06,379 --> 00:00:07,379
+de banaan.
+
+4
+00:00:07,379 --> 00:00:09,080
+Maar dat is natuurlijk ongeveer op dezelfde
+plek.
+
+5
+00:00:09,080 --> 00:00:11,360
+We steken over heen en terug.
+
+6
+00:00:11,360 --> 00:00:16,080
+En dan gaan we naar de x-positie van de watermeloen
+enzovoort en zo verder.
+
+7
+00:00:16,080 --> 00:00:20,920
+Kijk maar eens hoe dat eruit ziet als we op
+de groene vlag klikken.
+
+8
+00:00:20,920 --> 00:00:22,279
+Daar gaat hij!
+
+9
+00:00:22,279 --> 00:00:27,230
+We zijn aan het schuiven, we wachten natuurlijk
+tot die auto weg is, 'oversteken maar', 'oversteken
+
+10
+00:00:27,230 --> 00:00:35,100
+maar', zoef daar gaan we lekker de watermeloen
+opsmullen, de taco, en we staan bij de taart,
+
+11
+00:00:35,100 --> 00:00:37,900
+oh daar komt net een auto aan, even wachten!
+
+12
+00:00:37,900 --> 00:00:41,040
+Oversteken maar en oversteken maar.
+
+13
+00:00:41,040 --> 00:00:42,040
+Supermooi!
+
+14
+00:00:42,040 --> 00:00:47,830
+En wat nou het allermooiste is van het programma
+dat we hebben gemaakt, is als je die hapjes
+
+15
+00:00:47,830 --> 00:00:49,690
+in een andere volgorde neerlegt.
+
+16
+00:00:49,690 --> 00:00:54,790
+Probeer dat maar eens uit, je husselt al die
+hapjes door elkaar en dan zal je zien dat
+
+17
+00:00:54,790 --> 00:00:57,890
+Hassan nog steeds alles in de goede volgorde
+opeet.
+
+18
+00:00:57,890 --> 00:01:03,590
+Want omdat we iedere keer naar de goede x-positie
+gaan, maakt het niet uit waar je hem neerlegt,
+
+19
+00:01:03,590 --> 00:01:09,229
+je kunt het over de hele breedte van de weg
+verspreiden en toch gaat het iedere keer goed!
+
+20
+00:01:09,229 --> 00:01:12,329
+Dat is namelijk de kracht van programmeren.
+
+21
+00:01:12,329 --> 00:01:14,170
+Ik zie jullie volgende week.
+
+22
+00:01:14,170 --> 00:01:15,009
+Doeg!
+

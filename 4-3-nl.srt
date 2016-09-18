@@ -1,0 +1,57 @@
+1
+00:00:00,930 --> 00:00:03,140
+Ik denk dat jij zoiets hebt geprogrammeerd.
+
+2
+00:00:03,140 --> 00:00:05,770
+Een 'herhaal'blok met daarin een 'verander
+x'.
+
+3
+00:00:05,770 --> 00:00:10,090
+Dan gaat de auto steeds een beetje vooruit
+en dat in een lusje.
+
+4
+00:00:10,090 --> 00:00:14,960
+Dat is al heel mooi, maar nu komt die auto
+maar één keer langs...
+
+5
+00:00:14,960 --> 00:00:18,520
+En we willen natuurlijk dat er iedere keer
+auto's langskomen om het een beetje spannend
+
+6
+00:00:18,520 --> 00:00:20,220
+spel voor Hassan te maken.
+
+7
+00:00:20,220 --> 00:00:23,180
+Dus dat kunnen we als volgt doen, kijk even
+mee.
+
+8
+00:00:23,180 --> 00:00:29,320
+We pakken gewoon nog een herhaalblok denk
+je dan, want iedere keer dat de auto van links
+
+9
+00:00:29,320 --> 00:00:31,660
+naar rechts gaat, dat wil ik iedere keer.
+
+10
+00:00:31,660 --> 00:00:37,750
+Je zou een herhaalblok kunnen pakken en dat
+hier weer omheen kunnen zetten, zo.
+
+11
+00:00:37,750 --> 00:00:42,130
+Iedere keer ga ik naar links en dan schuif
+ik helemaal naar rechts.
+
+12
+00:00:42,130 --> 00:00:48,420
+Probeer dit programma maar eens uit en kijk
+of dit programma echt doet wat het moet doen.
+

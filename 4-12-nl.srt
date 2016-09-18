@@ -1,0 +1,29 @@
+1
+00:00:00,269 --> 00:00:05,700
+Kijk we hebben een leeg 'zeg' blokje toegevoegd,
+zodat als Hassan oversteekt dat hij niet meer
+
+2
+00:00:05,700 --> 00:00:08,400
+zegt:"oversteken maar", maar dat hij niets
+meer zegt.
+
+3
+00:00:08,400 --> 00:00:13,410
+Hij is eindelijk aan de overkant van de weg
+bij al die lekkere hapjes.
+
+4
+00:00:13,410 --> 00:00:18,160
+Dus de volgende opdracht is natuurlijk dat
+hij van links, helemaal naar rechts gaat.
+
+5
+00:00:18,160 --> 00:00:23,870
+Van de banaan tot het lekkere cakeje, alle
+hapjes in één keer opeten.
+
+6
+00:00:23,870 --> 00:00:25,650
+Weet jij hoe je dat moet programmeren?
+

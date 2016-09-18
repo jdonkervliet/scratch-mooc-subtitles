@@ -1,0 +1,97 @@
+1
+00:00:00,960 --> 00:00:02,669
+Ja dat werkt niet echt, hè?
+
+2
+00:00:02,669 --> 00:00:04,450
+Kijk maar eens even mee met mij.
+
+3
+00:00:04,450 --> 00:00:06,220
+Ik klik op die groene vlag.
+
+4
+00:00:06,220 --> 00:00:10,580
+Één keer gaat hij goed en dan blijft die
+auto helemaal steken.
+
+5
+00:00:10,580 --> 00:00:12,240
+Wat is er aan de hand?
+
+6
+00:00:12,240 --> 00:00:13,910
+Heeft hij misschien een lekke band?
+
+7
+00:00:13,910 --> 00:00:14,910
+Nee!
+
+8
+00:00:14,910 --> 00:00:20,900
+Wat daar gebeurt is dat ik herhaal en ik ga
+helemaal naar rechts, maar ik houd daar nooit
+
+9
+00:00:20,900 --> 00:00:21,900
+mee op.
+
+10
+00:00:21,900 --> 00:00:25,390
+En dat is misschien een beetje verwarrend,
+want je ziet het kontje van die auto nog wel
+
+11
+00:00:25,390 --> 00:00:26,390
+in beeld.
+
+12
+00:00:26,390 --> 00:00:31,429
+Maar Scratch kan hem gewoon niet verder schuiven,
+want er is geen ruimte meer.
+
+13
+00:00:31,429 --> 00:00:35,040
+Maar dat betekent niet dat de auto klaar is!
+
+14
+00:00:35,040 --> 00:00:39,870
+Misschien weet je nog van vorige week, dat
+dat herhaalblok, hier aan de onderkant, kijk
+
+15
+00:00:39,870 --> 00:00:42,989
+maar, er zit geen tuutje, geen haakje aan.
+
+16
+00:00:42,989 --> 00:00:44,750
+Dus daar kan je niets aan vastplakken.
+
+17
+00:00:44,750 --> 00:00:50,420
+Omdat dat nu eenmaal nooit afgelopen is, als
+ik iets voor altijd herhaal, dan betekent
+
+18
+00:00:50,420 --> 00:00:52,510
+dat echt voor altijd.
+
+19
+00:00:52,510 --> 00:00:58,539
+Nou weet je natuurlijk wel van vorige week
+een ander blok, het 'herhaal tot' blok.
+
+20
+00:00:58,539 --> 00:01:00,789
+Kan jij dit programma nou verbeteren?
+
+21
+00:01:00,789 --> 00:01:06,610
+Dus haal dat middelste herhaal blok, gooi
+dat weg, zet daar een 'herhaal tot' voor in
+
+22
+00:01:06,610 --> 00:01:12,509
+de plek en bedenk dan ook eens goed wat daar
+dan in die driehoekjes terecht moet komen.
+

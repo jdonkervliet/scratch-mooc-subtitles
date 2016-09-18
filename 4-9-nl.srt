@@ -1,0 +1,106 @@
+1
+00:00:00,489 --> 00:00:02,149
+Kijk dat is vast gelukt!
+
+2
+00:00:02,149 --> 00:00:06,910
+Je pakt een herhaal blok, een zeg blok en
+een 'voeg stamen' blok.
+
+3
+00:00:06,910 --> 00:00:09,410
+Kijk mee als ik nou op de groene vlag druk.
+
+4
+00:00:09,410 --> 00:00:13,990
+Ik heb de auto trouwens iets langzamer laten
+rijden, dan kan je het beter zien.
+
+5
+00:00:13,990 --> 00:00:17,300
+Dat werkt wel, maar je krijgt een héél lang
+getal te zien.
+
+6
+00:00:17,300 --> 00:00:20,429
+Het is een beetje lastig om te zien wat er
+nou precies gebeurt.
+
+7
+00:00:20,429 --> 00:00:24,510
+Dat kunnen we oplossen, daar is natuurlijk
+weer een blokje voor in Scratch.
+
+8
+00:00:24,510 --> 00:00:28,970
+Ga naar functies en als je dan een beetje
+naar beneden gaat, zie je daar het woordje
+
+9
+00:00:28,970 --> 00:00:30,560
+'afgerond' staan.
+
+10
+00:00:30,560 --> 00:00:36,560
+Ik kan in 'afgerond' een getal stoppen, bijvoorbeeld
+de afstand.
+
+11
+00:00:36,560 --> 00:00:41,080
+Dat stop ik daar in, nu wordt dat getal iedere
+keer afgerond.
+
+12
+00:00:41,080 --> 00:00:48,950
+Dat voeg ik dan weer samen met de 'afstand
+tot' en dat stop ik weer terug in het 'zeg'
+
+13
+00:00:48,950 --> 00:00:49,950
+blok.
+
+14
+00:00:49,950 --> 00:00:51,260
+Kijk maar eens mee wat er nu gebeurt.
+
+15
+00:00:51,260 --> 00:00:55,090
+Nu krijg ik een mooi afgerond getal.
+
+16
+00:00:55,090 --> 00:00:59,150
+Zo kan je iedere keer zien hoe ver de auto
+nog weg is.
+
+17
+00:00:59,150 --> 00:01:02,800
+Nou wat is nou een veilige afstand om over
+te steken?
+
+18
+00:01:02,800 --> 00:01:08,561
+Laten wij afspreken met elkaar dat als de
+auto verder weg is dan 200, als de afstand
+
+19
+00:01:08,561 --> 00:01:12,360
+groter is dan 200, dan mag Hassan de weg oversteken.
+
+20
+00:01:12,360 --> 00:01:18,799
+Dus onze volgende programmeeropdracht, die
+ga jij uitvoeren, is als de afstand groter
+
+21
+00:01:18,799 --> 00:01:26,289
+is 200, dan zeg je 'oversteken maar' en als
+de afstand kleiner is dan 200, dan zeg je
+
+22
+00:01:26,289 --> 00:01:27,289
+'wacht'.
+
+23
+00:01:27,289 --> 00:01:29,049
+Programmeer jij dat maar!
+

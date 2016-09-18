@@ -1,0 +1,97 @@
+1
+00:00:00,750 --> 00:00:05,790
+Als het goed is heb jij inmiddels ook dit
+lege spel voor je staan en wij gaan dat samen
+
+2
+00:00:05,790 --> 00:00:06,790
+vullen.
+
+3
+00:00:06,790 --> 00:00:10,070
+Als eerste gaan we de auto laten rijden, kijk
+even met mij mee.
+
+4
+00:00:10,070 --> 00:00:13,200
+We gaan natuurlijk naar de programmeercode
+van de auto.
+
+5
+00:00:13,200 --> 00:00:15,190
+Daar zijn ook nog geen blokjes te bekennen.
+
+6
+00:00:15,190 --> 00:00:21,260
+En wat we als eerste gaan doen is de auto
+aan de linkerkant van de weg laten beginnen.
+
+7
+00:00:21,260 --> 00:00:26,760
+Ga naar gebeurtenissen en pak een 'wanneer
+de groene vlag wordt aangeklikt'.
+
+8
+00:00:26,760 --> 00:00:29,260
+De hoogte van de auto staat al goed.
+
+9
+00:00:29,260 --> 00:00:34,700
+Kijk hij landt al mooi op de weg, maar we
+willen dat hij helemaal naar links gaat bewegen.
+
+10
+00:00:34,700 --> 00:00:39,579
+Misschien weet je nog van de andere lessen
+dat je kan kijken naar dat x'je en dat y'tje
+
+11
+00:00:39,579 --> 00:00:41,370
+die rechts onderaan staan.
+
+12
+00:00:41,370 --> 00:00:42,510
+Die veranderen steeds.
+
+13
+00:00:42,510 --> 00:00:48,399
+Dus als ik dan met mijn muisaanwijzer helemaal
+naar links ga, dan zie ik dat links is -240.
+
+14
+00:00:48,399 --> 00:00:55,260
+Dus dan gaan we naar beweging en dan hebben
+we dit blok: 'maak x 0' staan.
+
+15
+00:00:55,260 --> 00:00:56,460
+En dat gaan we eraan plakken.
+
+16
+00:00:56,460 --> 00:01:02,030
+En dan willen we natuurlijk in plaats van
+0, naar -240.
+
+17
+00:01:02,030 --> 00:01:08,030
+Klik maar eens op de groene vlag, kijk dan
+gaat die auto mooi naar links.
+
+18
+00:01:08,030 --> 00:01:13,220
+Wat we nu natuurlijk willen is dat die auto
+van links naar rechts gaat rijden.
+
+19
+00:01:13,220 --> 00:01:15,390
+Dat is jouw programmeeropdracht.
+
+20
+00:01:15,390 --> 00:01:21,520
+Jij weet vast nog van andere lessen welke
+blokjes je zou kunnen gebruiken als je wilt
+
+21
+00:01:21,520 --> 00:01:23,860
+dat die auto door het beeld rijdt.
+

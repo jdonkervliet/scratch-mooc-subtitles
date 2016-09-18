@@ -1,0 +1,51 @@
+1
+00:00:00,329 --> 00:00:04,870
+Hallo allemaal, welkom alweer bij week 4 van
+ScratchX met Felienne.
+
+2
+00:00:04,870 --> 00:00:08,540
+We gaan natuurlijk weer een nieuw spel maken
+samen, deze week.
+
+3
+00:00:08,540 --> 00:00:10,150
+En dit is het spel waar we aan gaan werken.
+
+4
+00:00:10,150 --> 00:00:14,809
+Je ziet hier onze vriend Hassan de Hond en
+hij is gek op lekker eten.
+
+5
+00:00:14,809 --> 00:00:21,180
+Aan de overkant van de weg ligt van alles
+om te smullen, een banaan, een taco, een taart,
+
+6
+00:00:21,180 --> 00:00:23,070
+een watermeloen en een cakeje.
+
+7
+00:00:23,070 --> 00:00:24,359
+Hartstikke lekker!
+
+8
+00:00:24,359 --> 00:00:30,250
+Maar er rijden ook gevaarlijke groene auto's
+over de weg en we willen natuurlijk niet aangereden
+
+9
+00:00:30,250 --> 00:00:31,250
+worden.
+
+10
+00:00:31,250 --> 00:00:37,460
+Dus wij gaan vandaag samen een slim 'algoritme'
+in het hoofd van Hassan programmeren, zodat
+
+11
+00:00:37,460 --> 00:00:42,970
+hij veilig de weg over kan steken en daarna
+al zijn lekkere hapjes op kan smullen.
+

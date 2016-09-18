@@ -1,0 +1,121 @@
+1
+00:00:00,969 --> 00:00:04,310
+Dit is je waarschijnlijk wel gelukt, dat 'herhaal
+tot' blok eraan.
+
+2
+00:00:04,310 --> 00:00:07,680
+Maar wat moet er nou in die driehoekjes staan
+he?
+
+3
+00:00:07,680 --> 00:00:11,230
+Dat is een klein beetje lastig, laat mij je
+maar op weg helpen.
+
+4
+00:00:11,230 --> 00:00:15,740
+Ik ga eens even met jou mee naar beweging.
+
+5
+00:00:15,740 --> 00:00:19,769
+En als je daar helemaal naar beneden scrolt,
+misschien ben je wel nog nooit zo ver naar
+
+6
+00:00:19,769 --> 00:00:24,449
+beneden geweest, dan zie je daar staan 'x-positie'
+en 'y-positie'.
+
+7
+00:00:24,449 --> 00:00:28,099
+Dat zijn ronde blokken, dus dat zijn een soort....
+
+8
+00:00:28,099 --> 00:00:30,939
+Variabelen, natuurlijk!
+
+9
+00:00:30,939 --> 00:00:38,070
+Je kunt die oppakken en dan kan je zien waar
+de auto precies is, je weet nog van de vorige
+
+10
+00:00:38,070 --> 00:00:43,460
+les misschien dat hier ook een vinkje naast
+staat, dus we kunnen die positie hier ook
+
+11
+00:00:43,460 --> 00:00:44,460
+zien.
+
+12
+00:00:44,460 --> 00:00:46,060
+Wat gaan we nou doen?
+
+13
+00:00:46,060 --> 00:00:51,710
+Nou we gaan die variabele gebruiken en dan
+kunnen we kijken of de auto al ver genoeg
+
+14
+00:00:51,710 --> 00:00:52,790
+naar rechts is.
+
+15
+00:00:52,790 --> 00:00:59,150
+Hier gaan we naar functies en daar zie je
+hiertussen die '=' staan, die hebben we al
+
+16
+00:00:59,150 --> 00:01:00,150
+eerder gebruikt.
+
+17
+00:01:00,150 --> 00:01:06,710
+Maar je ziet daar ook nog andere blokjes,
+namelijk een kleiner dan ('<') en een groter
+
+18
+00:01:06,710 --> 00:01:12,250
+dan ('>'). Omdat we die x iedere keer groter
+gaan maken, willen we kijken is die x al groter
+
+19
+00:01:12,250 --> 00:01:16,790
+dan 240 (x > 240), dat is de rand die je hier
+ziet.
+
+20
+00:01:16,790 --> 00:01:24,440
+Dus je stopt die x daarin en ik stop daarin
+de 240, dat is de rand aan de andere kant.
+
+21
+00:01:24,440 --> 00:01:28,370
+En dan zie je, dat past precies daarin.
+
+22
+00:01:28,370 --> 00:01:33,850
+Dus wat er nu gaat gebeuren als je dit programma
+uit probeert en dat mag je zodadelijk zelf
+
+23
+00:01:33,850 --> 00:01:37,750
+gaan doen, is dat die auto iedere keer van
+links naar rechts gaat.
+
+24
+00:01:37,750 --> 00:01:44,340
+En als hij dan ver genoeg is, dan stopt hij
+met bewegen en dan gaat hij weer opnieuw beginnen.
+
+25
+00:01:44,340 --> 00:01:49,870
+Dus dan zet scratch hem weer links en zo racet
+hij de hele tijd door het level heen.
+
+26
+00:01:49,870 --> 00:01:50,960
+Probeer jij het maar eens uit!
+

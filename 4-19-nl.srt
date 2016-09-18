@@ -1,0 +1,113 @@
+1
+00:00:00,420 --> 00:00:03,070
+Kijk zo ziet dat 'oversteken terug' blok eruit.
+
+2
+00:00:03,070 --> 00:00:08,430
+Het is eigenlijk bijna hetzelfde als oversteken,
+maar in plaats van naar -20, gaan we nu naar
+
+3
+00:00:08,430 --> 00:00:11,321
+-130, want we gaan terug naar beneden.
+
+4
+00:00:11,321 --> 00:00:15,710
+Wat ik nu aan de bovenkant heb geprogrammeerd
+is, ik ga naar de linkerboven hoek, ik steek
+
+5
+00:00:15,710 --> 00:00:20,150
+over, ik hap alle hapjes op en dan ga ik terug
+naar de overkant.
+
+6
+00:00:20,150 --> 00:00:21,510
+Kijk maar eens mee.
+
+7
+00:00:21,510 --> 00:00:28,620
+Dan klik ik op de groene vlag, ik wacht natuurlijk
+eventjes netjes, dan ga ik omhoog, alle hapjes,
+
+8
+00:00:28,620 --> 00:00:33,780
+nu wacht ik weer tot de auto weg is en dan
+steek ik terug over.
+
+9
+00:00:33,780 --> 00:00:38,519
+Jouw volgende programmeeropdracht is nu om
+het in de goede volgorde te zetten.
+
+10
+00:00:38,519 --> 00:00:42,289
+Denk eraan fruit, taco en één toetje.
+
+11
+00:00:42,289 --> 00:00:46,969
+Ik ga je nog wel, voor we dat gaan doen, een
+paar kleine tips geven.
+
+12
+00:00:46,969 --> 00:00:49,489
+Kijk nog even één keer mee naar mijn scherm.
+
+13
+00:00:49,489 --> 00:00:55,869
+Dit blok, dat schuif blok, dat kunnen we natuurlijk
+weggooien.
+
+14
+00:00:55,869 --> 00:01:00,570
+Want we gaan niet meer van links naar rechts
+schuiven, oh we moeten daar gooien, we gaan
+
+15
+00:01:00,570 --> 00:01:04,159
+niet meer van links naar rechts schuiven,
+we gaan het op volgorde doen.
+
+16
+00:01:04,159 --> 00:01:06,049
+Dus dat blokje kan je alvast weghalen.
+
+17
+00:01:06,049 --> 00:01:10,909
+Dan ga ik je nog één tip meegeven voordat
+je zelf aan het programmeren slaat.
+
+18
+00:01:10,909 --> 00:01:18,670
+Bij 'waarnemen' kun je ook de positie van
+andere blokjes opvragen.
+
+19
+00:01:18,670 --> 00:01:24,190
+Hier zie je de x-positie, nu is het de x-positie
+van Hassan, dus dat is precies hetzelfde als
+
+20
+00:01:24,190 --> 00:01:32,080
+dat donkerblauwe x-positie blokje, maar je
+kan ook doen x-positie van watermeloen bijvoorbeeld.
+
+21
+00:01:32,080 --> 00:01:37,290
+Dus dat kan je gebruiken, je weet precies
+waar die watermeloen staat met x-positie van
+
+22
+00:01:37,290 --> 00:01:40,979
+watermeloen, nou daar moet je natuurlijk omhoog
+en omlaag.
+
+23
+00:01:40,979 --> 00:01:46,829
+Programmeer jij het spel maar af zodat we
+alles op precies de goede volgorde krijgen.
+
+24
+00:01:46,829 --> 00:01:48,360
+Zet hem op!
+

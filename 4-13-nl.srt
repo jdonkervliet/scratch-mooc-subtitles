@@ -1,0 +1,69 @@
+1
+00:00:00,329 --> 00:00:01,651
+Kijk zo doe je dat!
+
+2
+00:00:01,651 --> 00:00:06,669
+Je pakt een schuif blok, maar nu gaan we de
+y, de hoogte, op dezelfde waarde laten, maar
+
+3
+00:00:06,669 --> 00:00:09,110
+we gaan naar een andere x schuiven.
+
+4
+00:00:09,110 --> 00:00:10,730
+Kijk, hoe ziet dat er uit?
+
+5
+00:00:10,730 --> 00:00:13,160
+We duwen op de groene vlag...
+
+6
+00:00:13,160 --> 00:00:15,059
+Even wachten.
+
+7
+00:00:15,059 --> 00:00:22,029
+Oversteken maar en zoeeef, daar gaan alle
+lekkere hapjes in de buik van Hassan.
+
+8
+00:00:22,029 --> 00:00:23,029
+Kijk zo doe je dat! Je pakt een schuif blok,
+maar nu gaan we de y, de hoogte, op dezelfde
+
+9
+00:00:23,029 --> 00:00:24,029
+waarde laten, maar we gaan naar een andere
+x schuiven. Kijk, hoe ziet dat er uit?
+
+10
+00:00:24,029 --> 00:00:25,029
+We duwen op de groene vlag... Even wachten.
+Oversteken maar en zoeeef, daar gaan alle
+
+11
+00:00:25,029 --> 00:00:26,029
+lekkere hapjes in de buik van Hassan. Maar
+wacht even...Die hapjes blijven gewoon staan!
+
+12
+00:00:26,029 --> 00:00:30,350
+Kijk nou, hij heeft ze helemaal niet opgegeten,
+hij is er gewoon langs geracet. Jouw volgende
+
+13
+00:00:30,350 --> 00:00:36,280
+opdracht is om de hapjes te laten verdwijnen
+als ze worden aangeraakt door Hassan. Vergeet
+
+14
+00:00:36,280 --> 00:00:41,360
+niet om ze ook weer te laten verschijnen als
+er op de groene vlag gedrukt wordt, want anders
+
+15
+00:00:41,360 --> 00:00:43,230
+kan je dit spel maar één keer spelen.
+

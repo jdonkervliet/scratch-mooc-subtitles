@@ -1,0 +1,37 @@
+1
+00:00:01,339 --> 00:00:06,010
+Kijk deze blokken horen allemaal bij oversteken,
+dat bovenste blok natuurlijk niet.
+
+2
+00:00:06,010 --> 00:00:10,060
+Wat dat is alleen maar om Hassan op de goede
+(begin)plek te krijgen en dat laatste blok
+
+3
+00:00:10,060 --> 00:00:15,710
+ook niet, want dat is het schuif naar links
+en naar rechts blok om alle hapjes op te eten.
+
+4
+00:00:15,710 --> 00:00:18,760
+Dus die twee blokken horen niet bij het oversteken.
+
+5
+00:00:18,760 --> 00:00:23,010
+Weet jij zeker dat dit oversteek blok zo klopt?
+
+6
+00:00:23,010 --> 00:00:25,350
+Misschien is het niet helemaal goed.
+
+7
+00:00:25,350 --> 00:00:30,390
+Probeer eens de x te veranderen in dat bovenste
+blokje, bijvoorbeeld zet de x eens op 50.
+
+8
+00:00:30,390 --> 00:00:35,550
+Probeer het maar eens uit en kijk dan of Hassan
+nog steeds veilig oversteekt.
+

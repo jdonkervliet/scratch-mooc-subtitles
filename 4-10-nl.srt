@@ -1,0 +1,71 @@
+1
+00:00:00,640 --> 00:00:05,470
+Kijk dat doen we natuurlijk met een 'als'
+blok en een 'groter dan' blok uit de functies,
+
+2
+00:00:05,470 --> 00:00:06,930
+dat weet jij allemaal al lang.
+
+3
+00:00:06,930 --> 00:00:08,810
+Kijk maar eens hoe goed dat gaat.
+
+4
+00:00:08,810 --> 00:00:10,440
+Ik klik op de groene vlag.
+
+5
+00:00:10,440 --> 00:00:15,580
+Dit is niet veilig en zodra de auto ver genoeg
+weg is, zegt hij 'oversteken maar'.
+
+6
+00:00:15,580 --> 00:00:18,400
+Oh daar komt de auto weer terug, we gaan weer
+wachten.
+
+7
+00:00:18,400 --> 00:00:21,160
+En nu is het veilig om over te steken.
+
+8
+00:00:21,160 --> 00:00:26,670
+Nou Hassan snakt natuurlijk naar die lekkere
+hapjes, dus hij wil niet alleen maar zeggen
+
+9
+00:00:26,670 --> 00:00:30,159
+'oversteken maar', hij wil ook echt oversteken.
+
+10
+00:00:30,159 --> 00:00:35,870
+Programmeer jij het maar eens zo dat hij echt
+oversteekt en daar kan je het blokje 'schuif'
+
+11
+00:00:35,870 --> 00:00:36,870
+voor gebruiken.
+
+12
+00:00:36,870 --> 00:00:42,359
+Dat zit ook bij beweging hier en dat hebben
+we in les 1 ook gebruikt.
+
+13
+00:00:42,359 --> 00:00:43,359
+Het 'schuif' blok.
+
+14
+00:00:43,359 --> 00:00:48,210
+Pak dat maar, zet het op de goede plek en
+laat Hassan ver genoeg de weg oversteken,
+
+15
+00:00:48,210 --> 00:00:50,180
+maar natuurlijk niet te ver!
+
+16
+00:00:50,180 --> 00:00:50,969
+Succes!
+

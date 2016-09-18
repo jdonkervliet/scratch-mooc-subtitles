@@ -1,0 +1,72 @@
+1
+00:00:00,560 --> 00:00:02,470
+Nou wat doe jij als je oversteekt?
+
+2
+00:00:02,470 --> 00:00:08,060
+Je kijkt natuurlijk links, dan kijk je rechts,
+dan kijk je nog een keer links en als er dan
+
+3
+00:00:08,060 --> 00:00:10,650
+geen auto's zijn, dan ga je oversteken.
+
+4
+00:00:10,650 --> 00:00:15,340
+Daar heb je misschien nog nooit over nagedacht,
+maar dat is een soort 'algoritme'.
+
+5
+00:00:15,340 --> 00:00:21,070
+Een algoritme is een programmeerwoord en dat
+betekent een soort plan van aanpak.
+
+6
+00:00:21,070 --> 00:00:24,019
+Een stappenplan dat je computer kan uitvoeren.
+
+7
+00:00:24,019 --> 00:00:26,779
+Dus oversteken is gewoon een soort algoritme.
+
+8
+00:00:26,779 --> 00:00:32,760
+En ook wat we vorige week deden, bijvoorbeeld:
+"Als de aanwijzer op roze staat, dan krijg
+
+9
+00:00:32,760 --> 00:00:35,820
+je twee punten en anders krijg je maar 1 punt."
+
+10
+00:00:35,820 --> 00:00:38,590
+Ook dat is een voorbeeld van een algoritme.
+
+11
+00:00:38,590 --> 00:00:41,890
+Het is helemaal niet zo moeilijk eigenlijk,
+als je erover nadenkt.
+
+12
+00:00:41,890 --> 00:00:48,640
+Jouw volgende programmeeropdracht is om het
+oversteek algoritme, dus links, rechts, links,
+
+13
+00:00:48,640 --> 00:00:50,290
+in programmeerblokjes op te schrijven.
+
+14
+00:00:50,290 --> 00:00:54,360
+En dat hoeven geen echte scratch blokjes te
+zijn, je mag zelf 'kijk links' opschrijven
+
+15
+00:00:54,360 --> 00:00:55,570
+en 'steek over'.
+
+16
+00:00:55,570 --> 00:00:59,920
+Maar probeer nou eens jouw algoritme te vertalen
+in blokjestaal.
+

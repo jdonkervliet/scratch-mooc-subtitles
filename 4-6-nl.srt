@@ -1,0 +1,42 @@
+1
+00:00:00,599 --> 00:00:02,520
+Kijk dat is al een goede racewagen he?
+
+2
+00:00:02,520 --> 00:00:04,980
+Als ik op de groene vlag klik, dan gaat hij.
+
+3
+00:00:04,980 --> 00:00:07,529
+Vroem, vroem, iedere keer gaat hij rond.
+
+4
+00:00:07,529 --> 00:00:12,860
+Maar het volgende wat we natuurlijk gaan doen,
+is oversteken.
+
+5
+00:00:12,860 --> 00:00:18,670
+En nu is de vraag aan jou, denk eens even
+na wat je eigenlijk doet als je oversteekt.
+
+6
+00:00:18,670 --> 00:00:20,980
+Dus je hoeft even helemaal niet aan programmeren
+te denken.
+
+7
+00:00:20,980 --> 00:00:25,810
+Schrijf eens even op in de volgende puzzel
+wat doe je eigenlijk als je oversteekt?
+
+8
+00:00:25,810 --> 00:00:31,039
+Welke stappen voor jij altijd uit voordat
+je de weg oversteekt.
+
+9
+00:00:31,039 --> 00:00:35,200
+Dat is jouw volgende programmeeropdracht,
+ook al gaat het niet over programmeren.
+
