@@ -1,0 +1,445 @@
+1
+00:00:01,079 --> 00:00:04,970
+Nou, na een beetje experimenteren ben je er
+waarschijnlijk achter gekomen dat getallen
+
+2
+00:00:04,970 --> 00:00:11,380
+tussen de ongeveer -200 en 200 voor de x en
+de y allebei best goede getallen zijn.
+
+3
+00:00:11,380 --> 00:00:15,780
+Dat had je kunnen experimenteren,
+maar je kunt dat ook uitproberen door met
+
+4
+00:00:15,780 --> 00:00:17,730
+je muis over het veld heen te gaan.
+
+5
+00:00:17,730 --> 00:00:19,199
+Kijk maar eens met mij mee.
+
+6
+00:00:19,199 --> 00:00:22,289
+Misschien weet je nog van de eerste les dat
+hier onderaan,
+
+7
+00:00:22,289 --> 00:00:25,720
+dat daar x-jes en y-tjes staan als je met
+de muis beweegt.
+
+8
+00:00:25,720 --> 00:00:28,560
+Dus als je hier helemaal naar links boven
+gaat,
+
+9
+00:00:28,560 --> 00:00:33,750
+dan zie je dat het x-je daar -240 is, en het
+y-tje 180.
+
+10
+00:00:33,750 --> 00:00:40,060
+En helemaal aan de andere kant zie je 240
+voor de x, en -180 voor de y.
+
+11
+00:00:40,060 --> 00:00:48,409
+Dus als je de vis echt overal in het veld
+terecht wilt laten komen pak je 240 en -180
+
+12
+00:00:48,409 --> 00:00:51,960
+voor de x-jes en de y-tjes,
+maar je kunt natuurlijk ook lekker, zoals
+
+13
+00:00:51,960 --> 00:00:55,710
+ik heb gedaan,
+200 en -200 pakken want dat ziet er makkelijker
+
+14
+00:00:55,710 --> 00:00:56,710
+uit.
+
+15
+00:00:56,710 --> 00:01:00,290
+Eén ding zou ik nog willen verbeteren aan
+het verschijnen van het visje.
+
+16
+00:01:00,290 --> 00:01:05,440
+Als ik het spel nu start,
+het eerste visje is heel makkelijk want dat
+
+17
+00:01:05,440 --> 00:01:06,440
+zie ik meteen.
+
+18
+00:01:06,440 --> 00:01:11,300
+Dus het zou eigenlijk nog leuker zijn als
+het eerste visje ook op een willekeurige plek
+
+19
+00:01:11,300 --> 00:01:12,300
+terecht komt.
+
+20
+00:01:12,300 --> 00:01:15,670
+En dan kan ik natuurlijk dit blok ook aan
+de bovenkant zetten.
+
+21
+00:01:15,670 --> 00:01:19,300
+Dan heb ik twee keer 'ik kom op een willekeurige
+plek terecht' en 'ik verschijn'.
+
+22
+00:01:19,300 --> 00:01:24,520
+Eén manier om dat te bereiken is die 'ga-naar'
+pakken en hier in te schuiven,
+
+23
+00:01:24,520 --> 00:01:27,180
+en een willekeurig getal,
+en weer 200 intikken,
+
+24
+00:01:27,180 --> 00:01:28,180
+en -200.
+
+25
+00:01:28,180 --> 00:01:29,690
+Maar dat vind ik heel veel werk.
+
+26
+00:01:29,690 --> 00:01:32,640
+En programmeurs houden niet van veel werk
+als het niet nodig is.
+
+27
+00:01:32,640 --> 00:01:35,550
+Dus wat ik ook kan doen is,
+ik kan naar het ga-naar-blok gaan,
+
+28
+00:01:35,550 --> 00:01:37,070
+dan ga ik hier in het midden staan.
+
+29
+00:01:37,070 --> 00:01:42,170
+En als ik dan weer shift ingedrukt houd terwijl
+ik met de muis klik krijg ik daar een blokje
+
+30
+00:01:42,170 --> 00:01:43,170
+'kopie maken'.
+
+31
+00:01:43,170 --> 00:01:48,100
+Als ik daarop klik krijg ik dat hele blok
+hier nog een keer aan mijn muiscursor.
+
+32
+00:01:48,100 --> 00:01:49,640
+En dat blijft lekker daaraan plakken.
+
+33
+00:01:49,640 --> 00:01:53,320
+Dan ga ik hier naar boven,
+en dan klik ik hem daar.
+
+34
+00:01:53,320 --> 00:01:57,080
+Dan heb ik wel twee keer verschijn,
+dus dan hoef ik alleen nog maar dit blokje
+
+35
+00:01:57,080 --> 00:02:00,390
+even weg te halen,
+en dan hoef ik dus niet al die blokken opnieuw
+
+36
+00:02:00,390 --> 00:02:01,520
+te programmeren.
+
+37
+00:02:01,520 --> 00:02:05,310
+Dan kopieer ik het gewoon,
+en dat is een heel stuk makkelijker.
+
+38
+00:02:05,310 --> 00:02:11,480
+Onze volgende opdracht is dat we graag willen
+dat Gerrie zou groeien.
+
+39
+00:02:11,480 --> 00:02:14,820
+Want als je natuurlijk heel veel eet,
+dan word je steeds groter.
+
+40
+00:02:14,820 --> 00:02:21,590
+Dus zou het niet mooi zijn als iedere keer
+wanneer die een visje te pakken krijgt zijn
+
+41
+00:02:21,590 --> 00:02:24,760
+grootte wat groter wordt,
+dus dat hij wat groeit.
+
+42
+00:02:24,760 --> 00:02:27,540
+Dit is een moeilijk programmeer probleem.
+
+43
+00:02:27,540 --> 00:02:31,570
+Want wat we eigenlijk graag zouden willen
+gebruiken is het volgende.
+
+44
+00:02:31,570 --> 00:02:37,010
+Je kan natuurlijk dit zeggen:
+ik pak de groene vlag,
+
+45
+00:02:37,010 --> 00:02:39,930
+ik pak een herhaal,
+ik pak een als.
+
+46
+00:02:39,930 --> 00:02:42,010
+Die hebben we allemaal al een paar keer gezien.
+
+47
+00:02:42,010 --> 00:02:48,420
+En nou kan ik natuurlijk doen 'als ik het
+visje aanraak, dan ga ik groeien.'
+
+48
+00:02:48,420 --> 00:02:51,290
+Maar, dat lukt niet echt.
+
+49
+00:02:51,290 --> 00:02:55,270
+Omdat, als ik het visje aanraak verdwijnt
+het visje.
+
+50
+00:02:55,270 --> 00:02:59,020
+Dus Gerrie heeft eigenlijk niet genoeg tijd
+om te reageren,
+
+51
+00:02:59,020 --> 00:03:04,300
+want voordat Gerrie heeft gehoord dat hij
+het visje aanraakt is het visje al verdwenen.
+
+52
+00:03:04,300 --> 00:03:07,880
+Dus we moeten hier een nieuwe programmeer
+techniek gaan gebruiken,
+
+53
+00:03:07,880 --> 00:03:09,459
+en die heet 'signalen'.
+
+54
+00:03:09,459 --> 00:03:13,650
+Dus wat ik ga doen is,
+ik ga een signaaltje 'hap' maken.
+
+55
+00:03:13,650 --> 00:03:20,120
+En een signaaltje is net zoiets als 'buut
+vrij' roepen bij verstoppertje.
+
+56
+00:03:20,120 --> 00:03:23,380
+Als Gerrie heel hard roept 'ik heb jou te
+pakken',
+
+57
+00:03:23,380 --> 00:03:24,580
+hoort het visje dat.
+
+58
+00:03:24,580 --> 00:03:29,050
+En als het visje heel hard roept 'ik ben gepakt',
+dan hoort Gerrie dat.
+
+59
+00:03:29,050 --> 00:03:34,239
+Dus we gaan een signaaltje sturen van de PurpleFish
+naar Gerrie,
+
+60
+00:03:34,239 --> 00:03:37,860
+waardoor Gerrie weet dat ie een lekker visje
+heeft op gesmuld.
+
+61
+00:03:37,860 --> 00:03:41,739
+Kijk maar eens even met mij mee, hoe dat eruit
+ziet.
+
+62
+00:03:41,739 --> 00:03:44,810
+Dus deze blokken halen we weg.
+
+63
+00:03:44,810 --> 00:03:46,380
+Die hebben we niet meer nodig.
+
+64
+00:03:46,380 --> 00:03:49,569
+En wat we gaan doen hier bij de PurpleFish
+is,
+
+65
+00:03:49,569 --> 00:03:52,550
+op het moment dat ie gepakt is,
+dat is hier.
+
+66
+00:03:52,550 --> 00:03:57,200
+We gaan naar gebeurtenissen,
+en dan stuur ik een signaal 'hap'.
+
+67
+00:03:57,200 --> 00:03:59,660
+Dat is natuurlijk 'ik ben opgegeten'.
+
+68
+00:03:59,660 --> 00:04:04,040
+Ik pak die 'hap' op,
+en ik zet die hier bij Gerrie neer.
+
+69
+00:04:04,040 --> 00:04:08,530
+Dus als het visje aangeraakt wordt,
+stuurt ie een signaaltje 'hap',
+
+70
+00:04:08,530 --> 00:04:12,110
+en vervolgens doet ie al die andere dingen
+die ie moet doen.
+
+71
+00:04:12,110 --> 00:04:16,479
+Verdwijnen, even wachten, naar een willekeurige
+locatie gaan en vervolgens weer verschijnen.
+
+72
+00:04:16,479 --> 00:04:22,380
+Als ik nou terug ga naar de code van Gerrie,
+dan zie je dat ik hier ook een groot blok
+
+73
+00:04:22,380 --> 00:04:23,669
+heb,
+zo'n rond blok,
+
+74
+00:04:23,669 --> 00:04:26,560
+net zoals bij het pijltje rechts, en de groene
+vlag.
+
+75
+00:04:26,560 --> 00:04:31,210
+En daarmee kan Gerrie reageren op dat signaaltje
+'hap'.
+
+76
+00:04:31,210 --> 00:04:36,909
+Dus op het moment dat hij hoort van dat visje
+dat ie een visje heeft opgegeten kan ie iets
+
+77
+00:04:36,909 --> 00:04:37,909
+doen.
+
+78
+00:04:37,909 --> 00:04:39,069
+Nou, wat moest ie ook alweer doen?
+
+79
+00:04:39,069 --> 00:04:40,069
+Groeien!
+
+80
+00:04:40,069 --> 00:04:44,960
+Ik ga naar uiterlijken,
+en dan heb je hier een blokje 'verander grootte
+
+81
+00:04:44,960 --> 00:04:48,220
+met',
+waardoor Gerrie steeds groter wordt.
+
+82
+00:04:48,220 --> 00:04:50,559
+Nou, proberen we dat programma even samen
+uit.
+
+83
+00:04:50,559 --> 00:04:52,499
+Ik klik op de groene vlag.
+
+84
+00:04:52,499 --> 00:04:56,120
+Iedere keer dat ie een visje pakt,
+kijk!
+
+85
+00:04:56,120 --> 00:04:57,719
+Zag je hem groeien?
+
+86
+00:04:57,719 --> 00:04:59,560
+Ik pak er nog een.
+
+87
+00:04:59,560 --> 00:05:00,560
+Hap!
+
+88
+00:05:00,560 --> 00:05:01,560
+Daar gaat ie.
+
+89
+00:05:01,560 --> 00:05:02,560
+Hap!
+
+90
+00:05:02,560 --> 00:05:03,560
+Hap!
+
+91
+00:05:03,560 --> 00:05:07,449
+Iedere keer dat ie een visje pakt wordt ie
+weer wat groter.
+
+92
+00:05:07,449 --> 00:05:11,139
+Nou, signalen is best een lastige programmeer
+truc.
+
+93
+00:05:11,139 --> 00:05:15,969
+Dus in de volgende quiz gaan we je een aantal
+vragen stellen over hoe die signalen werken,
+
+94
+00:05:15,969 --> 00:05:19,050
+zodat we zeker weten dat je heel goed snapt
+hoe de signalen werken.
+
+95
+00:05:19,050 --> 00:05:20,109
+Zet hem op!
+
