@@ -1,0 +1,201 @@
+1
+00:00:00,110 --> 00:00:01,300
+Nou, dat was een makkie toch?
+
+2
+00:00:01,300 --> 00:00:05,280
+Die 'herhaal', die 'als', en die 'raak aan',
+die hebben we nu helemaal in de smiezen.
+
+3
+00:00:05,280 --> 00:00:11,030
+Kijk maar wat hier staat:
+'herhaal, als raak-ik-aan Fish3, dan maak
+
+4
+00:00:11,030 --> 00:00:12,119
+grootte 20%.'
+
+5
+00:00:12,119 --> 00:00:15,089
+Je ziet hoe het werkt als je mee kijkt in
+het programma.
+
+6
+00:00:15,089 --> 00:00:19,960
+Als Gerrie zo stom is dat ie per ongeluk tegen
+die giftige vis aan vliegt,
+
+7
+00:00:19,960 --> 00:00:22,240
+ja dan wordt ie hartstikke klein.
+
+8
+00:00:22,240 --> 00:00:28,940
+De volgende programmeeropdracht is dat we
+de vis iets gemeens gaan laten zeggen.
+
+9
+00:00:28,940 --> 00:00:33,660
+Als Gerrie gekrompen is,
+dan gaat die vis roepen 'HAHAHAHA' of 'ik heb
+
+10
+00:00:33,660 --> 00:00:34,860
+je te pakken', of zo.
+
+11
+00:00:34,860 --> 00:00:39,440
+Je mag weer je eigen fantasie gebruiken om
+die vis iets leuks te laten zeggen.
+
+12
+00:00:39,440 --> 00:00:44,620
+Hiervoor hebben we weer een signaal nodig,
+want we kunnen niet zeggen
+
+13
+00:00:44,620 --> 00:00:49,010
+'als de vis Gerrie aanraakt',
+want Gerrie is helemaal gekrompen,
+
+14
+00:00:49,010 --> 00:00:50,989
+dus die raakt de vis helemaal niet meer aan.
+
+15
+00:00:50,989 --> 00:00:53,399
+We gaan daarvoor een nieuw signaal gebruiken.
+
+16
+00:00:53,399 --> 00:00:55,740
+Dus ga maar met mij mee naar 'gebeurtenissen'.
+
+17
+00:00:55,740 --> 00:00:59,570
+Hier, bij de 'hap', gaan we een nieuw bericht
+doen.
+
+18
+00:00:59,570 --> 00:01:05,420
+Want het is niet hetzelfde 'hap' bericht,
+het is bijvoorbeeld een 'raak rode vis' bericht.
+
+19
+00:01:05,420 --> 00:01:08,020
+Je mag het ook anders noemen,
+maar dit is wel duidelijk.
+
+20
+00:01:08,020 --> 00:01:12,340
+Dus ik tik in 'raak rode vis'.
+
+21
+00:01:12,340 --> 00:01:13,729
+Zo.
+
+22
+00:01:13,729 --> 00:01:17,000
+Als ik de vis aanraak,
+dan krimp ik,
+
+23
+00:01:17,000 --> 00:01:19,770
+en ik zend ook een signaaltje naar de rode
+vis.
+
+24
+00:01:19,770 --> 00:01:23,380
+En dan weet die rode vis dus,
+dat ik per ongeluk tegen hem aan gebotst ben
+
+25
+00:01:23,380 --> 00:01:24,380
+als Gerrie.
+
+26
+00:01:24,380 --> 00:01:25,670
+Ik ga naar de vis.
+
+27
+00:01:25,670 --> 00:01:31,360
+En hier gebruik ik 'wanneer ik signaal raak
+rode vis ontvang',
+
+28
+00:01:31,360 --> 00:01:39,420
+nou wat ga ik dan zeggen,
+bijvoorbeeld: 'zeg hahahahaha', bijvoorbeeld.
+
+29
+00:01:39,420 --> 00:01:41,680
+Je mag ook iets anders zeggen.
+
+30
+00:01:41,680 --> 00:01:43,400
+Als het maar niet te gemeen is.
+
+31
+00:01:43,400 --> 00:01:47,230
+Als ik nu op de groene vlag klik,
+ik zal eerst een beetje groeien door wat visjes
+
+32
+00:01:47,230 --> 00:01:48,230
+op te eten.
+
+33
+00:01:48,230 --> 00:01:49,560
+Kom maar hier visje.
+
+34
+00:01:49,560 --> 00:01:53,030
+Ai, het valt nog niet mee om ze te pakken
+te krijgen.
+
+35
+00:01:53,030 --> 00:01:54,030
+Kijk daar.
+
+36
+00:01:54,030 --> 00:01:59,000
+Als ik nu tegen de rode vis aan zwem,
+dan wordt ik heel klein en de rode vis zegt
+
+37
+00:01:59,000 --> 00:02:00,310
+'hahahaha'.
+
+38
+00:02:00,310 --> 00:02:03,990
+Nou, we zijn bijna klaar met ons spel.
+
+39
+00:02:03,990 --> 00:02:04,990
+We kunnen al van alles.
+
+40
+00:02:04,990 --> 00:02:06,869
+We kunnen groeien,
+we kunnen krimpen.
+
+41
+00:02:06,869 --> 00:02:09,870
+De rode vis kan ons uitlachen als ie ons te
+pakken heeft.
+
+42
+00:02:09,870 --> 00:02:14,980
+In het allerlaatste filmpje van deze week
+gaan we de vis nog iets spannender maken.
+
+43
+00:02:14,980 --> 00:02:19,550
+Want de vis gaat naar ons toe zwemmen,
+en proberen ons te pakken.
+
+44
+00:02:19,550 --> 00:02:22,640
+Ga met mij mee naar het laatste filmpje,
+proberen we het samen uit.
+

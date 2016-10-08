@@ -1,0 +1,107 @@
+1
+00:00:00,140 --> 00:00:03,740
+We zijn op de goede weg met ons spel,
+maar we kunnen het nog wat spannender maken
+
+2
+00:00:03,740 --> 00:00:05,470
+als we een vijand toevoegen.
+
+3
+00:00:05,470 --> 00:00:07,399
+Net als we vorige week hebben gedaan met het
+spook.
+
+4
+00:00:07,399 --> 00:00:10,820
+We gaan een nieuwe sprite uitkiezen,
+kijk met mij mee.
+
+5
+00:00:10,820 --> 00:00:14,160
+'Nieuwe sprite', en dan kunnen we kiezen wat
+we maar willen.
+
+6
+00:00:14,160 --> 00:00:17,390
+Dus misschien wil jij wel een vliegtuig in
+je aquarium,
+
+7
+00:00:17,390 --> 00:00:21,119
+of een appel,
+maar ik ga een giftige vis uitkiezen.
+
+8
+00:00:21,119 --> 00:00:22,119
+Deze hier.
+
+9
+00:00:22,119 --> 00:00:25,749
+En die giftige vis,
+die gaat zo dadelijk proberen om Gerrie ook
+
+10
+00:00:25,749 --> 00:00:26,749
+op te eten.
+
+11
+00:00:26,749 --> 00:00:29,369
+Want, Gerrie houdt niet alleen van visjes
+eten,
+
+12
+00:00:29,369 --> 00:00:31,909
+visjes houden ook van Gerrie eten.
+
+13
+00:00:31,909 --> 00:00:35,920
+De eerste opdracht die jullie helemaal zelf
+gaan programmeren,
+
+14
+00:00:35,920 --> 00:00:40,059
+is om Gerrie heel klein te maken,
+helemaal te laten krimpen,
+
+15
+00:00:40,059 --> 00:00:42,300
+als ie per ongeluk de giftige vis aanraakt.
+
+16
+00:00:42,300 --> 00:00:44,519
+We gaan even terug naar de code van Gerrie.
+
+17
+00:00:44,519 --> 00:00:48,879
+En bij uiterlijken zie je staan,
+niet alleen 'verander grootte met 10',
+
+18
+00:00:48,879 --> 00:00:54,239
+maar ook een 'maak grootte',
+en die kan je zetten op bijvoorbeeld 20%,
+
+19
+00:00:54,239 --> 00:00:55,239
+dat is heel erg klein.
+
+20
+00:00:55,239 --> 00:01:01,399
+En dan is het jouw opdracht om, als Gerrie
+de giftige vis aanraakt, helemaal te krimpen
+
+21
+00:01:01,399 --> 00:01:02,399
+tot 20.
+
+22
+00:01:02,399 --> 00:01:05,520
+Dus denk weer aan het herhaal-blok,
+aan het raak-blok,
+
+23
+00:01:05,520 --> 00:01:08,380
+en aan het als-blok,
+en volgens mij gaat het jullie helemaal lukken.
+
