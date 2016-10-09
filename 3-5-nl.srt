@@ -1,0 +1,165 @@
+1
+00:00:00,580 --> 00:00:01,990
+Dat was niet al te lastig he?
+
+2
+00:00:01,990 --> 00:00:03,690
+Ik denk dat jij zoiets hebt gedaan.
+
+3
+00:00:03,690 --> 00:00:08,460
+Een 'maak' blok en dat zet je de snelheid
+aan het begin, na de spatiebalk, op 15.
+
+4
+00:00:08,460 --> 00:00:12,580
+Maar als je dat programma uittest, dan werkt
+het nog niet helemaal goed.
+
+5
+00:00:12,580 --> 00:00:13,580
+Kijk maar met mij mee.
+
+6
+00:00:13,580 --> 00:00:19,539
+Als ik nou op die spatie duw, hij draait wel
+lekker, maar daar komt nooit een eind aan.
+
+7
+00:00:19,539 --> 00:00:21,020
+Dat gaat eindeloos door.
+
+8
+00:00:21,020 --> 00:00:26,210
+Dus we moeten nog een paar aanpassingen maken,
+samen, aan ons programma om het wat beter
+
+9
+00:00:26,210 --> 00:00:27,210
+te maken.
+
+10
+00:00:27,210 --> 00:00:30,880
+Het eerste wat we gaan doen is dat we, in
+plaats van dat we 15 graden gaan draaien,
+
+11
+00:00:30,880 --> 00:00:33,680
+dat we met "snelheid" graden gaan draaien.
+
+12
+00:00:33,680 --> 00:00:37,170
+Dat getal dat we in snelheid stoppen, dat
+gaan we iedere keer draaien.
+
+13
+00:00:37,170 --> 00:00:38,310
+Kijk maar met mij mee.
+
+14
+00:00:38,310 --> 00:00:42,190
+Ik pak die 'snelheid' en die stop ik in dat
+gat.
+
+15
+00:00:42,190 --> 00:00:44,840
+Nu draai ik iedere keer met 'snelheid'.
+
+16
+00:00:44,840 --> 00:00:49,780
+Kan ik nog een keer op de spatie duwen, maar
+er is natuurlijk nog niets veranderd.
+
+17
+00:00:49,780 --> 00:00:52,640
+Want die snelheid die blijft maar op 15 staan.
+
+18
+00:00:52,640 --> 00:00:54,550
+Die hebben we nog niet aangepast.
+
+19
+00:00:54,550 --> 00:00:58,920
+Wat we ook nog moeten doen, is we pakken een
+'verander snelheid'.
+
+20
+00:00:58,920 --> 00:01:01,290
+En die gaan we onder het 'draai' blok zetten.
+
+21
+00:01:01,290 --> 00:01:05,220
+Dus iedere keer dat we gedraaid hebben, maken
+we de snelheid minder.
+
+22
+00:01:05,220 --> 00:01:11,640
+Ik kan natuurlijk hier ook meer snelheid in
+zetten, dus als ik hem zo laat staan op 1,
+
+23
+00:01:11,640 --> 00:01:12,890
+kijk maar eens.
+
+24
+00:01:12,890 --> 00:01:15,250
+Dan gaat hij steeds sneller draaien.
+
+25
+00:01:15,250 --> 00:01:19,140
+Want die verander zet er dan weer ééntje
+bij in plaats van eraf.
+
+26
+00:01:19,140 --> 00:01:21,070
+Dat is dus niet helemaal goed.
+
+27
+00:01:21,070 --> 00:01:24,370
+Dat wisten we al, we willen de snelheid lager
+maken.
+
+28
+00:01:24,370 --> 00:01:27,250
+Dus we willen hem elke keer met -1 veranderen.
+
+29
+00:01:27,250 --> 00:01:31,290
+Is dat nou het goede programma, zoals ik dat
+nu heb gemaakt?
+
+30
+00:01:31,290 --> 00:01:35,460
+Dus ik begin op 15, iedere keer als ik draai,
+maak ik hem wat minder.
+
+31
+00:01:35,460 --> 00:01:36,460
+Klopt dat?
+
+32
+00:01:36,460 --> 00:01:37,500
+Of klopt dat niet?
+
+33
+00:01:37,500 --> 00:01:43,200
+Één tip: als je nog niet precies weet wat
+er gebeurt, kan je daar bovenin naar de snelheid
+
+34
+00:01:43,200 --> 00:01:44,200
+kijken.
+
+35
+00:01:44,200 --> 00:01:45,200
+Die staat linksbovenin de hoek.
+
+36
+00:01:45,200 --> 00:01:50,140
+Kijk daar maar eens naar en kijk of jij dit
+wel of niet de goede oplossing vindt.
+
+37
+00:01:50,140 --> 00:01:51,440
+Ik hoor het graag van je!
+

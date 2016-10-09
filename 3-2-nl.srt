@@ -1,0 +1,96 @@
+1
+00:00:00,789 --> 00:00:03,340
+Ben je er klaar voor om samen met mij te gaan
+programmeren?
+
+2
+00:00:03,340 --> 00:00:06,550
+Onze eerste opdracht is om het rad rond te
+laten draaien.
+
+3
+00:00:06,550 --> 00:00:08,800
+Kijk maar eens met mij mee.
+
+4
+00:00:08,800 --> 00:00:13,550
+De eerste programmeerstap is natuurlijk dat
+we naar het rad gaan.
+
+5
+00:00:13,550 --> 00:00:16,840
+De code staat nu nog op de kat, dat zie je
+aan de blauwe lijn.
+
+6
+00:00:16,840 --> 00:00:19,700
+Maar we willen het rad laten draaien en niet
+de kat.
+
+7
+00:00:19,700 --> 00:00:24,530
+Pak maar eens een blokje hier "wanneer er
+op de spatiebalk wordt gedrukt".
+
+8
+00:00:24,530 --> 00:00:27,700
+Want we willen met de spatie het rad starten.
+
+9
+00:00:27,700 --> 00:00:31,980
+Nu gaan we naar beweging en daar zie 'draai'
+blokken staan.
+
+10
+00:00:31,980 --> 00:00:33,460
+Rechtsom en linksom.
+
+11
+00:00:33,460 --> 00:00:37,680
+Het maakt eigenlijk niet uit welke je pakt
+voor het rad, je mag kiezen welke je het mooiste
+
+12
+00:00:37,680 --> 00:00:40,720
+vindt, maar ik pak deze kant op.
+
+13
+00:00:40,720 --> 00:00:42,310
+Kijk dat werkt al goed.
+
+14
+00:00:42,310 --> 00:00:48,120
+Iedere keer als ik op die spatiebalk duw dan
+draait het rad, maar het is niet echt van
+
+15
+00:00:48,120 --> 00:00:49,120
+harte.
+
+16
+00:00:49,120 --> 00:00:51,330
+Hij draait niet echt lekker door.
+
+17
+00:00:51,330 --> 00:00:56,250
+Dus de eerste opdracht, de eerste Quiz die
+we deze week voor jou hebben, is hoe kan je
+
+18
+00:00:56,250 --> 00:01:00,050
+het nou zo programmeren dat dat rad steeds
+maar rond blijft draaien.
+
+19
+00:01:00,050 --> 00:01:05,170
+En dat blokje hebben we al in les één en
+les twee gezien dus ik denk dat jij wel weet
+
+20
+00:01:05,170 --> 00:01:07,100
+welk blokje je hier moet pakken.
+
+21
+00:01:07,100 --> 00:01:07,810
+Succes!
+

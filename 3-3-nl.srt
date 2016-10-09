@@ -1,0 +1,50 @@
+1
+00:00:00,919 --> 00:00:06,150
+Ik denk dat jij misschien wel voor een herhaalblokje
+hebt gekozen om dat rad te laten draaien.
+
+2
+00:00:06,150 --> 00:00:09,870
+Nou dat werkt wel, maar ik word er een beetje
+duizelig van!
+
+3
+00:00:09,870 --> 00:00:12,500
+Kijk maar eens wat er gebeurt als je nu op
+de spatiebalk duwt...
+
+4
+00:00:12,500 --> 00:00:15,850
+Daar gaat nooit een eind aan komen.
+
+5
+00:00:15,850 --> 00:00:20,050
+Dat rad dat blijft maar draaien en draaien,
+we willen natuurlijk wel dat het uiteindelijk
+
+6
+00:00:20,050 --> 00:00:21,279
+op een kleur terecht komt.
+
+7
+00:00:21,279 --> 00:00:27,430
+Dus de volgende opdracht is dat we die vijftien
+die in dat blok staat in een variabele gaan
+
+8
+00:00:27,430 --> 00:00:28,430
+stoppen.
+
+9
+00:00:28,430 --> 00:00:31,519
+Weet je nog hoe je een variabele moet maken
+van de eerste week?
+
+10
+00:00:31,519 --> 00:00:33,999
+Dat is jouw volgende opdracht.
+
+11
+00:00:33,999 --> 00:00:34,710
+Zet hem op!
+

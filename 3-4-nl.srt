@@ -1,0 +1,31 @@
+1
+00:00:01,420 --> 00:00:05,400
+Als het je gelukt is dan heb je hier nu extra
+blokken gekregen bij 'data'.
+
+2
+00:00:05,400 --> 00:00:07,970
+De variabele snelheid is er bij gekomen.
+
+3
+00:00:07,970 --> 00:00:11,280
+En met die nieuwe blokken kunnen we die variabele
+gaan programmeren.
+
+4
+00:00:11,280 --> 00:00:17,890
+Dus de volgende opdracht is om de snelheid
+op 15 te zetten iedere keer als je op de spatiebalk
+
+5
+00:00:17,890 --> 00:00:18,890
+duwt.
+
+6
+00:00:18,890 --> 00:00:19,890
+Gaat het jouw lukken?
+
+7
+00:00:19,890 --> 00:00:21,939
+Ik zie het graag in het volgende filmpje!
+

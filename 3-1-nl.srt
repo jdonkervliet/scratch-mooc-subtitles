@@ -1,0 +1,32 @@
+1
+00:00:00,750 --> 00:00:01,750
+Hallo allemaal!
+
+2
+00:00:01,750 --> 00:00:05,190
+Welkom alweer bij les drie van ScratchX met
+Felienne.
+
+3
+00:00:05,190 --> 00:00:08,210
+Deze week gaan we weer een heel nieuw spel
+maken.
+
+4
+00:00:08,210 --> 00:00:09,870
+En het is deze week een quiz.
+
+5
+00:00:09,870 --> 00:00:11,130
+Een echte spelshow!
+
+6
+00:00:11,130 --> 00:00:17,350
+Je ziet hier Karel de Kat, dat is onze kwismaster
+en je ziet ook een mooi rad van fortuin.
+
+7
+00:00:17,350 --> 00:00:20,679
+En onze eerste programmeeropdracht is dat
+we dat rad gaan laten draaien.
+
