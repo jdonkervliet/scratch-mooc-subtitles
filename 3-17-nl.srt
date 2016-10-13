@@ -99,11 +99,11 @@ getal, opslaan en twee keer gebruiken.
 23
 00:01:21,490 --> 00:01:25,330
 Nou, als ik zeg opslaan, dat zeg jij natuurlijk
-'variabelen'.
+'variabele’.
 
 24
 00:01:25,330 --> 00:01:32,150
-We gaan naar 'data' en we gaan een 'variabelen'
+We gaan naar 'data' en we gaan een 'variabele'
 maken en die noem ik 'item nummer'.
 
 25
