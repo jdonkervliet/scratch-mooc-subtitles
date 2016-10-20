@@ -93,7 +93,7 @@ Dus dat klopt helemaal niet.
 
 22
 00:01:15,110 --> 00:01:21,490
-Wat we moeten doen is dat getal, dat willekeurig
+Wat we moeten doen is dat getal, dat willekeurige
 getal, opslaan en twee keer gebruiken.
 
 23
@@ -152,7 +152,7 @@ kleurtjes.
 
 35
 00:02:06,670 --> 00:02:10,979
-Ik laat die 'item nummer' even het vinkje
+Ik laat bij die 'item nummer' even het vinkje
 aan staan, kan je precies zien wat er gebeurt.
 
 36

@@ -55,7 +55,7 @@ voor.
 
 13
 00:00:39,399 --> 00:00:44,890
-Dit tweede blokje kunnen we voor gebruiken,
+Dit tweede blokje kunnen we daarvoor gebruiken,
 pak maar eens op en plak dat hier tussen.
 
 14
@@ -70,12 +70,12 @@ even doen.
 16
 00:00:54,240 --> 00:00:59,460
 Gaan we naar boven, dan zie je dat er maar
-één item verwijdert is.
+één item verwijderd is.
 
 17
 00:00:59,479 --> 00:01:04,850
 Dat is niet wat wij willen, wij willen dat
-alles eruit gekeept wordt als we beginnen.
+alles eruit gekiept wordt als we beginnen.
 
 18
 00:01:04,850 --> 00:01:10,710
