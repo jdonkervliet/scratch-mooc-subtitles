@@ -1,0 +1,204 @@
+1
+00:00:02,610 --> 00:00:04,020
+Kijk, zo gaat dat.
+
+2
+00:00:04,020 --> 00:00:08,620
+Je pakt gewoon 'item 1 van antwoorden' en
+die vergelijk je met het antwoord wat jouw
+
+3
+00:00:08,620 --> 00:00:09,870
+speler heeft ingetikt.
+
+4
+00:00:09,870 --> 00:00:11,260
+Dat was toch niet zo lastig.
+
+5
+00:00:11,260 --> 00:00:15,110
+Alleen, nu krijgen we alleen vraag 1.
+
+6
+00:00:15,110 --> 00:00:18,710
+En we hebben niks voor niks al die vragen
+ingetikt, alle vier.
+
+7
+00:00:18,710 --> 00:00:23,070
+We zouden graag willen dat Karel de quizmaster
+alle vier die vragen pakt.
+
+8
+00:00:23,070 --> 00:00:26,630
+De ene keer 2, dan weer 3 dan weer 1.
+
+9
+00:00:26,630 --> 00:00:30,140
+Dan denk jij natuurlijk, we hebben een willekeurig
+getal nodig.
+
+10
+00:00:30,140 --> 00:00:31,430
+En dat klopt helemaal.
+
+11
+00:00:31,430 --> 00:00:37,450
+We gaan een willekeurig getal pakken tussen
+de 1 en 4 en dat gaan we gebruiken.
+
+12
+00:00:37,450 --> 00:00:42,770
+Je gaat naar 'functies', die ken je natuurlijk
+al, en dat tik ik hier in: 'willekeurig getal
+
+13
+00:00:42,770 --> 00:00:45,120
+tussen de 1 en de 4'.
+
+14
+00:00:45,120 --> 00:00:51,290
+Dat kan ik dan hier gebruiken bij m'n vragen
+en dat kan ik gebruiken bij de antwoorden.
+
+15
+00:00:51,290 --> 00:00:58,079
+Probeer dit spel maar eens uit en kijk of
+dat jij nu steeds het goede vraag en het goede
+
+16
+00:00:58,079 --> 00:00:59,520
+antwoord samen krijgt.
+
+17
+00:00:59,520 --> 00:01:02,310
+Klopt dit spel al?
+
+18
+00:01:02,310 --> 00:01:05,239
+Nee! Dit spel klopt niet.
+
+19
+00:01:05,239 --> 00:01:09,720
+Dat heb je waarschijnlijk al gezien, want
+je krijgt nu iedere keer een willekeurige
+
+20
+00:01:09,720 --> 00:01:13,490
+vraag maar daarbij ook een willekeurig antwoord.
+
+21
+00:01:13,490 --> 00:01:15,110
+Dus dat klopt helemaal niet.
+
+22
+00:01:15,110 --> 00:01:21,490
+Wat we moeten doen is dat getal, dat willekeurig
+getal, opslaan en twee keer gebruiken.
+
+23
+00:01:21,490 --> 00:01:25,330
+Nou, als ik zeg opslaan, dat zeg jij natuurlijk
+'variabele’.
+
+24
+00:01:25,330 --> 00:01:32,150
+We gaan naar 'data' en we gaan een 'variabele'
+maken en die noem ik 'item nummer'.
+
+25
+00:01:32,160 --> 00:01:35,320
+Welk item nummer ga je iedere keer pakken.
+
+26
+00:01:35,330 --> 00:01:36,990
+Klik ik op 'ok'.
+
+27
+00:01:36,990 --> 00:01:43,280
+En wat ik dan natuurlijk ga doen is, als ik
+dat signaal 'draaien' ontvang maak ik dat
+
+28
+00:01:43,380 --> 00:01:47,180
+'item nummer' een willekeurig getal.
+
+29
+00:01:47,200 --> 00:01:49,870
+En wat zeg ik dan?
+
+30
+00:01:49,870 --> 00:01:56,820
+Nou, ik pak iedere keer 'item nummer' uit
+vragen, maar ik pak ook, oh dan moet ik deze
+
+31
+00:01:56,830 --> 00:02:01,270
+even weghalen natuurlijk, ik pak ook 'item
+nummer' uit antwoorden.
+
+32
+00:02:01,270 --> 00:02:02,940
+Dus dan krijg je hetzelfde getal.
+
+33
+00:02:02,940 --> 00:02:03,980
+Kijk maar eens mee naar het spel,
+
+34
+00:02:03,980 --> 00:02:06,660
+want er staan nu heel veel blokjes en heel veel
+kleurtjes.
+
+35
+00:02:06,670 --> 00:02:10,979
+Ik laat die 'item nummer' even het vinkje
+aan staan, kan je precies zien wat er gebeurt.
+
+36
+00:02:10,979 --> 00:02:16,220
+Ik klik op de groene vlag, ik duw op de spatiebalk,
+het rad rolt.
+
+37
+00:02:16,220 --> 00:02:20,260
+Je ziet 'item nummer' dat is een 1, willekeurig
+gekozen.
+
+38
+00:02:20,260 --> 00:02:22,450
+Hoeveel poten heeft een schildpad?
+
+39
+00:02:22,450 --> 00:02:26,530
+Dan tik ik in 'vier' en jouw antwoord was 'vier'.
+
+40
+00:02:26,530 --> 00:02:32,050
+Dat was goed, want nu heb ik iedere keer het
+goede item nummer bij het goede vraag want
+
+41
+00:02:32,050 --> 00:02:33,270
+dat heb ik opgeslagen.
+
+42
+00:02:33,270 --> 00:02:38,710
+Heb ik nog één aller allerlaatste opdracht
+voor deze week voor jou.
+
+43
+00:02:38,710 --> 00:02:43,480
+Voeg nou eens een paar vragen toe, verzin
+nog een paar andere vragen bijvoorbeeld over
+
+44
+00:02:43,480 --> 00:02:47,620
+schildpadden of over paarden of over honden
+of wat je maar wilt.
+
+45
+00:02:47,620 --> 00:02:52,680
+Voeg wat vragen toe aan jouw quiz en kijk
+of dat dat dan nog steeds werkt.
+
