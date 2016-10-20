@@ -1,0 +1,138 @@
+1
+00:00:00,849 --> 00:00:05,020
+Kijk, dit zijn al mijn favoriete schildpadden
+vragen.
+
+2
+00:00:05,020 --> 00:00:09,050
+Als je dit ook hebt gemaakt en het ook hebt
+uitgeprobeerd dan heb je gezien dat er iets
+
+3
+00:00:09,050 --> 00:00:11,580
+nog net niet helemaal lekker loopt.
+
+4
+00:00:11,580 --> 00:00:12,970
+Kijk maar eens even mee.
+
+5
+00:00:12,970 --> 00:00:19,450
+Als ik op die groene vlag klik, dan staan
+mijn vragen hier wel in maar als ik dan naar
+
+6
+00:00:19,450 --> 00:00:22,680
+boven scroll die 'thingetjes' die staan er ook
+nog in
+
+7
+00:00:22,680 --> 00:00:25,539
+en daarna komen mijn vragen pas.
+
+8
+00:00:25,539 --> 00:00:26,620
+Dat wil ik eigenlijk niet.
+
+9
+00:00:26,620 --> 00:00:31,320
+Ik zou graag willen dat iedere keer die lijst
+leeg gemaakt wordt als mijn spel begint en
+
+10
+00:00:31,320 --> 00:00:33,840
+dat ik dan pas de vraag erin kan stoppen.
+
+11
+00:00:33,840 --> 00:00:36,489
+Dan zie je dat we daar ook een blokje voor
+hebben.
+
+12
+00:00:36,489 --> 00:00:39,399
+Gelukkig maar, Scratch heeft overal een blok
+voor.
+
+13
+00:00:39,399 --> 00:00:44,890
+Dit tweede blokje kunnen we daarvoor gebruiken,
+pak maar eens op en plak dat hier tussen.
+
+14
+00:00:44,890 --> 00:00:48,760
+Daar staat 'verwijder item 1 van vraag'.
+
+15
+00:00:48,760 --> 00:00:52,569
+Nou, als we dat uitproberen, laten we dat eens
+even doen.
+
+16
+00:00:54,240 --> 00:00:59,460
+Gaan we naar boven, dan zie je dat er maar
+één item verwijderd is.
+
+17
+00:00:59,479 --> 00:01:04,850
+Dat is niet wat wij willen, wij willen dat
+alles eruit gekiept wordt als we beginnen.
+
+18
+00:01:04,850 --> 00:01:10,710
+Ik klik op de driehoek en wat staat er '1',
+'laatste', dat is ook niet wat ik wil.
+
+19
+00:01:10,710 --> 00:01:16,410
+Ik wil 'alle', ik wil dat alles weg gaat en dat we dan de vragen erin stop.
+
+20
+00:01:17,840 --> 00:01:19,680
+Kijk! Dat gaat goed.
+
+21
+00:01:19,680 --> 00:01:24,869
+Je kunt trouwens ook je blokje iets groter
+maken en dan omhoog scrollen dan zie je iets
+
+22
+00:01:24,869 --> 00:01:26,469
+makkelijker wat er gebeurd.
+
+23
+00:01:26,469 --> 00:01:31,790
+Dus, de lijst wordt leeg gegooid en dan krijg
+ik al mijn vragen.
+
+24
+00:01:31,790 --> 00:01:38,000
+Hartstikke mooi, maar wat is er quiz met alleen
+vragen en geen antwoorden?
+
+25
+00:01:38,000 --> 00:01:40,439
+Dat is natuurlijk niet echt een goede quiz.
+
+26
+00:01:40,439 --> 00:01:44,960
+Dus jouw volgende programmeer opdracht is
+om een nieuwe lijst te maken.
+
+27
+00:01:44,960 --> 00:01:47,079
+Een tweede lijst die 'antwoorden' heet.
+
+28
+00:01:47,079 --> 00:01:54,020
+Gooi die ook leeg bij het begin en stop daar
+alle antwoorden in die bij jouw vraag horen.
+
+29
+00:01:54,020 --> 00:01:58,090
+Die weet jij natuurlijk alleen, jij
+hebt de vragen verzonnen dus jij kan vast
+
+30
+00:01:58,090 --> 00:01:59,709
+ook de antwoorden verzinnen.
+
