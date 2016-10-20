@@ -1,0 +1,254 @@
+1
+00:00:00,160 --> 00:00:04,680
+Jouw laatste opdracht van deze week is om
+de rode vis ook nog te gaan laten bewegen.
+
+2
+00:00:04,680 --> 00:00:08,730
+Maar voordat we dat gaan doen, gaan we eerst
+onze code nog een beetje verder opruimen.
+
+3
+00:00:08,730 --> 00:00:11,570
+Als je naar deze code kijkt, van de purple
+fish,
+
+4
+00:00:11,570 --> 00:00:16,500
+dan zul je zien dat er twee blokjes samen
+twee keer voorkomen.
+
+5
+00:00:16,500 --> 00:00:19,980
+Weet jij welke twee blokjes dat zijn?
+
+6
+00:00:19,980 --> 00:00:22,740
+Ja, dat was niet zo moeilijk he?
+
+7
+00:00:22,740 --> 00:00:26,930
+Dat was natuurlijk het verschijn-blok en het
+blok waarmee we naar een willekeurige plek
+
+8
+00:00:26,930 --> 00:00:27,930
+gaan.
+
+9
+00:00:27,930 --> 00:00:31,939
+Die zie je hier bovenaan staan,
+maar ook nog een keer in de herhaal lus.
+
+10
+00:00:31,939 --> 00:00:37,440
+Programmeurs houden niet van extra werk,
+dus als twee dingen dubbel voorkomen willen
+
+11
+00:00:37,440 --> 00:00:39,510
+we dat eigenlijk een beetje mooier maken.
+
+12
+00:00:39,510 --> 00:00:44,719
+Daarvoor gaan we ons eigen blok gebruiken,
+om die twee blokjes bij elkaar samen te pakken.
+
+13
+00:00:44,719 --> 00:00:47,239
+Kijk maar eens met mij mee hoe dat we dat
+gaan aanpakken.
+
+14
+00:00:47,239 --> 00:00:49,410
+We gaan naar meer blokken.
+
+15
+00:00:49,410 --> 00:00:51,971
+En daar gaan we ons eigen blok maken.
+
+16
+00:00:51,971 --> 00:00:54,260
+Klik maak op 'maak een blok'.
+
+17
+00:00:54,260 --> 00:00:59,449
+En hier gaan we dan een uitleg geven voor
+wat die twee blokjes samen doen.
+
+18
+00:00:59,449 --> 00:01:06,020
+Bijvoorbeeld: 'verschijn op een willekeurige
+plek.'
+
+19
+00:01:06,020 --> 00:01:12,050
+Als ik nou op OK klik, kijk,
+dan heb ik een heel mooi rond blok gekregen
+
+20
+00:01:12,050 --> 00:01:14,950
+waar ik mijn eigen blok kan definiëren.
+
+21
+00:01:14,950 --> 00:01:17,960
+Dat betekent een soort 'invullen', het is
+een beetje een moeilijk woord.
+
+22
+00:01:17,960 --> 00:01:21,620
+Nou pak ik die 'verschijn' en die 'ga naar',
+die ga ik oppakken.
+
+23
+00:01:21,620 --> 00:01:25,860
+En die plak ik aan die 'verschijn op een willekeurige
+plek'.
+
+24
+00:01:25,860 --> 00:01:28,390
+Dus die staan nu samen onder dat blok.
+
+25
+00:01:28,390 --> 00:01:31,640
+En dat betekent dat iedere keer als ik dit
+blokje pak,
+
+26
+00:01:31,640 --> 00:01:34,090
+dat die twee blokjes er eigenlijk in zitten.
+
+27
+00:01:34,090 --> 00:01:37,410
+Een soort mapje waar die twee blokjes samen
+in zitten.
+
+28
+00:01:37,410 --> 00:01:41,290
+Dus ik pak nu mijn eigen blokje op,
+en dat zet ik op die plek.
+
+29
+00:01:41,290 --> 00:01:42,720
+En ook hier boven.
+
+30
+00:01:42,720 --> 00:01:44,480
+Ga ik dit even los maken.
+
+31
+00:01:44,480 --> 00:01:49,810
+Die twee gooi ik in de prullenbak,
+en daar zet ik mijn eigen blokje tussen.
+
+32
+00:01:49,810 --> 00:01:50,810
+Zo.
+
+33
+00:01:50,810 --> 00:01:54,730
+En je ziet nu dat mijn programma een heel
+stuk korter is.
+
+34
+00:01:54,730 --> 00:01:57,110
+Kijk maar hoe kort mijn programma geworden
+is.
+
+35
+00:01:57,110 --> 00:02:01,670
+En het leest ook lekker makkelijk,
+want ik kan gewoon mijn eigen blokje voorlezen.
+
+36
+00:02:01,670 --> 00:02:06,460
+Wat doe ik als allereerste nadat ik op de
+groene vlag heb geklikt?
+
+37
+00:02:06,460 --> 00:02:08,899
+Nou, 'verschijn op een willekeurige plek!'
+
+38
+00:02:08,899 --> 00:02:13,540
+Is dat niet veel handiger dan iedere keer
+diezelfde twee blokjes gebruiken?
+
+39
+00:02:13,540 --> 00:02:17,970
+Dus, als je dit in het echt voorkomt,
+als je lekker zelf aan het programmeren bent,
+
+40
+00:02:17,970 --> 00:02:20,230
+en je ziet twee blokjes achter elkaar.
+
+41
+00:02:20,230 --> 00:02:24,230
+Of drie, of vier, of vijf, die steeds maar
+weer voorkomen.
+
+42
+00:02:24,230 --> 00:02:27,280
+Pak ze dan samen, stop ze bij elkaar in een
+eigen blok.
+
+43
+00:02:27,280 --> 00:02:31,090
+Want daar wordt je code veel leesbaarder,
+en dan is het veel makkelijker voor andere
+
+44
+00:02:31,090 --> 00:02:33,200
+mensen om er mee aan de slag te gaan.
+
+45
+00:02:33,200 --> 00:02:36,570
+Nou, er rest ons nog een ding om deze week
+af te ronden,
+
+46
+00:02:36,570 --> 00:02:41,860
+en dat is natuurlijk de giftige vis door het
+aquarium te laten zwemmen.
+
+47
+00:02:41,860 --> 00:02:43,880
+Dat is jouw eigen opdracht.
+
+48
+00:02:43,880 --> 00:02:48,640
+Je bent inmiddels al bijna een volleerde programmeur,
+dus volgens mij kan je dat helemaal zelf.
+
+49
+00:02:48,640 --> 00:02:52,520
+En als je het niet meer precies weet,
+kijk dan even naar de code die we vorige week
+
+50
+00:02:52,520 --> 00:02:53,830
+hebben gemaakt bij het spook.
+
+51
+00:02:53,830 --> 00:02:59,880
+Want het spook ging precies door het doolhof,
+zoals de giftige vis door het aquarium gaat.
+
+52
+00:02:59,880 --> 00:03:05,260
+Heel veel succes, en volgende week, in de
+volgende les, gaan we een vleermuis in de
+
+53
+00:03:05,260 --> 00:03:06,390
+ruimte tegenkomen!
+
+54
+00:03:06,390 --> 00:03:07,390
+Doei!
+
+55
+00:03:07,390 --> 00:03:08,190
+Tot dan!
+
