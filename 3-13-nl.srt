@@ -1,0 +1,103 @@
+1
+00:00:01,010 --> 00:00:02,610
+Kijk, zo doe je dat.
+
+2
+00:00:02,610 --> 00:00:08,280
+Onder het 'zeg goed' blokje, als je weet dat
+het antwoord goed is, zet je een 'als dan anders'
+
+3
+00:00:08,280 --> 00:00:14,420
+en dan kijk je of die aanwijzer gelijk
+is aan roze dan geef je twee punten
+
+4
+00:00:14,420 --> 00:00:16,160
+en anders geef je één punt.
+
+5
+00:00:16,180 --> 00:00:20,360
+En voor die nul punten, als je het antwoord
+fout hebt, hoef je natuurlijk niks te doen
+
+6
+00:00:20,360 --> 00:00:24,560
+want geen punten erbij dan kan je eigenlijk net
+zo goed helemaal niks doen.
+
+7
+00:00:24,560 --> 00:00:25,941
+Ik heb nog één tip voor je.
+
+8
+00:00:25,941 --> 00:00:30,961
+Misschien vind je het niet zo mooi dat die
+'aanwijzer raakt kleur' en die 'snelheid'
+
+9
+00:00:30,961 --> 00:00:32,260
+ook in beeld staan.
+
+10
+00:00:32,260 --> 00:00:34,920
+Het is wel handig als je nog aan het programmeren
+bent want soms weet je
+
+11
+00:00:34,920 --> 00:00:37,120
+niet helemaal wat er in zo'n variabele zit.
+
+12
+00:00:37,129 --> 00:00:40,989
+Maar als je ermee klaar bent, kan je dat vinkje
+hier uitklikken.
+
+13
+00:00:40,989 --> 00:00:44,469
+Kijk, ik klik hier deze uit en dan gaan ze
+weg.
+
+14
+00:00:44,469 --> 00:00:46,670
+Oh, die 'punten' wil ik laten staan.
+
+15
+00:00:46,679 --> 00:00:48,519
+De 'snelheid' klik ik weg.
+
+16
+00:00:48,519 --> 00:00:52,959
+En die punten kan ik nu ook nog oppakken en
+een beetje omhoog verplaatsen.
+
+17
+00:00:52,960 --> 00:00:55,760
+Dat ze mooi links boven in de hoek staan.
+
+18
+00:00:55,760 --> 00:00:57,920
+Dus als je met een variabele klaar bent,
+
+19
+00:00:57,920 --> 00:00:59,920
+je weet al helemaal hoe die geprogrammeerd moet worden,
+
+20
+00:00:59,940 --> 00:01:04,019
+dan kan je altijd even dat vinkje
+uitzetten en dan zie je hem niet meer.
+
+21
+00:01:04,019 --> 00:01:08,760
+En je kan ook je variabele oppakken en op
+iedere ander plek in het level neer zetten
+
+22
+00:01:08,760 --> 00:01:09,760
+wat je maar wilt.
+
+23
+00:01:09,760 --> 00:01:11,830
+Zo kun je je spel nog net ietsjes mooier maken.
+
