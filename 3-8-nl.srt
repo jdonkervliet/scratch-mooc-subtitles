@@ -1,0 +1,143 @@
+1
+00:00:00,240 --> 00:00:01,620
+Is het je gelukt?
+
+2
+00:00:01,620 --> 00:00:02,659
+Vast wel hè!?
+
+3
+00:00:02,659 --> 00:00:04,040
+Kijk, zo moet het.
+
+4
+00:00:04,040 --> 00:00:08,580
+Bij het rad, helemaal onderaan het 'herhaal
+tot' blok, hebben we nu een 'zend signaal'
+
+5
+00:00:08,580 --> 00:00:12,769
+geplakt en dat 'zend signaal' dat heet 'draaien
+klaar', dan is het rad klaar.
+
+6
+00:00:12,769 --> 00:00:17,220
+En Karel kan daarop reageren, kijk dan gaan
+we even naar de code van Karel.
+
+7
+00:00:17,220 --> 00:00:22,890
+Als hij het signaal 'draaien klaar' ontvangt,
+dan gaat hij 'Hallo' zeggen.
+
+8
+00:00:22,890 --> 00:00:29,270
+Kijk met mij mee hoe dat eruit ziet, ik duw
+op de spatiebalk, mijn radje gaat draait en
+
+9
+00:00:29,270 --> 00:00:31,189
+Karel zegt 'Hallo'.
+
+10
+00:00:31,189 --> 00:00:32,189
+Supermooi!
+
+11
+00:00:32,189 --> 00:00:35,680
+Maar 'Hallo' zeggen is nog niet een heel spannend
+spel.
+
+12
+00:00:35,680 --> 00:00:41,090
+Dus we gaan een nieuw blok introduceren, waarmee
+Karel jou iets kan vragen.
+
+13
+00:00:41,090 --> 00:00:42,420
+Is dat niet cool?
+
+14
+00:00:42,420 --> 00:00:49,090
+Ga met mij mee naar 'waarnemen' en je ziet
+daar een blok staan 'vraag What's your name
+
+15
+00:00:49,090 --> 00:00:50,090
+en wacht'.
+
+16
+00:00:50,090 --> 00:00:53,580
+'What's your name' dat is Engels voor 'hoe
+heet je'.
+
+17
+00:00:53,580 --> 00:00:59,190
+Dat blok kunnen we gebruiken, we gaan die
+'Hallo' even weghalen, die leggen we terug
+
+18
+00:00:59,190 --> 00:01:02,240
+en nu pak ik dat 'vraag' blok en dat ga ik
+hieronder plakken.
+
+19
+00:01:02,240 --> 00:01:07,049
+Dus iedere keer als ons rad uitgedraaid is,
+gaat Karel ons een vraag stellen.
+
+20
+00:01:07,049 --> 00:01:08,780
+Kijk maar eens wat er nu gebeurt.
+
+21
+00:01:08,780 --> 00:01:14,560
+Ik duw op de spatiebalk, het rad draait, en
+nu zegt Karel 'What's your name?'
+
+22
+00:01:14,560 --> 00:01:21,130
+En wat je ziet is wat hier onderin beeld nu
+gebeurt is, daar is een antwoordbalkje gekomen,
+
+23
+00:01:21,130 --> 00:01:22,229
+waar je in kan typen.
+
+24
+00:01:22,229 --> 00:01:28,649
+Dus ik nu intikken, ik heet 'Felienne' en
+dan kan ik op 'Enter' duwen, of op dat vinkje
+
+25
+00:01:28,649 --> 00:01:29,649
+klikken.
+
+26
+00:01:29,649 --> 00:01:37,069
+Dat is al hartstikke mooi, maar wat we nou
+eigenlijk zouden willen is dat hij in plaats
+
+27
+00:01:37,069 --> 00:01:42,219
+van zegt 'What's your name', dat wij daar
+van gaan maken, lekker in het Nederlands:
+
+28
+00:01:42,219 --> 00:01:43,219
+'Hoe heet jij?'
+
+29
+00:01:43,219 --> 00:01:48,179
+Pas jij dat even voor mij aan, ik denk dat
+dat jou gaat lukken en daarvoor hoef je geen
+
+30
+00:01:48,179 --> 00:01:52,180
+nieuwe blokjes op het veld te zetten, je hoeft
+alleen maar iets anders in te tikken.
+
+31
+00:01:52,180 --> 00:01:53,270
+Zet hem op!
+

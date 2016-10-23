@@ -1,0 +1,197 @@
+1
+00:00:00,669 --> 00:00:02,520
+Kijk ik heb het zo gedaan.
+
+2
+00:00:02,520 --> 00:00:06,731
+Ik pak iedere keer een willekeurig getal tussen
+de 10 en de 100, maar misschien heb jij wel
+
+3
+00:00:06,731 --> 00:00:07,731
+hele andere getallen.
+
+4
+00:00:07,731 --> 00:00:11,980
+Misschien heb jij wel 1000 zodat dat rad héél
+lang blijft draaien totdat hij stopt.
+
+5
+00:00:11,980 --> 00:00:14,330
+Dat maakt niks uit, dat is allemaal helemaal
+goed.
+
+6
+00:00:14,330 --> 00:00:18,970
+Kijk nu eens even met mij mee, hoe die 'herhaal
+tot' er nu eigenlijk uitziet.
+
+7
+00:00:18,970 --> 00:00:23,560
+Want misschien heb je wel gezien dat er een
+heel belangrijk verschil is tussen de 'herhaal'
+
+8
+00:00:23,560 --> 00:00:24,910
+en de 'herhaal tot'.
+
+9
+00:00:24,910 --> 00:00:29,760
+Ik ga weer even naar 'besturen' om het wat
+makkelijker te maken, zal ik even hiernaast
+
+10
+00:00:29,760 --> 00:00:33,629
+een 'herhaal' blokje zetten en een 'herhaal
+tot'.
+
+11
+00:00:33,629 --> 00:00:35,120
+Dan zet ik ze even naast elkaar.
+
+12
+00:00:35,120 --> 00:00:39,379
+Misschien kan ik het hier beter onder elkaar
+zetten, dan kan je het misschien nog beter
+
+13
+00:00:39,379 --> 00:00:40,440
+zien, zo.
+
+14
+00:00:40,440 --> 00:00:45,270
+Wat denk jij nou dat het verschil is tussen
+de 'herhaal' en de 'herhaal tot'?
+
+15
+00:00:45,270 --> 00:00:47,579
+Kijk goed naar die blokjes, wat is het verschil?
+
+16
+00:00:47,579 --> 00:00:51,960
+En ik zal alvast verklappen dat het verschil
+niet is dat de één een 'tot' heeft en de
+
+17
+00:00:51,960 --> 00:00:56,059
+ander geen 'tot', er is nog een belangrijk
+verschil tussen die twee blokjes.
+
+18
+00:00:56,059 --> 00:00:59,069
+Kan jij het vinden?
+
+19
+00:00:59,069 --> 00:01:00,069
+Precies!
+
+20
+00:01:00,069 --> 00:01:05,789
+Dat wist jij natuurlijk, kijk daar die 'herhaal
+tot', die heeft zo'n hoekje, en die 'herhaal'
+
+21
+00:01:05,789 --> 00:01:06,789
+heeft dat niet.
+
+22
+00:01:06,789 --> 00:01:10,359
+En dat hoekje betekent dat we daar een ander
+blok onder kunnen zetten.
+
+23
+00:01:10,359 --> 00:01:14,189
+En dat kan natuurlijk niet bij een 'herhaal'
+blok, want een 'herhaal' blok herhaalt voor
+
+24
+00:01:14,189 --> 00:01:19,380
+eeuwig, dat is nooit klaar, dus daarom kun
+je daar geen blokje onderaan plakken.
+
+25
+00:01:19,380 --> 00:01:21,530
+Maar bij een herhaal tot kan dat wel.
+
+26
+00:01:21,530 --> 00:01:22,969
+Ik zal het eens even laten zien.
+
+27
+00:01:22,969 --> 00:01:28,200
+Stel je voor dat ik een 'neem' blok heb, maakt
+niet uit welk blok je pakt natuurlijk.
+
+28
+00:01:28,200 --> 00:01:33,159
+Ik kan dat prima onder de 'herhaal tot' plakken,
+maar als ik probeer dat onder die 'herhaal'
+
+29
+00:01:33,159 --> 00:01:38,179
+te doen, dan zie je, Scratch probeert mij
+dan te motiveren om het in het midden te stoppen,
+
+30
+00:01:38,179 --> 00:01:41,299
+maar dat wil ik niet, ik wil dat daaronder,
+maar dat gaat gewoon niet.
+
+31
+00:01:41,299 --> 00:01:45,479
+Dat plakt niet aan elkaar, want zo'n 'herhaal'
+die eindigt nooit.
+
+32
+00:01:45,479 --> 00:01:51,569
+Dat komt toevallig eens heel mooi uit, dat
+die 'herhaal tot' wel een blokje eronderaan
+
+33
+00:01:51,569 --> 00:01:55,880
+geplakt kan krijgen, want dat gaan we nu gebruiken
+voor de volgende opdracht.
+
+34
+00:01:55,880 --> 00:02:00,320
+Dat rad is zo dadelijk klaar is en als dat
+rad klaar is, dan willen we natuurlijk dat
+
+35
+00:02:00,320 --> 00:02:04,240
+Karel, onze kwismaster, gaat zeggen wat de
+eerste vraag is.
+
+36
+00:02:04,240 --> 00:02:08,810
+Dus het is jouw volgende opdracht om een nieuw
+signaal te maken.
+
+37
+00:02:08,810 --> 00:02:14,819
+We maken een signaal en met dat signaal gaan
+we doorgeven van het rad, naar Karel, dat
+
+38
+00:02:14,819 --> 00:02:16,260
+het rad uitgedraaid is.
+
+39
+00:02:16,260 --> 00:02:20,060
+Als je niet meer helemaal precies weet hoe
+dat moet, kijk dan even bij de opdrachten
+
+40
+00:02:20,060 --> 00:02:24,500
+van les 2, want vorige week hebben we ook
+al een signaal gebruikt, weet je nog?
+
+41
+00:02:24,500 --> 00:02:28,220
+Van de visjes, naar Gerrie, om aan te geven
+dat ze gepakt waren.
+
+42
+00:02:28,220 --> 00:02:31,040
+Dat gaan we nu weer gebruiken, zet hem op!
+

@@ -1,0 +1,230 @@
+1
+00:00:00,969 --> 00:00:02,990
+Hé dat was niet zo'n moeilijke opdracht,
+hè?
+
+2
+00:00:02,990 --> 00:00:06,970
+Je hoefde alleen maar naar dat blauwe blokje
+te gaan en in te tikken 'Hoe heet je?'
+
+3
+00:00:06,970 --> 00:00:09,240
+Maar we gaan het spel nog wat leuker maken.
+
+4
+00:00:09,240 --> 00:00:14,100
+Kijk eens met mij mee, want misschien heb
+je wel gezien dat onder dat 'vraag' blok (je
+
+5
+00:00:14,100 --> 00:00:16,730
+verwacht het al), ook een 'antwoord' blok
+staat.
+
+6
+00:00:16,730 --> 00:00:19,920
+En dat kunnen we gebruiken, kijk mee.
+
+7
+00:00:19,920 --> 00:00:23,650
+Hier onderaan, zie je het 'antwoord' blok
+staan.
+
+8
+00:00:23,650 --> 00:00:29,269
+Dat antwoord blok is rond, net als de variabelen
+die wij zelf hebben gemaakt.
+
+9
+00:00:29,269 --> 00:00:33,700
+Zo'n antwoord blok is ook eigenlijk een soort
+variabele, alleen hebben we dat nu niet zelf
+
+10
+00:00:33,700 --> 00:00:36,230
+gemaakt, maar Scratch heeft dat voor ons gemaakt.
+
+11
+00:00:36,230 --> 00:00:42,420
+Als je iets intypt in die balk die onderin
+stond toen Karel een vraag stelde, dan komt
+
+12
+00:00:42,420 --> 00:00:45,630
+dat antwoord in dat 'antwoord' blok.
+
+13
+00:00:45,630 --> 00:00:47,110
+Kijk maar eens mee!
+
+14
+00:00:47,110 --> 00:00:53,190
+Ik kan teruggaan naar 'uiterlijken' en dan
+pak ik een 'zeg' blok en dat plak ik daar
+
+15
+00:00:53,190 --> 00:00:54,190
+onderaan.
+
+16
+00:00:54,190 --> 00:00:55,600
+Karel gaat wat zeggen.
+
+17
+00:00:55,600 --> 00:01:01,010
+Dan ga ik weer naar 'waarnemen' en daar pak
+ik dat antwoord en dat stop ik in dat gat
+
+18
+00:01:01,010 --> 00:01:02,010
+van 'Hallo'.
+
+19
+00:01:02,010 --> 00:01:06,760
+En dat past, ondanks dat 'Hallo' vierkant
+is en 'antwoord' rond, dat gaat toch goed.
+
+20
+00:01:06,760 --> 00:01:11,390
+Kijk maar, hè je kunt dat ook zien omdat
+Scratch dat randje wit maakt, als het wit
+
+21
+00:01:11,390 --> 00:01:13,710
+is dan weet je dat het toch gaat klikken.
+
+22
+00:01:13,710 --> 00:01:15,630
+Wat gaat er nu gebeuren?
+
+23
+00:01:15,630 --> 00:01:21,740
+Ik duw op de spatiebalk, het rad draait rond,
+ik krijg dat 'vraag' blok.
+
+24
+00:01:21,740 --> 00:01:27,860
+Nu ga ik daar een antwoord in tikken, ik heet
+'Felienne', ik duw op Enter, kijk!
+
+25
+00:01:27,860 --> 00:01:31,580
+En Karel herhaalt nu dat antwoord tegen mij.
+
+26
+00:01:31,580 --> 00:01:35,310
+Dat zit opgeslagen in die variabele en hij
+zegt dat nu terug.
+
+27
+00:01:35,310 --> 00:01:40,330
+Nou dat is al best wel mooi, maar het is natuurlijk
+een beetje raar als iemand zegt 'Hoe heet
+
+28
+00:01:40,330 --> 00:01:43,120
+jij?', dan zeg ik 'Felienne' en dan zegt die
+ander 'Felienne'.
+
+29
+00:01:43,120 --> 00:01:45,369
+Dat is een beetje raar hè?
+
+30
+00:01:45,369 --> 00:01:50,369
+Je zou eigenlijk liever hebben dat Karel zegt
+'Hallo Felienne' dat is een beetje logischer.
+
+31
+00:01:50,369 --> 00:01:52,770
+Daar hebben we ook een blokje voor natuurlijk.
+
+32
+00:01:52,770 --> 00:01:59,080
+Ga met mij mee naar functies, en daar zit
+daar helemaal onder het blokje 'voeg dit en
+
+33
+00:01:59,080 --> 00:02:00,090
+dat samen'.
+
+34
+00:02:00,090 --> 00:02:04,350
+Dat samenvoegen dat betekent twee woorden
+achter elkaar plakken.
+
+35
+00:02:04,350 --> 00:02:10,620
+Dus die eerste daar ga ik intypen, 'Hallo
+' met een spatie anders dan zitten de woorden
+
+36
+00:02:10,620 --> 00:02:11,620
+aan elkaar.
+
+37
+00:02:11,620 --> 00:02:15,319
+En in die tweede ga ik natuurlijk dat antwoord
+plakken.
+
+38
+00:02:15,319 --> 00:02:17,230
+Klik dat gaat mooi aan elkaar.
+
+39
+00:02:17,230 --> 00:02:20,340
+En dat hele blokje samen stop ik in die 'zeg'.
+
+40
+00:02:20,340 --> 00:02:21,920
+Dus wat ga ik nou zeggen?
+
+41
+00:02:21,920 --> 00:02:27,450
+Nou ik zeg 'Hallo ' en het antwoord dat je
+intikt, samengevoegd.
+
+42
+00:02:27,450 --> 00:02:31,130
+Let maar eens op, daar gaat mijn rad...
+
+43
+00:02:31,130 --> 00:02:32,130
+'Hoe heet jij?'
+
+44
+00:02:32,130 --> 00:02:35,920
+Ik heet 'Felienne', want zegt Karel nu?
+
+45
+00:02:35,920 --> 00:02:37,340
+'Hallo Felienne'.
+
+46
+00:02:37,340 --> 00:02:40,130
+Hé dat is mooi, hè?
+
+47
+00:02:40,130 --> 00:02:42,670
+Is dat geen supergaaf programma?
+
+48
+00:02:42,670 --> 00:02:47,390
+Het enige dat een beetje jammer is, is dat
+Karel nu alleen nog maar 'Hallo' kan zeggen.
+
+49
+00:02:47,390 --> 00:02:51,910
+Dus in het volgende filmpje gaan we het nog
+wat spannender maken en dan gaan we Karel,
+
+50
+00:02:51,910 --> 00:02:57,680
+het is tenslotte een kwis, een vraag laten
+stellen waar jij het goede antwoord op weet.
+
+51
+00:02:57,680 --> 00:02:58,970
+Tot in het volgende filmpje!
+
