@@ -1,0 +1,149 @@
+0:00:00.480,0:00:05.220
+Kijk, Karel kan ons nu gedag zeggen maar het
+is nog wat leuker als hij een vraag
+
+0:00:05.220,0:00:07.800
+ kan stellen over jouw favoriete onderwerp.
+
+0:00:07.810,0:00:10.639
+Nou, mijn favoriete onderwerp is toevallig schildpadden.
+
+0:00:10.639,0:00:14.289
+Ik ben gek op schildpadden, ik heb twee schildpadden
+als huisdier.
+
+0:00:14.289,0:00:16.690
+Dus ik ga mijn quiz over schildpadden doen.
+
+0:00:16.690,0:00:18.730
+Maar jij kan natuurlijk je eigen onderwerp
+kiezen.
+
+0:00:18.730,0:00:23.939
+Misschien hou je wel heel erg van paarden
+of rekenen of naar Frankrijk op vakantie gaan.
+
+0:00:23.939,0:00:26.880
+Je mag helemaal zelf je eigen vragen verzinnen.
+
+0:00:26.880,0:00:29.220
+Die gaan we in het spel programmeren.
+
+0:00:29.220,0:00:31.449
+Kijk maar eens even met mij mee.
+
+0:00:31.449,0:00:35.460
+Mijn eerste vraag gaat worden 'Welke kleur
+is een schildpad?'.
+
+0:00:35.460,0:00:37.340
+Ik ga natuurlijk niet zo'n moeilijke vraag
+maken.
+
+0:00:37.340,0:00:39.010
+We beginnen makkelijk.
+
+0:00:39.010,0:00:43.910
+'Welke kleur is een schildpad?' ga ik vragen.
+
+0:00:44.250,0:00:46.720
+Nou, daar ga ik een antwoord op geven.
+
+0:00:46.720,0:00:50.770
+Dat ga ik natuurlijk niet Karel laten zeggen
+'Hallo' plus de kleur.
+
+0:00:50.770,0:00:54.050
+Ik zal jullie verklappen dat het antwoord
+'groen' is, maar dat wist je misschien al.
+
+0:00:54.050,0:00:55.580
+Dan ga ik niet zeggen 'Hallo groen'.
+
+0:00:55.580,0:00:57.280
+Dat is een beetje raar.
+
+0:00:57.280,0:01:01.679
+Dus wat ik daarvan ga maken is, 'Jouw antwoord
+was:'.
+
+0:01:01.679,0:01:05.340
+Dus nu zegt hij iedere keer 'Jouw antwoord
+was:'.
+
+0:01:05.340,0:01:08.830
+Let maar eens op, daar gaan we weer.
+
+0:01:08.830,0:01:14.620
+'Welke kleur is een schildpad?', ik zeg 'groen'
+en Karel zegt 'Jouw antwoord was: groen'.
+
+0:01:14.620,0:01:19.040
+Hartstikke mooi, maar zo'n echo is niet echt
+een spannend spel.
+
+0:01:19.040,0:01:20.620
+Wat gaan we nu proberen?
+
+0:01:20.620,0:01:26.550
+We gaan programmeren dat Karel zegt is dit
+antwoord een goed of een fout antwoord.
+
+0:01:26.550,0:01:30.850
+En ik denk dat jij weet welk blokje we daarvoor
+zouden kunnen gebruiken.
+
+0:01:32.760,0:01:37.040
+Inderdaad, dat is natuurlijk een 'als dan'
+blok.
+
+0:01:37.060,0:01:43.030
+Je vindt, dat weet jij allang, bij 'besturen'
+en dan staat daar 'als dan anders' blok.
+
+0:01:43.030,0:01:47.280
+Dat gaan we gebruiken en dat gaan we hier
+onder plakken.
+
+0:01:47.280,0:01:54.020
+Dus Karel gaat nog steeds ons antwoord herhalen
+maar wat we gaan doen is 
+
+0:01:54.020,0:01:56.720
+kijken of dat antwoord goed is.
+
+0:01:56.730,0:02:00.230
+Nou, hoe weten we nou of twee dingen hetzelfde
+zijn?
+
+0:02:00.230,0:02:03.910
+We hebben daar deze week al een blokje voor
+gezien.
+
+0:02:03.910,0:02:08.610
+Bij 'functies' heb je een '=' staan en dan
+kan je kijken 
+
+0:02:08.610,0:02:12.540
+of het antwoord echt 'groen' is.
+
+0:02:12.540,0:02:15.420
+Ik denk dat jij weet hoe je dit moet programmeren.
+
+0:02:15.420,0:02:17.030
+Dat is jouw volgende opdracht.
+
+0:02:17.030,0:02:23.370
+Laat Karel nu zeggen 'goed' als het goed is,
+het antwoord is 'groen', of 'fout' als het
+
+0:02:23.370,0:02:27.189
+antwoord geen 'groen' is of als jij een hele
+andere vraag hebt verzonnen dan moet je natuurlijk
+
+0:02:27.189,0:02:29.909
+zelf even het goede antwoord voor de vraag
+intikken.
+
+0:02:29.909,0:02:30.940
+Zet hem op!
