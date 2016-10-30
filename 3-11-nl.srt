@@ -1,6 +1,6 @@
 1
 00:00:00,240 --> 00:00:02,500
-Dat was niet zo lastig hé?
+Dat was niet zo lastig hè?
 
 2
 00:00:02,500 --> 00:00:06,439
@@ -69,7 +69,7 @@ Ik kom op een kleur, 'Welke kleur is een schildpad',
 16
 00:00:52,690 --> 00:00:57,960
 Dat is hartstikke leuk alleen we doen nu nog
-niks met dat mooie rad want we met zo veel
+niks met dat mooie rad wat we met zo veel
 
 17
 00:00:57,960 --> 00:00:59,770
