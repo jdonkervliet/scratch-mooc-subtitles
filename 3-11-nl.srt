@@ -1,0 +1,275 @@
+1
+00:00:00,240 --> 00:00:02,500
+Dat was niet zo lastig hè?
+
+2
+00:00:02,500 --> 00:00:06,439
+Je pakt een groen '=' blokje en dan zet je
+aan de ene kant antwoord en aan de andere
+
+3
+00:00:06,439 --> 00:00:10,030
+kant zet je het goede antwoord, in mijn geval
+groen.
+
+4
+00:00:10,030 --> 00:00:11,780
+Maar misschien heb jij een andere vraag.
+
+5
+00:00:11,780 --> 00:00:17,700
+Een ding waar je goed op moet letten, in dat
+'zeg' blokje heb ik '1 sec' toegevoegd.
+
+6
+00:00:17,700 --> 00:00:23,539
+Want als je twee 'zeg' blokken achterelkaar
+doet, de computer is zo snel die zegt dan eerst de ene
+
+7
+00:00:23,539 --> 00:00:27,420
+en meteen daarachter aan de andere dus dan zie
+je alleen de laatste.
+
+8
+00:00:27,420 --> 00:00:33,590
+Als je wilt dat een poppetje twee dingen achterelkaar
+zegt, moet je altijd een 'zeg .. sec' blok
+
+9
+00:00:33,590 --> 00:00:38,020
+gebruiken in plaats van een gewoon 'zeg'
+blok want anders zie je alleen de laatste.
+
+10
+00:00:38,020 --> 00:00:41,180
+Nou, dat is al best een leuk spel.
+
+11
+00:00:41,180 --> 00:00:42,180
+Kijk maar eens met mij mee.
+
+12
+00:00:42,180 --> 00:00:43,710
+Ik duw op de spatiebalk.
+
+13
+00:00:43,710 --> 00:00:45,380
+Hij rolt lekker.
+
+14
+00:00:45,380 --> 00:00:50,310
+Ik kom op een kleur, 'Welke kleur is een schildpad',
+'groen'.
+
+15
+00:00:50,310 --> 00:00:52,690
+'Jouw antwoord was groen' dat is goed.
+
+16
+00:00:52,690 --> 00:00:57,960
+Dat is hartstikke leuk alleen we doen nu nog
+niks met dat mooie rad wat we met zo veel
+
+17
+00:00:57,960 --> 00:00:59,770
+moeite hebben geprogrammeerd.
+
+18
+00:00:59,770 --> 00:01:01,230
+Dus, wat willen we nou?
+
+19
+00:01:01,230 --> 00:01:07,310
+We willen dat het aantal punten dat je krijgt
+af hangt van de kleur
+
+20
+00:01:07,310 --> 00:01:09,140
+waar het rad op terecht is gekomen.
+
+21
+00:01:09,140 --> 00:01:14,070
+Dus als dat bijvoorbeeld roze is, waar ie nu op staat, krijg je van mij twee punten
+
+22
+00:01:14,070 --> 00:01:16,940
+en als ie op een andere kleur komt krijg je
+maar één punt.
+
+23
+00:01:16,940 --> 00:01:17,940
+Hoe gaan we dat programmeren?
+
+24
+00:01:17,940 --> 00:01:20,189
+Kijk maar eens even met mij mee.
+
+25
+00:01:20,189 --> 00:01:23,780
+We gaan kijken bij het programma van de 'aanwijzer'.
+
+26
+00:01:23,780 --> 00:01:30,740
+Daar staat nu nog niks, maar die 'aanwijzer'
+die gaat vertellen aan de kat op
+
+27
+00:01:30,740 --> 00:01:33,040
+welke kleur dat ie terecht is gekomen.
+
+28
+00:01:33,049 --> 00:01:37,989
+We gaan daarvoor een nieuwe variabele maken
+en in die variabele gaan we
+
+29
+00:01:37,989 --> 00:01:40,140
+de kleur van het rad opslaan.
+
+30
+00:01:40,140 --> 00:01:42,270
+Kijk met mij mee.
+
+31
+00:01:42,270 --> 00:01:49,600
+Ik ga een variabele maken en die noem ik 'aanwijzer',
+want zo heet die pijl, 'raakt kleur'.
+
+32
+00:01:49,600 --> 00:01:55,940
+Ik klik op 'ok' en ik heb een mooie nieuwe
+variabele gekregen.
+
+33
+00:01:57,689 --> 00:01:59,420
+Wat gaan we nu doen?
+
+34
+00:01:59,420 --> 00:02:04,320
+Iedere keer als het rad uitgedraaid is, dan
+gaat die aanwijzer kijken
+
+35
+00:02:04,320 --> 00:02:06,160
+welke kleur dat ie raakt.
+
+36
+00:02:06,160 --> 00:02:08,800
+Nou, wanneer is dat rad uitgedraaid?
+
+37
+00:02:08,810 --> 00:02:12,430
+Volgens mij weet jij welk blokje je kan gebruiken
+
+38
+00:02:12,430 --> 00:02:14,130
+als het rad is uitgedraaid.
+
+39
+00:02:18,080 --> 00:02:18,700
+Precies!
+
+40
+00:02:18,700 --> 00:02:23,320
+Dat is natuurlijk het 'Wanneer ik signaal
+draaien klaar ontvang'.
+
+41
+00:02:23,320 --> 00:02:25,750
+Dan is het rad klaar met draaien.
+
+42
+00:02:25,750 --> 00:02:31,810
+Gaan we hieronder iedere keer kijken op welke
+kleur de aanwijzer staat en die kleur gaan
+
+43
+00:02:31,810 --> 00:02:34,570
+we opslaan in 'aanwijzer raakt kleur'.
+
+44
+00:02:35,360 --> 00:02:39,320
+Ik ga een heel klein stukje voor je voordoen en
+jij gaat de rest programmeren.
+
+45
+00:02:39,360 --> 00:02:40,590
+Kijk mee.
+
+46
+00:02:40,590 --> 00:02:42,750
+Ik pak mijn 'als dan' blokje.
+
+47
+00:02:42,750 --> 00:02:50,610
+Dus als ik ben uitgedraaid, als het nou zo is dat de 'aanwijzer' roze raakt.
+
+48
+00:02:50,610 --> 00:02:54,760
+En als ik dit blokje op roze wil zetten, dat weet
+je natuurlijk nog van de eerste les.
+
+49
+00:02:54,760 --> 00:02:58,680
+Dan klik ik op het blokje en dan klik ik op roze.
+
+50
+00:02:59,320 --> 00:03:00,460
+Wat ga ik dan doen?
+
+51
+00:03:00,700 --> 00:03:07,660
+Dan ga ik die 'aanwijzer raakt kleur' niet op
+nul zetten maar op 'roze'.
+
+52
+00:03:08,240 --> 00:03:13,980
+Dus zo sla ik op in die variabele welke kleur
+er aangeraakt wordt.
+
+53
+00:03:14,000 --> 00:03:18,250
+Je ziet dat een variabele hoeft je helemaal niet
+alleen voor een getal te gebruiken je kan
+
+54
+00:03:18,250 --> 00:03:20,700
+hem ook voor een stukje tekst gebruiken.
+
+55
+00:03:20,700 --> 00:03:24,080
+Eigenlijk net als we bij dat antwoord deden,
+dat is ook een variabele daar zit ook
+
+56
+00:03:24,080 --> 00:03:25,320
+een stukje tekst in.
+
+57
+00:03:25,330 --> 00:03:31,740
+Dus dit is de eerste stap, als ik op roze
+kom als aanwijzer dan stop ik roze in de variabele.
+
+58
+00:03:31,740 --> 00:03:34,650
+Nou ga jij de rest van de kleuren voor mij
+programmeren.
+
+59
+00:03:34,650 --> 00:03:37,070
+Dus rood, paars en groen.
+
+60
+00:03:37,070 --> 00:03:41,430
+Kijk of de aanwijzing de kleur aanraakt en
+als dat zo is stop je
+
+61
+00:03:41,430 --> 00:03:44,020
+de goede kleur in de variabele.
+
+62
+00:03:44,030 --> 00:03:44,739
+Zet hem op!
+

@@ -1,0 +1,60 @@
+1
+00:00:00,690 --> 00:00:01,849
+Kijk, zo moet het.
+
+2
+00:00:01,849 --> 00:00:07,500
+Je hebt iedere keer een 'als' blokje en per
+kleur, bijvoorbeeld hier heb ik 'raak ik groen'
+
+3
+00:00:07,500 --> 00:00:11,440
+dan schrijf je groen en 'raak ik paars' dan
+raak je paars en raak je rood
+
+4
+00:00:11,440 --> 00:00:13,700
+dan schrijf je rood.
+
+5
+00:00:13,719 --> 00:00:14,809
+Helemaal niet zo lastig.
+
+6
+00:00:14,809 --> 00:00:18,781
+Ik hoop wel dat je onthouden hebt dat je ook
+kopietjes kunt maken van die blokjes en dat
+
+7
+00:00:18,790 --> 00:00:22,350
+je ze niet allemaal erop gesleept hebt want
+dat was natuurlijk een beetje veel moeite.
+
+8
+00:00:22,350 --> 00:00:25,720
+Nu is het tijd voor je volgende programmeer
+opdracht.
+
+9
+00:00:25,720 --> 00:00:30,860
+Wat jij gaat doen is, Karel laten reageren
+op de kleuren.
+
+10
+00:00:30,860 --> 00:00:36,719
+Dus bij een goed antwoord en de aanwijzer
+op roze staat, krijgt de speler twee punten
+
+11
+00:00:36,719 --> 00:00:39,929
+en bij alle andere kleuren krijg de speler
+één punt.
+
+12
+00:00:39,929 --> 00:00:41,960
+Dat ga jij helemaal voor mij maken.
+
+13
+00:00:41,960 --> 00:00:43,469
+Ik weet zeker dat het gaat lukken.
+
