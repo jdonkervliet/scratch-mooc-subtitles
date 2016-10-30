@@ -232,7 +232,7 @@ kanten maar op.
 
 52
 00:02:41,800 --> 00:02:47,790
-En een blokje wat je zeker even zou mouten
+En een blokje wat je zeker even zou moeten
 uitproberen is het 'wanneer ik de rand raak,
 
 53
