@@ -71,7 +71,7 @@ Welk blokje heb je nodig als je steeds naar
 beneden wilt gaan?
 
 17
-00:00:49,690 --> 00:00:54,300
+00:00:51,690 --> 00:00:54,300
 Dat is natuurlijk een 'verander y met' blok.
 
 18
