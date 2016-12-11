@@ -94,14 +94,15 @@ helemaal niet door. Weet jij nou hoe je dit
 moet maken, zodat die ladybug ook doorschuift?
 
 20
-00:01:48,990 --> 00:01:53,659
+00:01:48,990 --> 00:01:56,000
 En ik zal je verklappen dat je hebt de goede
-blokjes al, je hoeft ze alleen maar even op
+blokjes al, je hoeft ze alleen maar even op 
+de juiste plek te krijgen.
 
 21
-00:01:53,659 --> 00:02:01,079
-de juiste plek te krijgen. Nou dat is je vast
-gelukt hè? Want je kunt die code van de muur,
+00:01:56,000 --> 00:02:01,079
+Nou dat is je vast gelukt hè? 
+Want je kunt die code van de muur,
 
 22
 00:02:01,079 --> 00:02:06,200
@@ -164,13 +165,14 @@ op links staat, dat ladybug naar links gaat
 en als 'kant' op rechts staat dat ladybug
 
 34
-00:03:15,690 --> 00:03:25,150
+00:03:15,690 --> 00:03:20,100
 naar rechts gaat. Kan jij dat programmeren?
-Nou dat is denk ik wel gelukt, hè? Want die
+
 
 35
-00:03:25,150 --> 00:03:30,070
-'herhaal' blokken en die 'als' blokken die
+00:03:20,100 --> 00:03:30,070
+Nou dat is denk ik wel gelukt, hè? 
+Want die 'herhaal' blokken en die 'als' blokken die
 we daarvoor nodig hebben, die ken jij inmiddels
 
 36
